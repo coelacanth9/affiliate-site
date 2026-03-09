@@ -13,5 +13,49 @@ defaultContentLanguage = 'ja'
 [markup.goldmark.renderer]
   unsafe = true
 
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "terms"
+  name = "利用規約"
+  url = "/terms/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "privacy"
+  name = "プライバシーポリシー"
+  url = "/privacy/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "disclaimer"
+  name = "免責事項"
+  url = "/disclaimer/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "contact"
+  name = "お問い合わせ"
+  url = "/contact/"
+  weight = 5
+
 [params]
   mainSections = ['posts']
+  paginator_pages = "12"
+  darkmode = "dark"
+  description = ""
+
+  [params.post]
+    thumbnail = true
+    noimage = true
+    thumbnail_height = "lg:h-44"
+    thumbnail_width = "lg:w-auto"
+    description = "130"
+
+  [params.widgets]
+    display = true
+    widgets = ["search", "genres", "tags", "recent", "archive"]
