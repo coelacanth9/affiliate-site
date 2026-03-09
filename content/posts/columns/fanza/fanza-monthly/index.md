@@ -3,7 +3,7 @@ date = "2026-03-08T12:00:00+09:00"
 draft = false
 title = "FANZAの月額サービスでエロQOLを爆上げしよう"
 description = "FANZA TVの圧倒的なコスパが最強すぎて違法サイト涙目な話"
-image = "https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-monthly/fanzatv.png"
+image = "fanzatv.png"
 tags = ["コラム"]
 +++
 
@@ -29,7 +29,7 @@ tags = ["コラム"]
 ## どのくらい見れるの？
 
 DMMプレミアム（月額550円）に登録すると、</br>
-・FANZA TVのアダルト作品約2,200本以上</br>
+・FANZA TVのアダルト作品約2,300本以上</br>
 ・DMM TVの一般動画19万本以上</br>
 の両方が見放題になる。エロ動画も一般動画もまとめて、合計月550円だ。
 
@@ -38,7 +38,7 @@ DMMプレミアム（月額550円）に登録すると、</br>
 <div style="display: flex; gap: 16px; justify-content: center; margin: 16px 0; flex-wrap: wrap;">
 <div style="border: 2px solid #f5c400; border-radius: 8px; padding: 16px 24px; text-align: center; flex: 1; min-width: 0;">
 <div style="font-size: 0.9em; margin-bottom: 14px;">DMMプレミアム 月額550円で</div>
-<div style="font-size: 1.3em; font-weight: bold; line-height: 1.8;">一般動画 19万作品以上<br>＋<br>エロ動画 2,200作品以上<br>が見放題</div>
+<div style="font-size: 1.3em; font-weight: bold; line-height: 1.8;">一般動画 19万作品以上<br>＋<br>エロ動画 2,300作品以上<br>が見放題</div>
 </div>
 <div style="display: flex; align-items: center; font-weight: bold; color: var(--card-text-color-tertiary); flex-shrink: 0;">or</div>
 <div style="border: 2px solid #e60033; border-radius: 8px; padding: 16px 24px; text-align: center; flex: 1; min-width: 0;">
