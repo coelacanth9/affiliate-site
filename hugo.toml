@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'  # 後でドメイン取得後に変更
+baseURL = 'https://wagamama-eros.com/'
 languageCode = 'ja'
 title = 'ワガママエロス'
 theme = 'blonde'
