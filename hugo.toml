@@ -44,7 +44,6 @@ defaultContentLanguage = 'ja'
   weight = 5
 
 [params]
-  base_color = "bg-gray-900"
   mainSections = ['posts']
   paginator_pages = "12"
   darkmode = "dark"
