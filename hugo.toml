@@ -44,7 +44,7 @@ defaultContentLanguage = 'ja'
   weight = 5
 
 [params]
-  mainSections = ['posts']
+  mainSections = ['post']
   paginator_pages = "12"
   darkmode = "dark"
   description = ""
