@@ -48,6 +48,7 @@ defaultContentLanguage = 'ja'
   paginator_pages = "12"
   darkmode = "dark"
   description = ""
+  tagslimit = 50
 
   [params.post]
     thumbnail = true

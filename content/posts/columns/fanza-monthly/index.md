@@ -4,7 +4,7 @@ draft = false
 title = "FANZAの月額サービスでエロQOLを爆上げしよう"
 description = "FANZA TVの圧倒的なコスパが最強すぎて違法サイト涙目な話"
 image = "https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-monthly/fanzatv.png"
-tags = ["recommend"]
+tags = ["コラム"]
 +++
 
 <p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
