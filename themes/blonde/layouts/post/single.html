@@ -26,7 +26,11 @@
           </div>
         </aside>
         {{ if .Params.image }}
-        <img class="py-4 mx-auto block" src="{{ .Params.image | absURL }}">
+        {{ $imgSrc := .Params.image }}
+        {{ if not (strings.HasPrefix $imgSrc "http") }}
+          {{ with .Resources.GetMatch .Params.image }}{{ $imgSrc = .RelPermalink }}{{ end }}
+        {{ end }}
+        <img class="py-4 mx-auto block" src="{{ $imgSrc }}">
         {{ end }}
         {{ if and (and (.Site.Params.ad.googleAdSense) (.Site.Params.ad.postTop)) (.Site.Params.ad.adslot) }}
         <ins class="adsbygoogle" style="display:block" data-ad-client="{{.Site.Params.ad.googleAdSense}}"

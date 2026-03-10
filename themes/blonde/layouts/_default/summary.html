@@ -4,7 +4,7 @@
     {{ if .Params.image }}
     <img alt="thumbnail" id="thumb"
         class="{{ .Site.Params.post.thumbnail_width }} {{ .Site.Params.post.thumbnail_height }}"
-        src="{{ .Params.image | relURL }}" />
+        src="{{ if strings.HasPrefix .Params.image "http" }}{{ .Params.image }}{{ else }}{{ with .Resources.GetMatch .Params.image }}{{ .RelPermalink }}{{ end }}{{ end }}" />
     {{ else }}
     {{ if .Site.Params.post.noimage }}
     <img alt="thumbnail" id="thumb"
