@@ -1,0 +1,67 @@
+#age-verify-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.92);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+#age-verify-box {
+  background: #1e1e1e;
+  border: 1px solid #444;
+  border-radius: 12px;
+  padding: 48px 40px;
+  max-width: 420px;
+  width: 90%;
+  text-align: center;
+  color: #fff;
+}
+
+#age-verify-warning {
+  font-size: 0.85rem;
+  color: #aaa;
+  margin-bottom: 12px;
+}
+
+#age-verify-question {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 32px;
+}
+
+#age-verify-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+#age-verify-yes {
+  background: #7b2fbe;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 14px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#age-verify-yes:hover {
+  background: #9b4fde;
+}
+
+#age-verify-no {
+  background: transparent;
+  color: #aaa;
+  border: 1px solid #555;
+  border-radius: 8px;
+  padding: 14px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#age-verify-no:hover {
+  border-color: #aaa;
+  color: #fff;
+}
