@@ -1,5 +1,5 @@
 +++
-date = "2026-03-10T16:21:33+09:00"
+date = "2026-03-11T12:33:19+09:00"
 release_date = "2025/11/20"
 draft = false
 title = "突然のベロキス手マンで乱暴に扱われるほどイッてしまうドM娘を夜行バスで無許可中出し2"
@@ -28,9 +28,9 @@ tags = []
 **管理人コメント：**
 
 
+
 キスされながらイジられるシチュエーションが好きですはい。まあ見知らぬおっさんにそうされて為すが侭なのはAV異世界の標準仕様というしかありませんが、それでも！！これはなんだろうな、無意識に自己を女優さんに投影してしまって興奮してるのかも知れない。謎の興奮があるキス手マン、あ、そうかM男のキス手コキモノが好きだもんな…。<br>
 まあなにはともあれ！笑、痴◯系の総本山とも言うべきナチュラルハイの中でも、シチュエーションを大事にしつつ勢いがある作品だと思いますです。おすすめ。
-
 
 <div style="text-align:center; margin: 24px 0 8px;"><a href="https://video.dmm.co.jp/av/content/?id=1nhdtc00137" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
 
