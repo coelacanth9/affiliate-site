@@ -5,10 +5,12 @@ theme = 'blonde'
 defaultContentLanguage = 'ja'
 
 [taxonomies]
-  actress = 'actresses'
-  genre   = 'genres'
-  maker   = 'makers'
-  tag     = 'tags'
+  actress  = 'actresses'
+  genre    = 'genres'
+  maker    = 'makers'
+  tag      = 'tags'
+  director = 'directors'
+  label    = 'labels'
 
 [markup.goldmark.renderer]
   unsafe = true
