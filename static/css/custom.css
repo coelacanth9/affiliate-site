@@ -1,0 +1,40 @@
+.desc-collapsible {
+  position: relative;
+  max-height: 11.2em;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.desc-collapsible.expanded {
+  max-height: none;
+}
+
+.desc-collapsible:not(.expanded)::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2.5em;
+  background: linear-gradient(transparent, white);
+  pointer-events: none;
+}
+
+.dark .desc-collapsible:not(.expanded)::after {
+  background: linear-gradient(transparent, #1a1a1a);
+}
+
+.desc-toggle {
+  display: block;
+  cursor: pointer;
+  color: #888;
+  background: none;
+  border: none;
+  padding: 2px 0 8px;
+  font-size: 0.85em;
+  margin-left: auto;
+}
+
+.desc-toggle:hover {
+  color: #444;
+}

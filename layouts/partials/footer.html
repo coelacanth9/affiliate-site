@@ -57,6 +57,19 @@
   </script>
   {{ end }}
   <script>
+    document.querySelectorAll('.desc-collapsible').forEach(function(el) {
+      if (el.scrollHeight <= el.clientHeight + 4) return;
+      var btn = document.createElement('button');
+      btn.className = 'desc-toggle';
+      btn.textContent = '▼ 続きを読む';
+      el.insertAdjacentElement('afterend', btn);
+      btn.addEventListener('click', function() {
+        el.classList.toggle('expanded');
+        btn.textContent = el.classList.contains('expanded') ? '▲ 閉じる' : '▼ 続きを読む';
+      });
+    });
+  </script>
+  <script>
     var icon = document.getElementById("icon");
     var icon2 = document.getElementById("icon2");
     // On page load or when changing themes, best to add inline in `head` to avoid FOUC
