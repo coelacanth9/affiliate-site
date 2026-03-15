@@ -1,0 +1,41 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+{{ $cur := $pag.PageNumber }}
+{{ $total := $pag.TotalPages }}
+{{ $btnClass := "mx-1 py-3 px-5 rounded-full block border-0 duration-100 bg-white text-blue-600 hover:bg-gray-400 hover:text-blue-700 dark:bg-warmgray-900 dark:hover:bg-warmgray-700" }}
+{{ $activeClass := "mx-1 py-3 px-5 rounded-full block border-0 bg-blue-600 text-white" }}
+{{ $dotClass := "mx-1 py-3 px-3 text-gray-400 select-none" }}
+<nav aria-label="page navigation">
+    <ul class="flex list-none my-5 p-0 justify-center items-center flex-wrap" style="min-width:420px">
+
+        {{ if $pag.HasPrev }}
+        <li><a href="{{ $pag.Prev.URL }}" rel="prev" class="{{ $btnClass }}">Prev</a></li>
+        {{ else }}
+        <li><span class="{{ $btnClass }} opacity-0 pointer-events-none">Prev</span></li>
+        {{ end }}
+
+        {{ range $pag.Pagers }}
+        {{ $n := .PageNumber }}
+        {{ $isFirst := eq $n 1 }}
+        {{ $isLast := eq $n $total }}
+        {{ $inRange := and (ge $n (sub $cur 2)) (le $n (add $cur 2)) }}
+        {{ if or $isFirst $isLast $inRange }}
+            {{ if eq . $pag }}
+            <li><a href="{{ .URL }}" class="{{ $activeClass }}">{{ $n }}</a></li>
+            {{ else }}
+            <li><a href="{{ .URL }}" class="{{ $btnClass }}">{{ $n }}</a></li>
+            {{ end }}
+        {{ else if or (eq $n (sub $cur 3)) (eq $n (add $cur 3)) }}
+            <li><span class="{{ $dotClass }}">...</span></li>
+        {{ end }}
+        {{ end }}
+
+        {{ if $pag.HasNext }}
+        <li><a href="{{ $pag.Next.URL }}" rel="next" class="{{ $btnClass }}">Next</a></li>
+        {{ else }}
+        <li><span class="{{ $btnClass }} opacity-0 pointer-events-none">Next</span></li>
+        {{ end }}
+
+    </ul>
+</nav>
+{{ end }}

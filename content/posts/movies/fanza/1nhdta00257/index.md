@@ -1,5 +1,5 @@
 +++
-date = "2026-03-11T12:35:27+09:00"
+date = "2026-03-14T16:37:37+09:00"
 release_date = "2012/06/07"
 draft = false
 title = "満員電車で痴●されガニ股でイキ続ける痙攣女 女子校生限定SP"
@@ -8,17 +8,19 @@ image = "https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/1nhdta00257/jacket-
 actresses = ["中野ありさ"]
 genres = ["制服", "女子校生", "放尿・お漏らし"]
 makers = ["ナチュラルハイ"]
-tags = []
+directors = []
 +++
 
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
-
 <p>人気シリーズ「ガニ股でイキ続ける痙攣女」の女子校生バージョン。満員の電車内で痴●される女子校生。突然の痴●に硬直しながらも必死に嫌がる女子校生の手を払いのけ、乳や尻を揉み、手マン、ローターでマ○コを責め、さらには無理矢理手コキや挿入まで。恐怖と望まない興奮で理性が吹き飛んだ女子校生は痙攣しながらガニ股でイキ続ける…。</p>
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
 
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2012/06/07</p>
 <p><strong>女優：</strong><a href="/actresses/中野ありさ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中野ありさ</a></p>
-<p><strong>メーカー：</strong><a href="/makers/ナチュラルハイ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ナチュラルハイ</a></p>
+<p><strong>メーカー：</strong><a href="/makers/naturalhigh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">NATURALHIGH</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/制服/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">制服</a> <a href="/genres/女子校生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女子校生</a> <a href="/genres/放尿お漏らし/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">放尿・お漏らし</a></p>
 </div>
 
@@ -32,8 +34,10 @@ tags = []
 
 
 
+
 ちょっと古いAVですが、管理人が一押しの「中野ありさ」ちゃんが５人目で登場します。
 最初こそイタズラされている事を友達にバレないように声を抑えたりしてて（それがまたいい感じでエロいんですけど）、友達が降りたらもうメチャクチャ。腰ガックガクでおしっこ撒き散らしてイキまくってます。後ろ向きに腰突き出させられてローター当てられて、ビックビクなってくずおれるシーンが最高に抜ける。おすすめです！
+
 
 
 

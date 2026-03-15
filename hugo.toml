@@ -11,6 +11,7 @@ defaultContentLanguage = 'ja'
   tag      = 'tags'
   director = 'directors'
   label    = 'labels'
+  series   = 'series'
 
 [markup.goldmark.renderer]
   unsafe = true

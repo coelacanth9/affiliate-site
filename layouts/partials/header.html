@@ -1,0 +1,69 @@
+<div class="{{ .Site.Params.base_color }} sticky top-0 z-50">
+    <div class="container max-w-screen-xl mr-auto ml-auto">
+        <nav class="flex items-center justify-between flex-wrap {{ .Site.Params.base_color }} p-6">
+            <div class="flex items-center gap-4 text-gray-900 dark:text-white">
+                <a href="/"><span class="font-semibold text-2xl tracking-tight">{{ .Site.Title }}</span></a>
+                {{ $path := .RelPermalink }}
+                <div class="hidden md:flex items-center gap-1">
+                    <a href="/"
+                        class="no-underline px-3 py-1 rounded text-sm font-medium duration-200
+                        {{ if eq $path "/" }}bg-white text-gray-900{{ else }}text-gray-900 dark:text-white hover:opacity-70{{ end }}">
+                        すべて
+                    </a>
+                    <a href="/posts/movies/"
+                        class="no-underline px-3 py-1 rounded text-sm font-medium duration-200
+                        {{ if hasPrefix $path "/posts/movies" }}bg-white text-gray-900{{ else }}text-gray-900 dark:text-white hover:opacity-70{{ end }}">
+                        動画
+                    </a>
+                    <a href="/posts/comics/"
+                        class="no-underline px-3 py-1 rounded text-sm font-medium duration-200
+                        {{ if hasPrefix $path "/posts/comics" }}bg-white text-gray-900{{ else }}text-gray-900 dark:text-white hover:opacity-70{{ end }}">
+                        コミック
+                    </a>
+                </div>
+            </div>
+            <div class="flex md:hidden">
+                <div class="py-2">
+                    <button onclick="toggleDarkMode()" class="focus:outline-none mr-1" aria-label="Darkmode Toggle Button"><i id="icon"
+                            class="icon-moon inline-flex align-middle leading-normal text-lg text-gray-900 dark:text-white"></i></button>
+                    <span class="text-gray-900 dark:text-white">|</span>
+                </div>
+                <button id="hamburgerbtn" class="flex items-center px-3 py-1 text-gray-900 dark:text-white hover:opacity-50" aria-label="Hamburger Button">
+                    <span class="icon-menu text-2xl"></span>
+                </button>
+            </div>
+            <div class="hidden w-full md:flex md:flex-row sm:items-center md:w-auto" id="mobileMenu">
+                <div class="text-sm lg:flex-grow">
+                </div>
+                <div class="navmenu">
+                    {{ range .Site.Menus.main }}
+                    <a href="{{ .URL }}"
+                        class="no-underline duration-200 block mt-4 sm:inline-block sm:mt-0 text-gray-900 dark:text-white hover:opacity-50 mr-4">
+                        {{ .Name }}
+                    </a>
+                    {{ end }}
+                </div>
+                <div class="text-gray-900 dark:text-white invisible md:visible">
+                    <span>|</span>
+                    <button onclick="toggleDarkMode()" class="focus-visible:outline-none" aria-label="Darkmode Toggle Button"><i id="icon2"
+                            class="icon-moon hover:opacity-50 duration-200 inline-flex align-middle leading-normal text-lg ml-2"></i></button>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
+<style>
+    .active {
+        display: block;
+    }
+</style>
+
+<script>
+    let hamburger = document.getElementById('hamburgerbtn');
+
+    let mobileMenu = document.getElementById('mobileMenu');
+
+    hamburger.addEventListener('click', function () {
+        mobileMenu.classList.toggle('active');
+    });
+</script>
