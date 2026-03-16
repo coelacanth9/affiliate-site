@@ -1,5 +1,5 @@
 +++
-date = "2026-03-16T14:49:54+09:00"
+date = "2026-03-16T14:50:53+09:00"
 release_date = "2025年09月15日"
 draft = false
 title = "ド健全メンエス嬢に生中出し本番成功！！"
@@ -34,5 +34,3 @@ labels = ["DOC"]
 **管理人コメント：**
 メンエス系も好きですね。この作品は、最近同人のマンガとかで流行りの、最終的に寝バックでわからせられて、オ”ッイ”っイグゥゥゥっていうやつですね。わかります。良いと思います。
 あとこのシナリオなのか、男優さんの演技なのか、すごいグイグイ行く感じが良いですね。僕もこんな感じで強引に事を運べたら美味しい思いできんかな？夢見すぎ？
-<div style="text-align:center; margin: 24px 0 8px;"><a href="https://click.duga.jp/ppv/doc-2026/48823-01" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#1a6ab8; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DUGAで購入・視聴する →</a></div>
-
