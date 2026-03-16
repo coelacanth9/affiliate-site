@@ -63,4 +63,4 @@ defaultContentLanguage = 'ja'
 
   [params.widgets]
     display = true
-    widgets = ["search", "genres", "tags", "recent", "archive"]
+    widgets = ["search", "genres", "authors", "tags", "recent", "archive"]
