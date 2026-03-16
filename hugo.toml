@@ -6,6 +6,7 @@ defaultContentLanguage = 'ja'
 
 [taxonomies]
   actress  = 'actresses'
+  author   = 'authors'
   genre    = 'genres'
   maker    = 'makers'
   tag      = 'tags'
