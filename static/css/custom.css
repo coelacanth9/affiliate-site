@@ -9,7 +9,7 @@
   max-height: none;
 }
 
-.desc-collapsible:not(.expanded)::after {
+.desc-collapsible.has-toggle:not(.expanded)::after {
   content: '';
   position: absolute;
   bottom: 0;
@@ -20,7 +20,7 @@
   pointer-events: none;
 }
 
-.dark .desc-collapsible:not(.expanded)::after {
+.dark .desc-collapsible.has-toggle:not(.expanded)::after {
   background: linear-gradient(transparent, #1a1a1a);
 }
 

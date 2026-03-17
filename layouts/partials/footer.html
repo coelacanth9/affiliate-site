@@ -62,6 +62,7 @@
       var btn = document.createElement('button');
       btn.className = 'desc-toggle';
       btn.textContent = '▼ 続きを読む';
+      el.classList.add('has-toggle');
       el.insertAdjacentElement('afterend', btn);
       btn.addEventListener('click', function() {
         el.classList.toggle('expanded');
