@@ -7,7 +7,7 @@
   {{ else }}
   <div class="col-span-3 mb-3">
   {{ end }}
-    <h2 class="text-4xl dark:text-white">{{if not .IsHome}}{{ humanize .Title }}{{end}}</h2>
+    <h2 class="text-4xl dark:text-white">{{if not .IsHome}}{{with .Data.Term}}{{ . }}{{else}}{{ humanize $.Title }}{{end}}{{end}}</h2>
     {{if .IsHome}}
     {{.Scratch.Set "Paginator" (.Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) (.Site.Params.paginator_pages) )}}
     {{else}}
