@@ -20,6 +20,11 @@
                         {{ if hasPrefix $path "/posts/comics" }}bg-white text-gray-900{{ else }}text-gray-900 dark:text-white hover:opacity-70{{ end }}">
                         コミック
                     </a>
+                    <a href="/posts/doujin/"
+                        class="no-underline px-3 py-1 rounded text-sm font-medium duration-200
+                        {{ if hasPrefix $path "/posts/doujin" }}bg-white text-gray-900{{ else }}text-gray-900 dark:text-white hover:opacity-70{{ end }}">
+                        同人
+                    </a>
                 </div>
             </div>
             <div class="flex md:hidden">
