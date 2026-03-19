@@ -1,0 +1,9 @@
+<div class="hidden lg:block">
+    {{ $root := . }}
+    {{ with .Site.Params.widgets.left_widgets -}}
+        {{ range $widget := . }}
+            {{ $p := printf "widgets/%s.html" $widget }}
+            {{ partial $p $root }}
+        {{ end }}
+    {{ end }}
+</div>
