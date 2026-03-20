@@ -3,6 +3,7 @@
 {{ define "main" }}
 <div class="grid grid-cols-3 gap-4">
   {{ if .Site.Params.widgets.display }}
+    {{ partial "left_widgets.html" . }}
   <div class="col-span-3 lg:col-span-2 dark:text-white">
     {{ else }}
     <div class="col-span-3 dark:text-white">
