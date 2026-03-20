@@ -63,5 +63,5 @@ defaultContentLanguage = 'ja'
 
   [params.widgets]
     display = true
-    left_widgets = ["digiket_banner", "dmm_banner"]
+    left_widgets = ["dmm_banner", "sidebar_ranking"]
     widgets = ["search", "genres", "authors", "actresses", "tags", "recent", "archive"]
