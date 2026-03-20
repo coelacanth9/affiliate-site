@@ -1,5 +1,5 @@
 +++
-date = "2026-03-16T13:51:39+09:00"
+date = "2026-03-20T12:01:59+09:00"
 release_date = "2026-03-06"
 draft = false
 title = "さきゅドキ！"
@@ -33,6 +33,7 @@ makers = ["ワニマガジン社"]
 series = "さきゅドキ！"
 review_count = 1
 review_average = "5.00"
+tags = []
 +++
 
 <div class="desc-collapsible">《大量加筆修正＆単行本カバー下の描き下ろしショート漫画も完全収録♪》<br>『COMICゼロス』で人気を博したサキュバスシリーズと読み切り2作品を収録！！<br>大量潮噴き＆激しいイキ顔大盛り！！ ドスケベ激交尾職人・fu-taがお届けする最新コミックス！<br><br>よわよわサキュバスのいる性活♪ 『さきゅ！』シリーズ4部作を完全収録！！<br>サキュバスの契約者となった男は、そのサキュバス専属で精の提供者になる……そんな世界。<br>家でも学校でもオフィスでも《食事》を欲しがる彼女たちに抜かれまくる！！ ……はずが、サキュバスちゃんは意外と快楽に弱いようで……？<br><br>その他、fu-ta節炸裂のイキまくり読み切り作品も収録！！<br><br>『ぷれいす・とぅ・びー』<br>年上の元カノと再会。彼女の家に誘われ、酒も入ったら、始まらないはずもなく……。<br><br>『くらっしゅ』<br>少し会わない間にすっかり《大きく》なった年下の幼馴染。その育ったおっぱいで挑発されたら……！！<br><br>〈収録作品〉<br>さきゅ！<br>さきゅ！！<br>さきゅ！！！<br>さきゅとら<br>ぷれいす・とぅ・びー<br>くらっしゅ</div>
@@ -51,4 +52,59 @@ review_average = "5.00"
 <div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6251966%2Fb915awnmg04124%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EADVULVk5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR]FANZAで試し読みする →</a></div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6251966%2Fb915awnmg04124%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+
+<div style="margin:8px 0;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_001.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_002.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_003.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_004.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_005.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_006.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_007.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_008.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_009.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_010.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_011.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_012.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_013.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_014.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_015.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_016.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_017.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_018.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_019.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_020.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_021.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_022.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_023.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_024.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_025.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_026.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_027.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_028.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_029.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_030.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_031.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_032.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_033.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_034.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_035.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_036.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_037.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_038.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_039.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_040.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_041.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_042.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_043.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_044.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_045.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_046.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_047.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_048.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_049.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04124/さきゅドキ！/さきゅドキ！_050.webp" style="display:block; max-width:100%; margin-bottom:8px;">
+</div>
+
+<div style="text-align:center; margin: 24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6251966%2Fb915awnmg04124%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
