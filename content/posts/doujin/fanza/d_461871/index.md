@@ -1,5 +1,5 @@
 +++
-date = "2026-03-18T21:10:39+09:00"
+date = "2026-03-22T08:43:15+09:00"
 release_date = "2024-10-29"
 draft = false
 title = "にぎりうさぎ総集編"
@@ -84,6 +84,11 @@ review_average = "4.80"
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_461871%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
+**管理人コメント：**
+にぎりうさぎ先生も僕の性癖ど真ん中。仕方なく流されて巨根に奥ぶっ潰されてパチパチイキ。
+
+ツンデレキャラが、ちょおいやめっバスン！あっ・・・いぐぅぅうう！なのが良き！
+おっとりむっつりキャラが突かれ過ぎてわけわからんくなってイキ果てるのも良き！
 <div style="margin:8px 0;">
   <img src="https://doujin-assets.dmm.co.jp/digital/comic/d_461871/d_461871jp-001.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
   <img src="https://doujin-assets.dmm.co.jp/digital/comic/d_461871/d_461871jp-002.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
