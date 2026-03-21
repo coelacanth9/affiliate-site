@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:38+09:00"
+date = "2026-03-22T08:31:59+09:00"
 release_date = "2025-12-05"
 draft = false
 title = "メイド教育。ー没落貴族 瑠璃川椿ー（単行本）【デジタル特装版】【FANZA限定版】"
@@ -44,6 +44,11 @@ tags = []
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/巨乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳</a> <a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/羞恥/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">羞恥</a> <a href="/genres/潮吹き/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">潮吹き</a> <a href="/genres/スレンダー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">スレンダー</a> <a href="/genres/美乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">美乳</a> <a href="/genres/単行本/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単行本</a> <a href="/genres/メイド/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">メイド</a> <a href="/genres/ラブh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブ＆H</a> <a href="/genres/着エロ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">着エロ</a> <a href="/genres/お嬢様令嬢/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">お嬢様・令嬢</a></p>
 </div>
 
+**管理人コメント：**
+「悔しイキ」「屈辱イキ」「睨みイキ」「怒りイキ」
+近年稀に見る僕の性癖ど真ん中なきょくちょ先生のマンガ。いやさ、きょくちょ先生に僕の性癖が捻じ曲げられたのかも知れない。
+その中でもメイド教育。は鉄板ですはい。重リピでお世話になっております。
+不本意な状態で感じさせられてイカされるシチュエーションが好きすぎる。きょくちょ先生の、絵がうまい＋感情表現豊かな線と相まって、最高に抜ける。
 <div style="margin:8px 0;">
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b472abnen03677/メイド教育。ー没落貴族 瑠璃川椿ー（単行本）【デジタル特装版】【FANZA限定版】/メイド教育。ー没落貴族 瑠璃川椿ー（単行本）【デジタル特装版】【FANZA限定版】_001.webp" style="display:block; max-width:100%; margin-bottom:8px;">
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b472abnen03677/メイド教育。ー没落貴族 瑠璃川椿ー（単行本）【デジタル特装版】【FANZA限定版】/メイド教育。ー没落貴族 瑠璃川椿ー（単行本）【デジタル特装版】【FANZA限定版】_002.webp" style="display:block; max-width:100%; margin-bottom:8px;">
