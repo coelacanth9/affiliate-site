@@ -1,5 +1,5 @@
 +++
-date = "2026-03-22T21:11:49+09:00"
+date = "2026-03-22T21:13:51+09:00"
 release_date = "2022/10/22"
 draft = false
 title = "【オマンコシンデレラ】ペニスで審査「美オマンコGP・エントリーナンバー1001番」〜美しさと挿入感〜【アクメナビゲート搭載】"
@@ -17,7 +17,7 @@ tags = []
 
 <iframe width="100%" height="215" frameborder="0" allowfullscreen="" src="https://chobit.cc/embed/93nue/evoy51e8?aid=tp1983af"></iframe>
 
-<div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/maniax/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ425573.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/maniax/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ425573.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#0075c2; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
 
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2022/10/22</p>
@@ -30,3 +30,4 @@ tags = []
 **管理人コメント：**
 思ちぽ先生はまじで最強。イってる事をバレないようにというシチュエーションの総本山だと僕は思っております。まじで抜ける。しかもこの「アクメナビゲート」システムが結構良いよ。
 {{< dlsite-recommend >}}
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/maniax/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ425573.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#0075c2; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
