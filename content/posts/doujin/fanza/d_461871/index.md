@@ -1,5 +1,5 @@
 +++
-date = "2026-03-22T08:45:52+09:00"
+date = "2026-03-22T09:12:58+09:00"
 release_date = "2024-10-29"
 draft = false
 title = "にぎりうさぎ総集編"
@@ -66,6 +66,7 @@ description = """これまで支援サイトでのみ描いてきたオリジナ
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_461871/d_461871pl.jpg"
 genres = ["中出し", "制服", "寝取り・寝取られ・NTR", "フェラ", "ぶっかけ", "パイズリ", "男性向け", "成人向け", "陰キャ・地味", "汁/液大量", "アヘ顔", "ネクスト同人大賞2025_ノミネート作品"]
 authors = ["にぎりうさぎ"]
+tags = ["悔しイキ", "睨みイキ"]
 review_count = 41
 review_average = "4.80"
 +++
