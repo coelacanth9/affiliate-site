@@ -1,5 +1,5 @@
 +++
-date = "2026-03-22T21:11:49+09:00"
+date = "2026-03-22T21:13:51+09:00"
 release_date = "2023/11/24"
 draft = false
 title = "「姉に腰のマッサージを頼まれたついでにぼくのマッサージ棒でオマンコ内のマッサージを提案したら別に良…」姉のオマンコ9〜姉弟だから大丈夫〜【アクメナビゲート搭載】"
@@ -17,7 +17,7 @@ tags = []
 
 <iframe width="100%" height="215" frameborder="0" allowfullscreen="" src="https://chobit.cc/embed/cxw7x/1uq4x0l7?aid=tp1983af"></iframe>
 
-<div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/maniax/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ01120460.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/maniax/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ01120460.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#0075c2; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
 
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2023/11/24</p>
@@ -31,3 +31,4 @@ tags = []
 思ちぽ先生最高です。イキながら文句を言うところがめっちゃいい。
 あとこのシリーズ？なのか、意味わからん設定が平和に受け入れられてるのがなんか笑うｗ
 {{< dlsite-recommend >}}
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/maniax/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ01120460.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#0075c2; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
