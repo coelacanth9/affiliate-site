@@ -1,5 +1,5 @@
 +++
-date = "2026-03-22T21:11:49+09:00"
+date = "2026-03-22T21:13:51+09:00"
 release_date = "2021/10/22"
 draft = false
 title = "後輩様は劣等遺伝子殲滅官「先輩、処刑を開始しますね♪」"
@@ -17,7 +17,7 @@ tags = []
 
 <iframe width="100%" height="215" frameborder="0" allowfullscreen="" src="https://chobit.cc/embed/3h03c/a3fi7wvv?aid=tp1983af"></iframe>
 
-<div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/maniax/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ350811.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/maniax/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ350811.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#0075c2; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
 
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2021/10/22</p>
@@ -28,3 +28,4 @@ tags = []
 </div>
 
 {{< dlsite-recommend >}}
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/maniax/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ350811.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#0075c2; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
