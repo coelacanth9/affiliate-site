@@ -1,5 +1,5 @@
 +++
-date = "2026-03-22T20:58:34+09:00"
+date = "2026-03-22T21:11:49+09:00"
 release_date = "2022/10/22"
 draft = false
 title = "【オマンコシンデレラ】ペニスで審査「美オマンコGP・エントリーナンバー1001番」〜美しさと挿入感〜【アクメナビゲート搭載】"
@@ -14,8 +14,6 @@ tags = []
 <div class="desc-collapsible">オマンコシンデレラは誰の手に!この作品は、あなたが審査員となり、女性器に挿入したりしながら女性器を審査する作品となります。セックスというか「審査」なのでしっかりと感触を味わい、内部をチェックしてください。脳に響くオホ声調の我慢喘ぎと共に、ピクピクとお楽しみください。CV:思ちぽ様</div>
 
 <!--more-->
-
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
 
 <iframe width="100%" height="215" frameborder="0" allowfullscreen="" src="https://chobit.cc/embed/93nue/evoy51e8?aid=tp1983af"></iframe>
 
