@@ -10,13 +10,18 @@
     </div>
   </div>
   {{ end }}
-  <div class="container max-w-screen-xl mr-auto ml-auto">
-    <p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}" class="duration-200 hover:opacity-50">{{ .Site.Title }}</a>
-    </p>
-    <p>Powered by <a href="https://gohugo.io/" class="duration-200 hover:opacity-50">Hugo</a>, Theme <a
-        href="https://github.com/opera7133/Blonde" class="duration-200 hover:opacity-50">Blonde</a>.</p>
-    <p>Powered by <a href="https://affiliate.dmm.com/api/" class="duration-200 hover:opacity-50">FANZA Webサービス</a></p>
-    <p><a href="https://click.duga.jp/aff/api/48823-01" target="_blank" class="duration-200 hover:opacity-50">Powered by DUGAウェブサービス</a></p>
+  <div class="container max-w-screen-xl mr-auto ml-auto flex items-center" style="gap: 4rem;">
+    <div>
+      <p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}" class="duration-200 hover:opacity-50">{{ .Site.Title }}</a>
+      </p>
+      <p>Powered by <a href="https://gohugo.io/" class="duration-200 hover:opacity-50">Hugo</a>, Theme <a
+          href="https://github.com/opera7133/Blonde" class="duration-200 hover:opacity-50">Blonde</a>.</p>
+      <p>Powered by <a href="https://affiliate.dmm.com/api/" class="duration-200 hover:opacity-50">FANZA Webサービス</a></p>
+      <p><a href="https://click.duga.jp/aff/api/48823-01" target="_blank" class="duration-200 hover:opacity-50">Powered by DUGAウェブサービス</a></p>
+    </div>
+    <div>
+      <iframe src="https://ad.duga.jp/dynamic/48823/01/" marginwidth="0" marginheight="0" width="600" height="200" border="0" frameborder="0" style="border:none;" scrolling="no"><a href="https://click.duga.jp/48823-01" target="_blank">DUGA</a></iframe>
+    </div>
   </div>
   {{ if .Site.Params.ad.googleAdSense }}
   <script>
