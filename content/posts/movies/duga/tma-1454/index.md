@@ -1,5 +1,5 @@
 +++
-date = "2026-03-26T12:37:03+09:00"
+date = "2026-03-26T13:09:42+09:00"
 release_date = "2017年03月23日"
 draft = false
 title = "土屋あさみ PREMIUM BEST 8時間"
@@ -29,4 +29,39 @@ tags = []
 </video>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://click.duga.jp/ppv/tma-1454/48823-01" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#1a6ab8; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DUGAで購入・視聴する →</a></div>
+
+<div style="margin:8px 0;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0001.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0002.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0003.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0004.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0005.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0006.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0007.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0008.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0009.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0010.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0011.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0012.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0013.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0014.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0015.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0016.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0017.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0018.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0019.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0020.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0021.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0022.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0023.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0024.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0025.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0026.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0027.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0028.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0029.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+  <img src="https://pic.duga.jp/unsecure/tma/1454/cap/0030.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
+</div>
+
+<div style="text-align:center; margin: 24px 0 8px;"><a href="https://click.duga.jp/ppv/tma-1454/48823-01" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#1a6ab8; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DUGAで購入・視聴する →</a></div>
 
