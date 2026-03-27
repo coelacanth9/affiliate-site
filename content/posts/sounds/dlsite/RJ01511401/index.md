@@ -1,5 +1,5 @@
 +++
-date = "2026-03-26T21:32:16+09:00"
+date = "2026-03-27T21:47:28+09:00"
 release_date = "2025/11/25"
 draft = false
 title = "捨て触手さんを拾って可愛がってたら、逆に『可愛がられて』イキ癖ついたザコまんこに仕上げられちゃって、今日もねっとり調教されて脳みそとろとろになる話。"
@@ -21,7 +21,7 @@ tags = []
 
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2025/11/25</p>
-<p><strong>レビュー：</strong>4.50 / 5.00（14件）</p>
+<p><strong>レビュー：</strong>4.50 / 5.00（15件）</p>
 <p><strong>サークル：</strong><a href="/authors/虚色庭園/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">虚色庭園</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/スレンダー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">スレンダー</a> <a href="/genres/触手/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">触手</a> <a href="/genres/つるぺた/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">つるぺた</a> <a href="/genres/着衣/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">着衣</a> <a href="/genres/少女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">少女</a> <a href="/genres/ツルペタ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ツルペタ</a> <a href="/genres/貧乳微乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">貧乳/微乳</a> <a href="/genres/屋外/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">屋外</a></p>
 </div>
