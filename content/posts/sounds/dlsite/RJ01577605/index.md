@@ -1,5 +1,5 @@
 +++
-date = "2026-03-26T21:32:17+09:00"
+date = "2026-03-27T21:47:27+09:00"
 release_date = "2026/03/07"
 draft = false
 title = "けもみみ交尾物語〜異世界の常識 獣人は人間様に尽くすもの〜"
@@ -21,7 +21,7 @@ tags = []
 
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2026/03/07</p>
-<p><strong>レビュー：</strong>4.50 / 5.00（13件）</p>
+<p><strong>レビュー：</strong>4.50 / 5.00（15件）</p>
 <p><strong>サークル：</strong><a href="/authors/虚色庭園/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">虚色庭園</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/パイパン/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイパン</a> <a href="/genres/体格差/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">体格差</a> <a href="/genres/フェラチオ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラチオ</a> <a href="/genres/つるぺた/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">つるぺた</a> <a href="/genres/少女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">少女</a> <a href="/genres/獣耳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">獣耳</a> <a href="/genres/ツルペタ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ツルペタ</a> <a href="/genres/貧乳微乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">貧乳/微乳</a></p>
 </div>
