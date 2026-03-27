@@ -1,5 +1,5 @@
 +++
-date = "2026-03-27T20:32:56+09:00"
+date = "2026-03-27T21:47:26+09:00"
 release_date = "2026/03/08"
 draft = false
 title = "時間停止！快感決壊！女の子の時を止めてめちゃくちゃにしてみたVer2"
@@ -16,6 +16,14 @@ tags = []
 <!--more-->
 
 <a rel="noopener sponsored" href="https://dlaf.jp/aix/dlaf/=/t/i/link/work/aid/tp1983af/id/RJ01578072.html" target="_blank"><img itemprop="image" src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/dlsite-doujin-RJ01578072///img.dlsite.jp/modpub/images2/work/doujin/RJ01579000/RJ01578072_img_main.jpg" alt="" border="0" class="target_type" /></a>
+
+<div class="sample-images" style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0;">
+  <img src="https://img.dlsite.jp/modpub/images2/work/doujin/RJ01579000/RJ01578072_img_smp1.webp" loading="lazy" style="max-width:100%; height:auto;">
+  <img src="https://img.dlsite.jp/modpub/images2/work/doujin/RJ01579000/RJ01578072_img_smp2.webp" loading="lazy" style="max-width:100%; height:auto;">
+  <img src="https://img.dlsite.jp/modpub/images2/work/doujin/RJ01579000/RJ01578072_img_smp3.webp" loading="lazy" style="max-width:100%; height:auto;">
+  <img src="https://img.dlsite.jp/modpub/images2/work/doujin/RJ01579000/RJ01578072_img_smp4.webp" loading="lazy" style="max-width:100%; height:auto;">
+  <img src="https://img.dlsite.jp/modpub/images2/work/doujin/RJ01579000/RJ01578072_img_smp5.webp" loading="lazy" style="max-width:100%; height:auto;">
+</div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://dlaf.jp/aix/dlaf/=/t/n/link/work/aid/tp1983af/id/RJ01578072.html" target="_blank" rel="noopener sponsored" style="display:inline-block; padding: 12px 32px; background:#0075c2; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] DLsiteで購入する →</a></div>
 
