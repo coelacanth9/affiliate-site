@@ -62,6 +62,20 @@
   </script>
   {{ end }}
   <script>
+    document.querySelectorAll('.taxonomy-toggle').forEach(function(btn) {
+      var more = btn.previousElementSibling;
+      btn.addEventListener('click', function() {
+        if (more.style.display === 'none') {
+          more.style.display = '';
+          btn.textContent = btn.dataset.less;
+        } else {
+          more.style.display = 'none';
+          btn.textContent = btn.dataset.more;
+        }
+      });
+    });
+  </script>
+  <script>
     document.querySelectorAll('.desc-collapsible').forEach(function(el) {
       if (el.scrollHeight <= el.clientHeight + 4) return;
       var btn = document.createElement('button');
