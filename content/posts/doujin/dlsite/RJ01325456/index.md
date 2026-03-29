@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:52:05+09:00"
+date = "2026-03-29T13:06:37+09:00"
 release_date = "2025/04/30"
 draft = false
 title = "【スマホ版】種付都市へようこそ【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01326000/RJ01325456_
 genres = ["中出し", "ハーレム", "露出", "ラブラブ・あまあま", "男主人公", "アニメ", "オールハッピー", "ドット"]
 authors = ["meteo.H"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">あなたも種付委員として社会に貢献しませんか?ハッピーでハートフルでハーレムなドット絵シミュレーションゲーム!</div>
@@ -30,6 +30,7 @@ tags = []
 <p><strong>レビュー：</strong>5.00 / 5.00（671件）</p>
 <p><strong>サークル：</strong><a href="/authors/meteoh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">meteo.H</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/ハーレム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ハーレム</a> <a href="/genres/露出/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">露出</a> <a href="/genres/ラブラブあまあま/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブラブ/あまあま</a> <a href="/genres/男主人公/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男主人公</a> <a href="/genres/アニメ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">アニメ</a> <a href="/genres/オールハッピー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">オールハッピー</a> <a href="/genres/ドット/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ドット</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
