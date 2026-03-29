@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:57:22+09:00"
+date = "2026-03-29T13:06:36+09:00"
 release_date = "2025/10/24"
 draft = false
 title = "【スマホ版】SKETCHY MASSAGE【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01407000/RJ01406253_
 genres = ["マッサージ", "おさわり", "アニメ"]
 authors = ["OZ WORKS"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">Live2Dでぬるぬる動く！直観的で臨場感あふれるマッサージ体験！</div>
@@ -24,6 +24,7 @@ tags = []
 <p><strong>レビュー：</strong>5.00 / 5.00（324件）</p>
 <p><strong>サークル：</strong><a href="/authors/oz-works/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">OZ WORKS</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/マッサージ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">マッサージ</a> <a href="/genres/おさわり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おさわり</a> <a href="/genres/アニメ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">アニメ</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
