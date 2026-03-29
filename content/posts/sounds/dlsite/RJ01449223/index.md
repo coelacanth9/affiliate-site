@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:52:04+09:00"
+date = "2026-03-29T13:06:36+09:00"
 release_date = "2025/11/14"
 draft = false
 title = "【スマホ版】終末のHタワー～最後のハーレム楽園～【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01450000/RJ01449223_
 genres = ["中出し", "パイパン", "ハーレム", "巨乳・爆乳", "和姦", "貧乳・微乳", "男主人公", "同居"]
 authors = ["夜明けデイドリーム"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">終末のタワーでハーレムを作るシミュレーションゲーム！キャラは15名全て攻略可能！エロシーンは30種類以上！</div>
@@ -24,6 +24,7 @@ tags = []
 <p><strong>レビュー：</strong>4.50 / 5.00（68件）</p>
 <p><strong>サークル：</strong><a href="/authors/夜明けデイドリーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">夜明けデイドリーム</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/パイパン/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイパン</a> <a href="/genres/ハーレム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ハーレム</a> <a href="/genres/巨乳爆乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳/爆乳</a> <a href="/genres/和姦/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">和姦</a> <a href="/genres/貧乳微乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">貧乳/微乳</a> <a href="/genres/男主人公/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男主人公</a> <a href="/genres/同居/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">同居</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
