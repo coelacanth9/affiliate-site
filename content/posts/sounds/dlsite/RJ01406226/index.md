@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:52:05+09:00"
+date = "2026-03-29T13:06:38+09:00"
 release_date = "2025/07/18"
 draft = false
 title = "【スマホ版】魔性の少女と…【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01407000/RJ01406226_
 genres = ["処女", "純愛", "巨乳・爆乳", "同棲", "連続絶頂", "日常・生活", "ラブラブ・あまあま", "妊娠・孕ませ"]
 authors = ["まろん☆まろん"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">LIve2Dアニメのぬるぬるエッチが楽しめる！えっちな「同棲生活」シミュレーションゲーム！存在するだけで男を魅了してしまう魔性の少女を逆にあなたがメロメロにしていく！</div>
@@ -24,6 +24,7 @@ tags = []
 <p><strong>レビュー：</strong>5.00 / 5.00（712件）</p>
 <p><strong>サークル：</strong><a href="/authors/まろんまろん/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">まろん☆まろん</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/処女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">処女</a> <a href="/genres/純愛/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">純愛</a> <a href="/genres/巨乳爆乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳/爆乳</a> <a href="/genres/同棲/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">同棲</a> <a href="/genres/連続絶頂/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">連続絶頂</a> <a href="/genres/日常生活/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">日常/生活</a> <a href="/genres/ラブラブあまあま/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブラブ/あまあま</a> <a href="/genres/妊娠孕ませ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">妊娠/孕ませ</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
