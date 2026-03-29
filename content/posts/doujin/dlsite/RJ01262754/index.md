@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T13:03:11+09:00"
+date = "2026-03-29T13:06:34+09:00"
 release_date = "2024/11/29"
 draft = false
 title = "【スマホ版】君が好き。だから、寝取られます。【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01263000/RJ01262754_
 genres = ["中出し", "制服", "黒髪", "学生", "女主人公", "メガネ", "寝取られ", "寝取らせ"]
 authors = ["からあげカンパニー"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">大人しい文学少女が寝取らせに目覚めた彼氏のために不良とHし、優しく報告してくれるアドベンチャー。</div>
@@ -31,6 +31,7 @@ tags = []
 <p><strong>レビュー：</strong>4.50 / 5.00（49件）</p>
 <p><strong>サークル：</strong><a href="/authors/からあげカンパニー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">からあげカンパニー</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/制服/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">制服</a> <a href="/genres/黒髪/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">黒髪</a> <a href="/genres/学生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">学生</a> <a href="/genres/女主人公/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女主人公</a> <a href="/genres/メガネ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">メガネ</a> <a href="/genres/寝取られ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取られ</a> <a href="/genres/寝取らせ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取らせ</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
