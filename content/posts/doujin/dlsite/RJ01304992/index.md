@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T13:03:11+09:00"
+date = "2026-03-29T13:06:34+09:00"
 release_date = "2024/12/11"
 draft = false
 title = "【APK版】出会い電車:始発駅"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01305000/RJ01304992_
 genres = ["制服", "放尿・おしっこ", "命令・無理矢理", "羞恥・恥辱", "おさわり", "秘密さわさわ", "電車", "青姦"]
 authors = ["猫語"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">電車での思いがけない出会い、少女とのひとつひとつのやりとりが心を揺さぶる、甘くてスリリングな出会いの旅。</div>
@@ -34,6 +34,7 @@ tags = []
 <p><strong>レビュー：</strong>4.50 / 5.00（317件）</p>
 <p><strong>サークル：</strong><a href="/authors/猫語/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">猫語</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/制服/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">制服</a> <a href="/genres/放尿おしっこ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">放尿/おしっこ</a> <a href="/genres/命令無理矢理/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">命令/無理矢理</a> <a href="/genres/羞恥恥辱/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">羞恥/恥辱</a> <a href="/genres/おさわり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おさわり</a> <a href="/genres/秘密さわさわ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">秘密さわさわ</a> <a href="/genres/電車/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">電車</a> <a href="/genres/青姦/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">青姦</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
