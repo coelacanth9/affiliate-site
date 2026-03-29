@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:52:04+09:00"
+date = "2026-03-29T13:06:37+09:00"
 release_date = "2025/02/18"
 draft = false
 title = "【スマホ版】ダンジョンズレギオン-魔王に捧ぐ乙女の肢体- Complete Edition【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01260000/RJ01259461_
 genres = ["ファンタジー", "パイズリ", "おっぱい", "巨乳・爆乳", "妊娠・孕ませ", "下着", "悪堕ち", "異種えっち"]
 authors = ["ルナソフト"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">『ダンジョンズレギオン』本編にDLC全5種を収録した完全版がお求めやすい価格で登場!</div>
@@ -36,6 +36,7 @@ tags = []
 <p><strong>レビュー：</strong>5.00 / 5.00（514件）</p>
 <p><strong>サークル：</strong><a href="/authors/ルナソフト/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ルナソフト</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/ファンタジー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ファンタジー</a> <a href="/genres/パイズリ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイズリ</a> <a href="/genres/おっぱい/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おっぱい</a> <a href="/genres/巨乳爆乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳/爆乳</a> <a href="/genres/妊娠孕ませ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">妊娠/孕ませ</a> <a href="/genres/下着/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">下着</a> <a href="/genres/悪堕ち/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">悪堕ち</a> <a href="/genres/異種えっち/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">異種えっち</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
