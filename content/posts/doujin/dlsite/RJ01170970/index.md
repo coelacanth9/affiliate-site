@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:59:55+09:00"
+date = "2026-03-29T13:06:35+09:00"
 release_date = "2025/03/05"
 draft = false
 title = "【スマホ版】時間停止スクール～真面目なアイツは俺のオナホ～【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01171000/RJ01170970_
 genres = ["中出し", "制服", "おっぱい", "フェラチオ", "学生", "屈辱", "時間停止", "日常・生活"]
 authors = ["なぎや本舗"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">【圧倒的差分数と組み合わせで少女は快楽に発狂する!】進学校で生徒会長を務める有栖川凛はある日突然、今まで感じたことの無い快感に襲われた……。学園が舞台の時間停止お触りシミュレーション! お触りシーンはフルアニメーション&フルボイス!</div>
@@ -35,6 +35,7 @@ tags = []
 <p><strong>レビュー：</strong>4.50 / 5.00（665件）</p>
 <p><strong>サークル：</strong><a href="/authors/なぎや本舗/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">なぎや本舗</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/制服/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">制服</a> <a href="/genres/おっぱい/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おっぱい</a> <a href="/genres/フェラチオ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラチオ</a> <a href="/genres/学生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">学生</a> <a href="/genres/屈辱/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">屈辱</a> <a href="/genres/時間停止/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">時間停止</a> <a href="/genres/日常生活/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">日常/生活</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
