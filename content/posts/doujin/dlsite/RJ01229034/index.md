@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:52:05+09:00"
+date = "2026-03-29T13:06:37+09:00"
 release_date = "2025/07/02"
 draft = false
 title = "【スマホ版】催眠メスガキ症候群【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01230000/RJ01229034_
 genres = ["おもちゃ", "ショートカット", "おさわり", "少女", "貧乳・微乳", "きせかえ", "トランス・暗示"]
 authors = ["第46騎士団"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">近所のメ○ガキがうざすぎる!?馬鹿にされ続けた日常にリベンジを!お仕置き催○指導がいま始まる――!!</div>
@@ -31,6 +31,7 @@ tags = []
 <p><strong>レビュー：</strong>4.50 / 5.00（159件）</p>
 <p><strong>サークル：</strong><a href="/authors/第46騎士団/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">第46騎士団</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/おもちゃ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おもちゃ</a> <a href="/genres/ショートカット/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ショートカット</a> <a href="/genres/おさわり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おさわり</a> <a href="/genres/少女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">少女</a> <a href="/genres/貧乳微乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">貧乳/微乳</a> <a href="/genres/きせかえ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">きせかえ</a> <a href="/genres/トランス暗示/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">トランス/暗示</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
