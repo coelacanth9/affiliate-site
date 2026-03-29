@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:48:21+09:00"
+date = "2026-03-29T13:06:39+09:00"
 release_date = "2025/01/01"
 draft = false
 title = "【スマホ版】痴漢は電車の中で【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01172000/RJ01171012_
 genres = ["しつけ", "羞恥・恥辱", "巨乳・爆乳", "おさわり", "秘密さわさわ"]
 authors = ["変態+tick"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">【痴○シミュレーションゲーム】私が痴○されるなんて…</div>
@@ -32,6 +32,7 @@ tags = []
 <p><strong>レビュー：</strong>5.00 / 5.00（679件）</p>
 <p><strong>サークル：</strong><a href="/authors/変態tick/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">変態+tick</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/しつけ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">しつけ</a> <a href="/genres/羞恥恥辱/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">羞恥/恥辱</a> <a href="/genres/巨乳爆乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳/爆乳</a> <a href="/genres/おさわり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おさわり</a> <a href="/genres/秘密さわさわ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">秘密さわさわ</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
