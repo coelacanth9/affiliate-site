@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:52:05+09:00"
+date = "2026-03-29T13:06:37+09:00"
 release_date = "2025/10/17"
 draft = false
 title = "【スマホ版】だらしないクラスメートとまいにちHライフ【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01407000/RJ01406232_
 genres = ["制服", "水着", "アニメ", "ドット", "体操着"]
 authors = ["ティッシュはこ"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">フルドットアニメーションでJKクラスメートとエッチな生活! 性欲が強い女の子をあちこち連れて行き エッチするストーリーモードや [二人の日常]モードで自由に楽しむことができます。</div>
@@ -24,6 +24,7 @@ tags = []
 <p><strong>レビュー：</strong>4.50 / 5.00（158件）</p>
 <p><strong>サークル：</strong><a href="/authors/ティッシュはこ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ティッシュはこ</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/制服/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">制服</a> <a href="/genres/水着/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">水着</a> <a href="/genres/アニメ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">アニメ</a> <a href="/genres/ドット/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ドット</a> <a href="/genres/体操着/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">体操着</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
