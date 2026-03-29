@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:52:05+09:00"
+date = "2026-03-29T13:06:37+09:00"
 release_date = "2025/10/22"
 draft = false
 title = "【スマホ版】しかえしゲエム～射精させないと死ぬデスゲーム～【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01445000/RJ01444995_
 genres = ["中出し", "手コキ", "童貞", "パイズリ", "同級生・同僚", "フェラチオ", "言葉責め", "男主人公"]
 authors = ["ゲームコロン"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">デスゲームで立場逆転!? 命がけのイジメ復讐劇。戦略射精バトルゲーム!</div>
@@ -24,6 +24,7 @@ tags = []
 <p><strong>レビュー：</strong>5.00 / 5.00（176件）</p>
 <p><strong>サークル：</strong><a href="/authors/ゲームコロン/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲームコロン</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/手コキ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">手コキ</a> <a href="/genres/童貞/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">童貞</a> <a href="/genres/パイズリ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイズリ</a> <a href="/genres/同級生同僚/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">同級生/同僚</a> <a href="/genres/フェラチオ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラチオ</a> <a href="/genres/言葉責め/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">言葉責め</a> <a href="/genres/男主人公/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男主人公</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
