@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T13:03:12+09:00"
+date = "2026-03-29T13:06:33+09:00"
 release_date = "2025/06/06"
 draft = false
 title = "【スマホ版】魔法少女ティアシャボン【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01374000/RJ01373831_
 genres = ["中出し", "オナニー", "フェラチオ", "合意なし", "魔法少女", "萌え", "ツクール", "女主人公"]
 authors = ["Twinkle STARs"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">「魔法少女は、絶対負けないんだから……!」ごく普通の女の子、香椎彩葉(かしいいろは)は、ある日偶然にも魔法少女ティアシャボンに変身できるようになる。人を襲う存在であるカゲを浄化するために奮闘するが、この街を狙う陰謀と悪意を少女はまだ知らなかった……。負けたらエッチな目に遭うし、そうでなくても悪い大人に騙されないように戦い、ティアシャボンはこの街を、友達を守ることはできるのか? 可愛くてエッチなデッキ構築型RPG!</div>
@@ -37,6 +37,7 @@ tags = []
 <p><strong>レビュー：</strong>5.00 / 5.00（124件）</p>
 <p><strong>サークル：</strong><a href="/authors/twinkle-stars/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Twinkle STARs</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/オナニー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">オナニー</a> <a href="/genres/フェラチオ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラチオ</a> <a href="/genres/合意なし/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">合意なし</a> <a href="/genres/魔法少女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">魔法少女</a> <a href="/genres/萌え/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">萌え</a> <a href="/genres/ツクール/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ツクール</a> <a href="/genres/女主人公/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女主人公</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
