@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T13:03:12+09:00"
+date = "2026-03-29T13:06:33+09:00"
 release_date = "2026/01/28"
 draft = false
 title = "【スマホ版】くノ一葵～妖術師に刻まれし淫紋～【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01531000/RJ01530163_
 genres = ["中出し", "拘束", "おっぱい", "乳首責め", "色仕掛け", "命令・無理矢理", "女主人公", "くノ一"]
 authors = ["からあげカンパニー"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">淫紋でえっちな体にされちゃったくノ一が、呪いを解くために潜入任務をこなす隠密探索アクション！</div>
@@ -31,6 +31,7 @@ tags = []
 <p><strong>発売日：</strong>2026/01/28</p>
 <p><strong>サークル：</strong><a href="/authors/からあげカンパニー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">からあげカンパニー</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/拘束/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">拘束</a> <a href="/genres/おっぱい/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おっぱい</a> <a href="/genres/乳首責め/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">乳首責め</a> <a href="/genres/色仕掛け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">色仕掛け</a> <a href="/genres/命令無理矢理/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">命令/無理矢理</a> <a href="/genres/女主人公/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女主人公</a> <a href="/genres/くノ一/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">くノ一</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
