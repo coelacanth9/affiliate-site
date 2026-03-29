@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:59:55+09:00"
+date = "2026-03-29T13:06:35+09:00"
 release_date = "2025/02/28"
 draft = false
 title = "【スマホ版】このお嬢様、無知につき【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01317000/RJ01316164_
 genres = ["中出し", "オナニー", "しつけ", "つるぺた", "おさわり", "すやすやえっち", "貧乳・微乳", "日常・生活"]
 authors = ["からあげカンパニー"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">教師の道を諦め、公園で一人佇んでいた主人公。そんな主人公の前に、お嬢様学園に通うお嬢様……鳳エリカが現れる。偶然の出会いによって主人公はエリカの屋敷で、執事兼教育係として雇われることに。</div>
@@ -35,6 +35,7 @@ tags = []
 <p><strong>レビュー：</strong>4.50 / 5.00（594件）</p>
 <p><strong>サークル：</strong><a href="/authors/からあげカンパニー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">からあげカンパニー</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/オナニー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">オナニー</a> <a href="/genres/しつけ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">しつけ</a> <a href="/genres/つるぺた/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">つるぺた</a> <a href="/genres/おさわり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おさわり</a> <a href="/genres/すやすやえっち/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">すやすやえっち</a> <a href="/genres/貧乳微乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">貧乳/微乳</a> <a href="/genres/日常生活/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">日常/生活</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
