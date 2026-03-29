@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T13:03:12+09:00"
+date = "2026-03-29T13:06:33+09:00"
 release_date = "2024/03/08"
 draft = false
 title = "【スマホ版】監禁拘束ヌキ拷問スクール【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01092000/RJ01091231_
 genres = ["パイズリ", "男性受け", "逆転無し", "命令・無理矢理", "着衣", "学校・学園", "逆レ"]
 authors = ["完封抹シャツ"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">落ちこぼれ男子は女子の玩具・・・弄ばれ虐められ懲らしめられ。 卒業するまで快楽○問は続き退学すらも許されない。 射精直後の敏感イキ狂いちんぽ強烈高速猛烈摩擦っ!!!!</div>
@@ -24,6 +24,7 @@ tags = []
 <p><strong>レビュー：</strong>4.50 / 5.00（376件）</p>
 <p><strong>サークル：</strong><a href="/authors/完封抹シャツ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">完封抹シャツ</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/パイズリ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイズリ</a> <a href="/genres/男性受け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性受け</a> <a href="/genres/逆転無し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">逆転無し</a> <a href="/genres/命令無理矢理/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">命令/無理矢理</a> <a href="/genres/着衣/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">着衣</a> <a href="/genres/学校学園/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">学校/学園</a> <a href="/genres/逆レ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">逆レ</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
