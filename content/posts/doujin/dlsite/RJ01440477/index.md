@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:59:55+09:00"
+date = "2026-03-29T13:06:35+09:00"
 release_date = "2025/09/26"
 draft = false
 title = "【スマホ版】シスターズコンパス～妹たちと無人島でラブラブスローライフ～【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01441000/RJ01440477_
 genres = ["中出し", "処女", "ハーレム", "近親もの", "妹", "萌え", "和姦", "ツクール"]
 authors = ["Twinkle STARs"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">長い船旅を抜けると、そこはあなたと妹しかいない無人島だった──！? 兄のことが大好きなお世話系いたいけ妹と、兄のことが大好きな誘い受け系クーデレ妹に迫られながら、四季豊かな無人島群でイチャイチャしまくりスローライフが始まる。 島を探索しながら拠点を大きくしつつ、妹たちとエッチ漬けの日々があなたを待っています。</div>
@@ -36,6 +36,7 @@ tags = []
 <p><strong>レビュー：</strong>5.00 / 5.00（134件）</p>
 <p><strong>サークル：</strong><a href="/authors/twinkle-stars/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Twinkle STARs</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/処女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">処女</a> <a href="/genres/ハーレム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ハーレム</a> <a href="/genres/近親もの/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">近親もの</a> <a href="/genres/妹/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">妹</a> <a href="/genres/萌え/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">萌え</a> <a href="/genres/和姦/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">和姦</a> <a href="/genres/ツクール/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ツクール</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
