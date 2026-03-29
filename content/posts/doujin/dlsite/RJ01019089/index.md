@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:59:55+09:00"
+date = "2026-03-29T13:06:34+09:00"
 release_date = "2024/12/27"
 draft = false
 title = "【スマホ版】セクハラハイスクール【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01020000/RJ01019089_
 genres = ["ギャル", "フェラチオ", "学生", "おさわり", "学校・学園", "ドット", "断面図"]
 authors = ["ハリケーンドットコム"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">教師が朝礼でイカせ合いをしようと言い出した。どちらが先にイクか?価値のあるマンコか? 彼女達はどんどんセクハラされてイカされていく・・・。手描きドット1500枚超でお送りするドットアニメーション作品!おさわりSLGです。</div>
@@ -31,6 +31,7 @@ tags = []
 <p><strong>レビュー：</strong>4.50 / 5.00（211件）</p>
 <p><strong>サークル：</strong><a href="/authors/ハリケーンドットコム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ハリケーンドットコム</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/ギャル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ギャル</a> <a href="/genres/フェラチオ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラチオ</a> <a href="/genres/学生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">学生</a> <a href="/genres/おさわり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おさわり</a> <a href="/genres/学校学園/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">学校/学園</a> <a href="/genres/ドット/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ドット</a> <a href="/genres/断面図/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">断面図</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
