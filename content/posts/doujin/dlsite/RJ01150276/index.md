@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T12:48:21+09:00"
+date = "2026-03-29T13:06:39+09:00"
 release_date = "2024/11/22"
 draft = false
 title = "【スマホ版】メスガキ義妹 負け負け誘惑性活【DL Play Box版】"
@@ -8,7 +8,7 @@ image = "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01151000/RJ01150276_
 genres = ["男性受け", "ざぁ～こ♡", "つるぺた", "おさわり", "妹", "貧乳・微乳", "日常・生活", "ラブラブ・あまあま"]
 authors = ["少女喫茶-KeyTail-"]
 actresses = []
-tags = []
+tags = ["ゲーム"]
 +++
 
 <div class="desc-collapsible">悪戯が大好きな義理の妹と2人きりのエッチな生活を描いたシミュレーションゲーム</div>
@@ -35,6 +35,7 @@ tags = []
 <p><strong>レビュー：</strong>5.00 / 5.00（1,235件）</p>
 <p><strong>サークル：</strong><a href="/authors/少女喫茶-keytail/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">少女喫茶-KeyTail-</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/男性受け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性受け</a> <a href="/genres/ざぁこ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ざぁ～こ♡</a> <a href="/genres/つるぺた/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">つるぺた</a> <a href="/genres/おさわり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おさわり</a> <a href="/genres/妹/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">妹</a> <a href="/genres/貧乳微乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">貧乳/微乳</a> <a href="/genres/日常生活/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">日常/生活</a> <a href="/genres/ラブラブあまあま/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブラブ/あまあま</a></p>
+<p><strong>タグ：</strong><a href="/tags/ゲーム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ゲーム</a></p>
 </div>
 
 {{< dlsite-recommend >}}
