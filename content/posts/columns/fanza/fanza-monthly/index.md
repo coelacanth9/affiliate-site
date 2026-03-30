@@ -12,7 +12,6 @@ tags = ["コラム"]
 
 
 
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
 
 
 ## どのくらい見れるの？
@@ -23,6 +22,8 @@ DMMプレミアム（月額550円）に登録すると、</br>
 の両方が見放題になる。エロ動画も一般動画もまとめて、合計月550円だ。
 
 さらにエロをもっと見たい人は、月額1,078円をプラスしてFANZA TV Plusにすれば、アダルト作品が一気に10万本以上に拡張される。
+
+他の一般専門の動画サブスクに引けを取らないラインナップで、しかもエロまでついてくる。動画サブスクとして最強だと思わないか。
 
 <div style="display: flex; gap: 16px; justify-content: center; margin: 16px 0; flex-wrap: wrap;">
 <div style="border: 2px solid #f5c400; border-radius: 8px; padding: 16px 24px; text-align: center; flex: 1; min-width: 0;">
@@ -36,9 +37,9 @@ DMMプレミアム（月額550円）に登録すると、</br>
 </div>
 </div>
 
-他の一般専門の動画サブスクに引けを取らないラインナップで、しかもエロまでついてくる。動画サブスクとして最強だと思わないか。
 
-しかも今なら2026年3月31日まで、実質月額450円になるキャンペーン中！
+
+![alt text](fanzatv_plus_comparison.png)
 
 ---
 
@@ -49,6 +50,8 @@ DMMプレミアム（月額550円）に登録すると、</br>
 
 ダラダラ探す時間の代わりに、その時間を使って、質が良いことを保証されている作品をじっくり楽しむほうが圧倒的に満足度が高くてしかも安いんだからコスパもタイパも最強。
 
+![alt text](fanza_cospa.png)
+![alt text](fanzatv_variation.png)
 ---
 
 ## まとめ
