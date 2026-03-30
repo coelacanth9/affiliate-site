@@ -63,4 +63,6 @@ FANZAのサブスクにしてから、変なサイトで漁る時間が自然と
 しかし男にとってエロ自体をやめることは難しいのも事実。僕は無理だ。
 だからこそエロ摂取の質を上げるのが重要だと思う！
 
+
+<div style="text-align:center;">↓↓↓　さらに詳しく見てみる（画像をクリック）　↓↓↓</div>
 <div style="display:flex; justify-content:center;"><ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.com/js/banner_placement.js?affiliate_id=tp1983af-002&banner_id=879_300_250"></script></div>
