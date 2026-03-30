@@ -8,9 +8,7 @@ tags = ["コラム"]
 +++
 
 
-
-
-
+<div style="display:flex; justify-content:center;"><ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.com/js/banner_placement.js?affiliate_id=tp1983af-002&banner_id=879_300_250"></script></div>
 
 
 
@@ -45,13 +43,11 @@ DMMプレミアム（月額550円）に登録すると、</br>
 
 ## コスパはどうなの？
 
-
-<div style="text-align:center;"><ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.com/js/banner_placement.js?affiliate_id=tp1983af-002&banner_id=879_300_250"></script></div>
 500円ならコンビニ1回分。1,600円でもちょっとした買い物1回かコンビニ3回分。それ以上に、無料サイトをハシゴして探し回って自分の貴重な時間をすり減らすという『損失』をゼロにできるなら、こんなにコスパの良い投資もないと思う。
 
 ダラダラ探す時間の代わりに、その時間を使って、質が良いことを保証されている作品をじっくり楽しむほうが圧倒的に満足度が高くてしかも安いんだからコスパもタイパも最強。
 
-![](https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-columns-fanza-monthly/fanza_cospa.png)    
+![](https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-columns-fanza-monthly/fanza_cospa.png)
 ![](https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-columns-fanza-monthly/fanzatv_variation.png)
 ---
 
@@ -67,5 +63,4 @@ FANZAのサブスクにしてから、変なサイトで漁る時間が自然と
 しかし男にとってエロ自体をやめることは難しいのも事実。僕は無理だ。
 だからこそエロ摂取の質を上げるのが重要だと思う！
 
-
-<ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.com/js/banner_placement.js?affiliate_id=tp1983af-002&banner_id=1782_300_250"></script>
+<div style="display:flex; justify-content:center;"><ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.com/js/banner_placement.js?affiliate_id=tp1983af-002&banner_id=879_300_250"></script></div>
