@@ -28,12 +28,12 @@ DMMプレミアム（月額550円）に登録すると、</br>
 <div style="display: flex; gap: 16px; justify-content: center; margin: 16px 0; flex-wrap: wrap;">
 <div style="border: 2px solid #f5c400; border-radius: 8px; padding: 16px 24px; text-align: center; flex: 1; min-width: 0;">
 <div style="font-size: 0.9em; margin-bottom: 14px;">DMMプレミアム 月額550円<br>で</div>
-<div style="font-size: 1.3em; font-weight: bold; line-height: 1.8;">一般動画 19万作品以上<br>＋<br>エロ動画 2,300作品以上<br>が見放題</div>
+<div style="font-size: 1.3em; font-weight: bold; line-height: 1.8;">一般動画<br>19万作品以上<br>＋<br>エロ動画<br>2,300作品以上<br>が見放題</div>
 </div>
 <div style="display: flex; align-items: center; font-weight: bold; color: var(--card-text-color-tertiary); flex-shrink: 0;">or</div>
 <div style="border: 2px solid #e60033; border-radius: 8px; padding: 16px 24px; text-align: center; flex: 1; min-width: 0;">
 <div style="font-size: 0.9em; margin-bottom: 14px;">FANZA TV Plus 加入　月額合計1,628円で</div>
-<div style="font-size: 1.3em; font-weight: bold; line-height: 1.8;">一般動画 19万作品以上<br>＋<br>エロ動画 10万作品以上<br>が見放題</div>
+<div style="font-size: 1.3em; font-weight: bold; line-height: 1.8;">一般動画<br>19万作品以上<br>＋<br>エロ動画<br>10万作品以上<br>が見放題</div>
 </div>
 </div>
 
