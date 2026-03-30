@@ -50,7 +50,7 @@ DMMプレミアム（月額550円）に登録すると、</br>
 
 ダラダラ探す時間の代わりに、その時間を使って、質が良いことを保証されている作品をじっくり楽しむほうが圧倒的に満足度が高くてしかも安いんだからコスパもタイパも最強。
 
-![alt text](fanza_cospa.png)
+![alt text](fanza_cospa.png)    
 ![alt text](fanzatv_variation.png)
 ---
 
