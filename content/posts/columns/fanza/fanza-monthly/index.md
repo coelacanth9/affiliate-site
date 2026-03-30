@@ -39,6 +39,8 @@ DMMプレミアム（月額550円）に登録すると、</br>
 
 ![](https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-columns-fanza-monthly/fanzatv_plus_comparison.png)
 
+![](https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-columns-fanza-monthly/image.png)
+
 ---
 
 ## コスパはどうなの？
