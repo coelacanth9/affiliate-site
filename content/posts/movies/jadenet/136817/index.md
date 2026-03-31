@@ -1,5 +1,5 @@
 +++
-date = "2026-03-31T21:21:05+09:00"
+date = "2026-04-01T04:46:28+09:00"
 release_date = "2026/02/25"
 draft = false
 title = "魅せつけ限界御開帳まんこ ～イキすぎて困らせちゃうかも～"
@@ -9,6 +9,7 @@ affiliate_url = "https://track.bannerbridge.net/clickprod.php?adID=2225671&affID
 product_code = "DLPP-283"
 volume = "259"
 label = "Phi"
+video_url = "http://file.p-slum.com/upload/save_image/02271004_69a0edae10ef2.mp4"
 genres = ["素人", "フェチ", "マ○コ", "4Mbps"]
 tags = []
 +++
@@ -16,6 +17,10 @@ tags = []
 <div class="desc-collapsible">こんな近くでおまんこ見たことある？いいよ、好きなだけ見せてあげるいつもは閉じてるエロ肉をまっ赤になるほど広げてクリトリスもビラビラも膣穴もぜ～～んぶ丸見えにしてあげるワタシも興奮してオナニーしちゃうけど1回じゃ満足できないから覚悟してね♥【JADE独占】</div>
 
 <!--more-->
+
+<video controls width="100%" style="max-width:720px; display:block; margin:0 auto 16px;" poster="https://media.jade-net-home.com/media/1/8/136817/jkt2.jpg">
+  <source src="http://file.p-slum.com/upload/save_image/02271004_69a0edae10ef2.mp4" type="video/x-ms-wmv">
+</video>
 
 <a href='https://track.bannerbridge.net/clickprod.php?adID=2225671&affID=116220&siteID=217469' ref='nofollow'><img src='https://track.bannerbridge.net/adgprod.php?adID=2225671&affID=116220&siteID=217469' width='1040' height='700' border='0' alt='' title=''></a>
 
