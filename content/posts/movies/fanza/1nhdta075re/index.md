@@ -1,5 +1,5 @@
 +++
-date = "2026-03-18T11:37:36+09:00"
+date = "2026-04-02T08:22:56+09:00"
 release_date = "2011-02-19"
 draft = false
 title = "接客中に顔を紅潮させながら感じまくるバイト娘 2 〜パン屋、そば屋、中古車販売店、パチンコ店〜"
@@ -13,21 +13,19 @@ series = "接客中に顔を紅潮させながら感じまくるバイト娘"
 labels = ["NATURAL HIGH"]
 review_count = 28
 review_average = "4.32"
-tags = ["痴◯"]
+tags = ["痴◯", "Fanza"]
 +++
 
 <div class="desc-collapsible">身近にいるかわいいバイト娘を接客中にもかかわらず感じさせ、その恥じらいを存分に楽しむシリーズ第2弾。突然客に触られ、驚き、戸惑い…嫌がっていても抵抗できずに身体は硬直。接客しながらも、見えないカウンターの下では男に尻や胸をいじられまくり。そして耐える身体は徐々に興奮していき、男のペースのままにフェラ、そしてファックまで！</div>
 
 <!--more-->
 
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
-
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2011-02-19　<strong>収録時間：</strong>230分　<strong>レビュー：</strong>4.32 / 5.0（28件）</p>
 <p><strong>監督：</strong><a href="/directors/イタカスミスリンパウダー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">イタカ・スミスリンパウダー</a></p>
 <p><strong>メーカー：</strong><a href="/makers/naturalhigh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">NATURALHIGH</a>　<strong>レーベル：</strong><a href="/labels/natural-high/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">NATURAL HIGH</a>　<strong>シリーズ：</strong><a href="/series/接客中に顔を紅潮させながら感じまくるバイト娘/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">接客中に顔を紅潮させながら感じまくるバイト娘</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/職業色々/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">職業色々</a> <a href="/genres/デジモ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">デジモ</a> <a href="/genres/潮吹き/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">潮吹き</a> <a href="/genres/企画/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">企画</a> <a href="/genres/サンプル動画/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">サンプル動画</a></p>
-<p><strong>タグ：</strong><a href="/tags/痴/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">痴◯</a></p>
+<p><strong>タグ：</strong><a href="/tags/痴/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">痴◯</a> <a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;"><iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.dmm.co.jp/litevideo/-/part/=/cid=1nhdta075re/size=720_480/affi_id=tp1983af-002/" scrolling="no" frameborder="0" allowfullscreen></iframe></div>
