@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:41+09:00"
+date = "2026-04-02T08:22:15+09:00"
 release_date = "2019-06-07"
 draft = false
 title = "求愛エトランゼ"
@@ -36,7 +36,7 @@ makers = ["ワニマガジン社"]
 series = "求愛エトランゼ"
 review_count = 127
 review_average = "4.82"
-tags = []
+tags = ["Fanza"]
 +++
 
 <div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F865095%2Fb915awnmg00932%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACV0KUE5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
@@ -52,6 +52,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/ホムンクルス/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ホムンクルス</a></p>
 <p><strong>メーカー：</strong><a href="/makers/ワニマガジン社/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ワニマガジン社</a>　<strong>シリーズ：</strong><a href="/series/求愛エトランゼ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">求愛エトランゼ</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/女子校生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女子校生</a> <a href="/genres/手コキ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">手コキ</a> <a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/クンニ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">クンニ</a> <a href="/genres/美乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">美乳</a> <a href="/genres/単行本/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単行本</a> <a href="/genres/メイド/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">メイド</a> <a href="/genres/処女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">処女</a> <a href="/genres/恋愛/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">恋愛</a> <a href="/genres/ギャル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ギャル</a> <a href="/genres/幼なじみ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">幼なじみ</a> <a href="/genres/女子大生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女子大生</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
