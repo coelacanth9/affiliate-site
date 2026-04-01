@@ -1,5 +1,5 @@
 +++
-date = "2026-03-26T21:13:44+09:00"
+date = "2026-04-02T08:21:53+09:00"
 release_date = "2018-05-24"
 draft = false
 title = "凶悪フェアリーのシコシコ人体実験♪〜快楽射精パラドックス〜"
@@ -78,7 +78,7 @@ CV: 山田じぇみ子
 image = "https://doujin-assets.dmm.co.jp/digital/voice/d_129729/d_129729pl.jpg"
 genres = ["フェラ", "アナル", "オナニー", "ファンタジー", "パイズリ", "男性向け", "成人向け", "デモ・体験版あり", "褐色・日焼け", "エルフ・妖精", "音声付き"]
 authors = ["とらいあんぐる！"]
-tags = []
+tags = ["Fanza"]
 review_count = 2
 review_average = "3.50"
 +++
@@ -91,6 +91,7 @@ review_average = "3.50"
 <p><strong>発売日：</strong>2018-05-24　<strong>ページ数：</strong>6本(約60分)+αページ　<strong>レビュー：</strong>3.50 / 5.0（2件）</p>
 <p><strong>サークル：</strong><a href="/authors/とらいあんぐる/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">とらいあんぐる！</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/アナル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">アナル</a> <a href="/genres/オナニー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">オナニー</a> <a href="/genres/ファンタジー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ファンタジー</a> <a href="/genres/パイズリ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイズリ</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/デモ体験版あり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">デモ・体験版あり</a> <a href="/genres/褐色日焼け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">褐色・日焼け</a> <a href="/genres/エルフ妖精/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">エルフ・妖精</a> <a href="/genres/音声付き/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">音声付き</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_129729%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
