@@ -1,5 +1,5 @@
 +++
-date = "2026-03-21T21:19:41+09:00"
+date = "2026-04-02T08:22:07+09:00"
 release_date = "2024-09-18"
 draft = false
 title = "アマイアイマイー完全版ー"
@@ -29,7 +29,7 @@ makers = ["ワニマガジン社"]
 series = "アマイアイマイー完全版ー"
 review_count = 25
 review_average = "4.72"
-tags = []
+tags = ["Fanza"]
 +++
 
 <div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4576025%2Fb915awnmg02815%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAC1wIV05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
@@ -45,6 +45,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/ごさいじ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ごさいじ</a></p>
 <p><strong>メーカー：</strong><a href="/makers/ワニマガジン社/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ワニマガジン社</a>　<strong>シリーズ：</strong><a href="/series/アマイアイマイー完全版ー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">アマイアイマイー完全版ー</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/制服/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">制服</a> <a href="/genres/女子校生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女子校生</a> <a href="/genres/単行本/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単行本</a> <a href="/genres/カップル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">カップル</a> <a href="/genres/ラブコメ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブコメ</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 {{< fanza-recommend >}}
