@@ -1,5 +1,5 @@
 +++
-date = "2026-03-17T17:37:29+09:00"
+date = "2026-04-02T08:22:58+09:00"
 release_date = "2026-03-14"
 draft = false
 title = "幼馴染冒険者パーティーのお荷物魔法使いオレ 失われた高等魔法スリープを覚えて皆にようやく恩返し！と思ったけど性欲を抑えきれずパーティーメンバーの眠姦孕ませレ◯プに使ってしまう"
@@ -32,6 +32,7 @@ PixivID: 115878510
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_738988/d_738988pl.jpg"
 genres = ["中出し", "寝取り・寝取られ・NTR", "巨乳", "処女", "ファンタジー", "男性向け", "成人向け", "おっぱい", "魔法", "睡眠姦", "寝取り・NTR", "妊娠・孕ませ"]
 authors = ["EchicalH"]
+tags = ["Fanza"]
 review_count = 1
 review_average = "5.00"
 +++
@@ -40,12 +41,11 @@ review_average = "5.00"
 
 <!--more-->
 
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
-
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2026-03-14　<strong>ページ数：</strong>120ページ　<strong>レビュー：</strong>5.00 / 5.0（1件）</p>
 <p><strong>サークル：</strong><a href="/authors/echicalh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">EchicalH</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/寝取り寝取られntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取り・寝取られ・NTR</a> <a href="/genres/巨乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳</a> <a href="/genres/処女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">処女</a> <a href="/genres/ファンタジー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ファンタジー</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/おっぱい/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おっぱい</a> <a href="/genres/魔法/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">魔法</a> <a href="/genres/睡眠姦/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">睡眠姦</a> <a href="/genres/寝取りntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取り・NTR</a> <a href="/genres/妊娠孕ませ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">妊娠・孕ませ</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_738988%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
