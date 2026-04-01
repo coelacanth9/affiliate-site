@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:38+09:00"
+date = "2026-04-02T08:22:18+09:00"
 release_date = "2025-01-25"
 draft = false
 title = "絶頂リフレ 駅前の性感マッサージ店で○○になっちゃう女の子の話 番外編 施術師佐藤の弱点"
@@ -20,7 +20,7 @@ image = "https://ebook-assets.dmm.co.jp/digital/e-book/s166aritr00834/s166aritr0
 authors = ["ぽちたろ"]
 genres = ["OL", "マッサージ・リフレ", "おもちゃ", "単話"]
 makers = ["ライトリーズン"]
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">本作品は同人誌です。<br>※男有り。参戦はしません。<br><br>施術師「佐藤（25）」は凄腕の性感マッサージ師<br>ある日先輩の「佐々木（29）」に呼び止められる。<br>施術の指摘に対して、直す気がなさそうな佐藤に佐々木から直接指導が入り…。<br><br>脱ぎ無し・本番無し・乳首責めのみ。<br>抜き要素はなくキャラ深掘りのお話。<br>短いのでサクッと読む用。<br><br>※ 当サークルの絶対<br>登場する女の子が本当に嫌な事は描きません</div>
@@ -34,6 +34,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/ぽちたろ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ぽちたろ</a></p>
 <p><strong>メーカー：</strong><a href="/makers/ライトリーズン/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ライトリーズン</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/ol/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">OL</a> <a href="/genres/マッサージリフレ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">マッサージ・リフレ</a> <a href="/genres/おもちゃ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おもちゃ</a> <a href="/genres/単話/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単話</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
