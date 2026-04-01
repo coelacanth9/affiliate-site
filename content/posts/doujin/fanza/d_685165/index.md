@@ -1,5 +1,5 @@
 +++
-date = "2026-03-17T19:31:08+09:00"
+date = "2026-04-02T08:22:57+09:00"
 release_date = "2025-11-05"
 draft = false
 title = "DQ2 Inbreeding of Loto’s Bloodline 旅の道中王女2人と種付け交尾の毎日 魔王が先か、孕ませが先か"
@@ -31,6 +31,7 @@ PixivID: 115878510
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_685165/d_685165pl.jpg"
 genres = ["中出し", "寝取り・寝取られ・NTR", "野外・露出", "ファンタジー", "ハーレム", "男性向け", "成人向け", "デモ・体験版あり", "睡眠姦", "妊娠・孕ませ", "お姫様", "従姉妹／いとこ"]
 authors = ["EchicalH"]
+tags = ["Fanza"]
 review_count = 4
 review_average = "4.75"
 +++
@@ -39,12 +40,11 @@ review_average = "4.75"
 
 <!--more-->
 
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
-
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2025-11-05　<strong>ページ数：</strong>100ページ　<strong>レビュー：</strong>4.75 / 5.0（4件）</p>
 <p><strong>サークル：</strong><a href="/authors/echicalh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">EchicalH</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/寝取り寝取られntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取り・寝取られ・NTR</a> <a href="/genres/野外露出/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">野外・露出</a> <a href="/genres/ファンタジー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ファンタジー</a> <a href="/genres/ハーレム/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ハーレム</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/デモ体験版あり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">デモ・体験版あり</a> <a href="/genres/睡眠姦/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">睡眠姦</a> <a href="/genres/妊娠孕ませ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">妊娠・孕ませ</a> <a href="/genres/お姫様/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">お姫様</a> <a href="/genres/従姉妹いとこ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">従姉妹／いとこ</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_685165%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
