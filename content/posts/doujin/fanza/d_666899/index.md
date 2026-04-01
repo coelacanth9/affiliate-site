@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T19:03:46+09:00"
+date = "2026-04-02T08:20:53+09:00"
 release_date = "2025-09-21"
 draft = false
 title = "新しい担任の熟女教師は初恋相手！？昔の約束を果たしてイチャラブHしちゃった話"
@@ -70,7 +70,7 @@ description = """〜29ページ体験版配信中〜
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_666899/d_666899pl.jpg"
 genres = ["中出し", "騎乗位", "フェラ", "潮吹き", "拘束", "女教師", "男性向け", "成人向け", "熟女", "ラブラブ・あまあま", "歳の差", "教師"]
 authors = ["まんまん屋"]
-tags = []
+tags = ["Fanza"]
 review_count = 2
 review_average = "4.50"
 +++
@@ -83,6 +83,7 @@ review_average = "4.50"
 <p><strong>発売日：</strong>2025-09-21　<strong>ページ数：</strong>494ページ　<strong>レビュー：</strong>4.50 / 5.0（2件）</p>
 <p><strong>サークル：</strong><a href="/authors/まんまん屋/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">まんまん屋</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/騎乗位/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">騎乗位</a> <a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/潮吹き/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">潮吹き</a> <a href="/genres/拘束/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">拘束</a> <a href="/genres/女教師/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女教師</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/熟女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">熟女</a> <a href="/genres/ラブラブあまあま/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブラブ・あまあま</a> <a href="/genres/歳の差/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">歳の差</a> <a href="/genres/教師/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">教師</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_666899%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
