@@ -1,5 +1,5 @@
 +++
-date = "2026-03-18T17:21:03+09:00"
+date = "2026-04-02T08:22:42+09:00"
 release_date = "2013-06-15"
 draft = false
 title = "初飲尿ゴックン37発 ありさ"
@@ -13,14 +13,12 @@ series = "初飲尿ゴックン"
 labels = ["M’s video Group"]
 review_count = 5
 review_average = "4.80"
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">身長149cmマゾロリ美少女・ありさが初飲尿に挑戦！正直エグいアンモニア臭に「えｰ！」と困惑！「（グビグビッ…）臭いよぅ♪」非日常な飲尿行為にアソコがグチョグチョに濡れていく！初飲尿インタビュー・飲尿潮吹き中出しSEX・小便＆精子漬け玩具イカセ・浣腸飲尿中出しFUCKの全4篇！精子15発・小便20発・中出し2発を小さいカラダで飲み干す！</div>
 
 <!--more-->
-
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
 
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2013-06-15　<strong>収録時間：</strong>147分　<strong>レビュー：</strong>4.80 / 5.0（5件）</p>
@@ -28,6 +26,7 @@ tags = []
 <p><strong>監督：</strong><a href="/directors/テキラティーノ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">テキラティーノ</a></p>
 <p><strong>メーカー：</strong><a href="/makers/エムズビデオグループ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">エムズビデオグループ</a>　<strong>レーベル：</strong><a href="/labels/ms-video-group/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">M’s video Group</a>　<strong>シリーズ：</strong><a href="/series/初飲尿ゴックン/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">初飲尿ゴックン</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/ハイビジョン/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ハイビジョン</a> <a href="/genres/独占配信/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">独占配信</a> <a href="/genres/デジモ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">デジモ</a> <a href="/genres/単体作品/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単体作品</a> <a href="/genres/美少女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">美少女</a> <a href="/genres/潮吹き/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">潮吹き</a> <a href="/genres/ごっくん/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ごっくん</a> <a href="/genres/浣腸/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">浣腸</a> <a href="/genres/飲尿/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">飲尿</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;"><iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.dmm.co.jp/litevideo/-/part/=/cid=mvsd00201/size=720_480/affi_id=tp1983af-002/" scrolling="no" frameborder="0" allowfullscreen></iframe></div>
