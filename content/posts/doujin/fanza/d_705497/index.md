@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T19:03:46+09:00"
+date = "2026-04-02T08:20:51+09:00"
 release_date = "2025-12-06"
 draft = false
 title = "バ先の美人客は隣部屋の人妻熟女〜夫の出張中に朝まで種付けセックスしちゃった話〜"
@@ -133,7 +133,7 @@ description = """〜20ページ体験版配信中〜
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_705497/d_705497pl.jpg"
 genres = ["中出し", "フェラ", "ごっくん", "人妻・主婦", "男性向け", "成人向け", "後背位／バック", "正常位", "熟女", "ショートカット", "口内射精", "歳の差"]
 authors = ["まんまん屋"]
-tags = []
+tags = ["Fanza"]
 review_count = 2
 review_average = "5.00"
 +++
@@ -146,6 +146,7 @@ review_average = "5.00"
 <p><strong>発売日：</strong>2025-12-06　<strong>ページ数：</strong>300ページ　<strong>レビュー：</strong>5.00 / 5.0（2件）</p>
 <p><strong>サークル：</strong><a href="/authors/まんまん屋/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">まんまん屋</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/ごっくん/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ごっくん</a> <a href="/genres/人妻主婦/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">人妻・主婦</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/後背位バック/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">後背位／バック</a> <a href="/genres/正常位/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">正常位</a> <a href="/genres/熟女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">熟女</a> <a href="/genres/ショートカット/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ショートカット</a> <a href="/genres/口内射精/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">口内射精</a> <a href="/genres/歳の差/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">歳の差</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_705497%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
