@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:38+09:00"
+date = "2026-04-02T08:22:22+09:00"
 release_date = "2018-09-22"
 draft = false
 title = "隣の家の彼女"
@@ -14,7 +14,7 @@ image = "https://ebook-assets.dmm.co.jp/digital/e-book/b579abbl00862/b579abbl008
 authors = ["コミックバベル編集部", "関谷あさみ"]
 genres = ["処女", "ラブ＆H", "ミニ系・小柄", "小柄", "水着", "単話"]
 makers = ["文苑堂"]
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">久し振りに会った彼女は妙に大人びていた─<br>とある夏の昼下がり、隣りに住む年下の幼馴染み・梗子を家へと招くこととなった主人公の道（みち）。<br>家には親は出かけてしまい梗子と主人公のみだが、どこかぎこちない。<br>道は正月に梗子にキスをした際、嫌われたと勘違いして自然と避けるようになってしまっていた。<br>そんな道に彼女は勘違いであることを伝えると、二人は再び唇を重ねる。<br>そして、あの時できなかった‘キスのその先’まで経験することになって…。<br>熱く蕩けるひと夏の経験…年下幼馴染みとの恥じらい初めてH！</div>
@@ -28,6 +28,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/コミックバベル編集部/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">コミックバベル編集部</a> <a href="/authors/関谷あさみ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">関谷あさみ</a></p>
 <p><strong>メーカー：</strong><a href="/makers/文苑堂/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">文苑堂</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/処女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">処女</a> <a href="/genres/ラブh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブ＆H</a> <a href="/genres/ミニ系小柄/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ミニ系・小柄</a> <a href="/genres/小柄/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">小柄</a> <a href="/genres/水着/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">水着</a> <a href="/genres/単話/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単話</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
