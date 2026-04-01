@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:38+09:00"
+date = "2026-04-02T08:22:21+09:00"
 release_date = "2026-03-13"
 draft = false
 title = "恋は読むものサカるもの"
@@ -12,7 +12,7 @@ image = "https://ebook-assets.dmm.co.jp/digital/e-book/k568agotp12119/k568agotp1
 authors = ["ちぃずオレ"]
 genres = ["中出し", "美乳", "処女", "小柄", "先行販売", "独占販売", "単話"]
 makers = ["ジーオーティー"]
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">書店で働く直木は、声もカラダも小さい同僚の小森さんのことが少し気になっていた。<br>そんなある日、休憩室に入った直木は机の上に置かれていた書きかけの原稿用紙を見つける。<br>ふと読んでしまったその原稿に直木は心奪われるが、それを見た小森さんが急に狼狽し始めて―？<br><br>GOT漫画大賞受賞作家・ちぃずオレ先生が贈る、体の奥まで沁みる職場H♪</div>
@@ -26,6 +26,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/ちぃずオレ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ちぃずオレ</a></p>
 <p><strong>メーカー：</strong><a href="/makers/ジーオーティー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ジーオーティー</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/美乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">美乳</a> <a href="/genres/処女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">処女</a> <a href="/genres/小柄/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">小柄</a> <a href="/genres/先行販売/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">先行販売</a> <a href="/genres/独占販売/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">独占販売</a> <a href="/genres/単話/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単話</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">

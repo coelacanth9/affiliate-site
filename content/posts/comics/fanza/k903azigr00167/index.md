@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:38+09:00"
+date = "2026-04-02T08:22:19+09:00"
 release_date = "2024-10-30"
 draft = false
 title = "エルフ教育。ー亡国のミストー"
@@ -18,7 +18,7 @@ image = "https://ebook-assets.dmm.co.jp/digital/e-book/k903azigr00167/k903azigr0
 authors = ["きょくちょ", "Ziggurat編集部"]
 genres = ["中出し", "淫乱・ハード系", "辱め", "美少女", "拘束", "パイパン", "美乳", "指マン", "ファンタジー", "お嬢様・令嬢", "単話"]
 makers = ["Ziggurat"]
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">※※本作品の漫画部分は同人誌として発行された物と同じ内容です※※<br><br>悠久を生きる『エルフ』に刻み込まれる絶頂『教育』…『メイド教育』のきょくちょが描くファン待望の新シリーズ登場！！<br><br>栄華を極めたエルフ国は『人間』に滅ぼされた…。<br>囚われの身となったエルフの女王・ミストは、常軌を逸した人の王・レックスの狂愛により拘束され嬲られるが、‘魔力’で守られているので余裕の笑み…。しかしレックスの卑劣な企みにより『快楽』という未知の感覚を植えつけられていく…！<br><br>何事にも動じず、圧倒的であった女王ミストの顔が淫靡に歪む時、狂王レックスの本当の『教育』が幕を開ける…！！！<br><br>さらに電子版限定でノンクレジット表紙を収録！<br>囚われた純白ドレス姿の気高きエルフちゃんの痴態をご堪能あれ♪</div>
@@ -32,6 +32,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/きょくちょ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">きょくちょ</a> <a href="/authors/ziggurat編集部/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Ziggurat編集部</a></p>
 <p><strong>メーカー：</strong><a href="/makers/ziggurat/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Ziggurat</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/淫乱ハード系/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">淫乱・ハード系</a> <a href="/genres/辱め/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">辱め</a> <a href="/genres/美少女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">美少女</a> <a href="/genres/拘束/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">拘束</a> <a href="/genres/パイパン/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイパン</a> <a href="/genres/美乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">美乳</a> <a href="/genres/指マン/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">指マン</a> <a href="/genres/ファンタジー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ファンタジー</a> <a href="/genres/お嬢様令嬢/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">お嬢様・令嬢</a> <a href="/genres/単話/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単話</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
