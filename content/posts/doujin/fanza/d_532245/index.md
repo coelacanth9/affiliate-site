@@ -1,5 +1,5 @@
 +++
-date = "2026-03-17T17:37:29+09:00"
+date = "2026-04-02T08:22:57+09:00"
 release_date = "2026-03-05"
 draft = false
 title = "操作系チート能力に覚醒したメタボおじさんが最強スマホで美少女種付け性活"
@@ -80,6 +80,7 @@ AIイラストの特性上、矛盾した場面（服装や髪型・体型など
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_532245/d_532245pl.jpg"
 genres = ["中出し", "巨乳", "フェラ", "処女", "男性向け", "成人向け", "種付けプレス", "体格差", "陰毛・腋毛", "常識改変", "デモ・体験版あり", "黒髪"]
 authors = ["竿役が種付けおじさんじゃないとヌケないんだが・・・"]
+tags = ["Fanza"]
 review_count = 6
 review_average = "4.67"
 +++
@@ -88,12 +89,11 @@ review_average = "4.67"
 
 <!--more-->
 
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
-
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2026-03-05　<strong>ページ数：</strong>215ページ　<strong>レビュー：</strong>4.67 / 5.0（6件）</p>
 <p><strong>サークル：</strong><a href="/authors/竿役が種付けおじさんじゃないとヌケないんだが/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">竿役が種付けおじさんじゃないとヌケないんだが・・・</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/巨乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳</a> <a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/処女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">処女</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/種付けプレス/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">種付けプレス</a> <a href="/genres/体格差/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">体格差</a> <a href="/genres/陰毛腋毛/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">陰毛・腋毛</a> <a href="/genres/常識改変/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">常識改変</a> <a href="/genres/デモ体験版あり/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">デモ・体験版あり</a> <a href="/genres/黒髪/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">黒髪</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_532245%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
