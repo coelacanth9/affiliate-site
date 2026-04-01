@@ -1,5 +1,5 @@
 +++
-date = "2026-03-21T21:19:40+09:00"
+date = "2026-04-02T08:22:08+09:00"
 release_date = "2020-04-20"
 draft = false
 title = "同人作家はコスプレえっちの夢を見るか"
@@ -15,7 +15,7 @@ makers = ["ジーオーティー"]
 series = "同人作家はコスプレえっちの夢を見るか"
 review_count = 9
 review_average = "4.78"
-tags = []
+tags = ["Fanza"]
 +++
 
 <div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F929214%2Fdmmmg_1844%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxcXlsLUD5UDgIEFRdRDRIKAlsCXkQEDW9bCVkKHkwEUlBaTwlaCFgH%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
@@ -31,6 +31,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/ごさいじ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ごさいじ</a></p>
 <p><strong>メーカー：</strong><a href="/makers/ジーオーティー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ジーオーティー</a>　<strong>シリーズ：</strong><a href="/series/同人作家はコスプレえっちの夢を見るか/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">同人作家はコスプレえっちの夢を見るか</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/コスプレ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">コスプレ</a> <a href="/genres/童貞/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">童貞</a> <a href="/genres/パイズリ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイズリ</a> <a href="/genres/単話/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単話</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
