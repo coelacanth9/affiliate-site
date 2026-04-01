@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:38+09:00"
+date = "2026-04-02T08:22:24+09:00"
 release_date = "2016-10-05"
 draft = false
 title = "REM"
@@ -9,7 +9,7 @@ image = "https://ebook-assets.dmm.co.jp/digital/e-book/b801alijt00066/b801alijt0
 authors = ["関谷あさみ"]
 genres = ["単話"]
 makers = ["茜新社"]
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">お嬢様学校の教え子はいつも寝不足気味？<br>ベッドでスヤスヤ寝ている子のパンツをおろして…。</div>
@@ -23,6 +23,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/関谷あさみ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">関谷あさみ</a></p>
 <p><strong>メーカー：</strong><a href="/makers/茜新社/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">茜新社</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/単話/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単話</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
