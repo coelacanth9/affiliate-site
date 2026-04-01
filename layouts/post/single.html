@@ -4,10 +4,14 @@
 <div class="grid gap-4" style="grid-template-columns: auto 2fr 1fr;">
   {{ if .Site.Params.widgets.display }}
     {{ partial "left_widgets.html" . }}
-  <div class="dark:text-white">
+    {{ if .Params.nowidgets }}
+    <div class="dark:text-white" style="grid-column: 2 / -1;">
     {{ else }}
+    <div class="dark:text-white">
+    {{ end }}
+  {{ else }}
     <div class="dark:text-white" style="grid-column: 1 / -1;">
-      {{ end }}
+  {{ end }}
       <div class="bg-white dark:bg-warmgray-900 p-5 my-4">
         <h1 class="mb-2 text-4xl font-bold">{{.Title}}</h1>
         <aside id="meta">
@@ -40,6 +44,18 @@
         <script>
           (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
+        {{ end }}
+        {{ if .Params.toc }}
+        <div class="toc bg-gray-50 dark:bg-warmgray-800 p-4 my-4 rounded">
+          <style>
+            .toc a { color: #3b82f6; }
+            .toc a:hover { text-decoration: underline; }
+            .toc ul { list-style: disc; padding-left: 1.25rem; }
+            .toc li { margin: 0.25rem 0; }
+          </style>
+          <p class="font-bold mb-2">目次</p>
+          {{ .TableOfContents }}
+        </div>
         {{ end }}
         <div class="prose md:prose-lg lg:prose-xl max-w-none dark:prose-invert mt-5">{{.Content}}</div>
         {{ if and (and (.Site.Params.ad.googleAdSense) (.Site.Params.ad.postBottom)) (.Site.Params.ad.adslot) }}
@@ -91,7 +107,7 @@
         </div>
       </div>
     </div>
-    {{ if .Site.Params.widgets.display }}
+    {{ if and .Site.Params.widgets.display (not .Params.nowidgets) }}
     {{ partial "widgets.html" . }}
     {{ end }}
   </div>
