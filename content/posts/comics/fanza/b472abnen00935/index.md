@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:38+09:00"
+date = "2026-04-02T08:22:23+09:00"
 release_date = "2021-04-22"
 draft = false
 title = "メタモルフォーゼ"
@@ -8,7 +8,7 @@ image = "https://ebook-assets.dmm.co.jp/digital/e-book/b472abnen00935/b472abnen0
 authors = ["コミックバベル編集部", "関谷あさみ"]
 genres = ["中出し", "フェラ", "美少女", "コスプレ", "クンニ", "ラブ＆H", "ミニ系・小柄", "ネコミミ・獣系", "単話"]
 makers = ["文苑堂"]
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">大学生になって念願のオタクサークルに入った主人公は、充実したオタク生活を送っていた。その理由の一つは、同級生の美女・久我さんと友達になれたこと…そして、彼女の妹・琴都ちゃんと付き合っていること。主人公と同じオタクで理解もある彼女は、コスプレだってしてくれてなりきりプレイまで！？ ピュアラブエロスの巨匠・関谷あさみが贈る、萌え死に不可避なラブラブエッチ♪</div>
@@ -22,6 +22,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/コミックバベル編集部/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">コミックバベル編集部</a> <a href="/authors/関谷あさみ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">関谷あさみ</a></p>
 <p><strong>メーカー：</strong><a href="/makers/文苑堂/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">文苑堂</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/美少女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">美少女</a> <a href="/genres/コスプレ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">コスプレ</a> <a href="/genres/クンニ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">クンニ</a> <a href="/genres/ラブh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブ＆H</a> <a href="/genres/ミニ系小柄/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ミニ系・小柄</a> <a href="/genres/ネコミミ獣系/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ネコミミ・獣系</a> <a href="/genres/単話/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単話</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
