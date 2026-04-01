@@ -1,5 +1,5 @@
 +++
-date = "2026-03-17T19:31:08+09:00"
+date = "2026-04-02T08:22:57+09:00"
 release_date = "2025-10-16"
 draft = false
 title = "ホロえっちvol.1 Azki 媚薬マスターオレ バ先のVtuber事務所がまさかのホロライブw  あずきち発情させて堕とす"
@@ -27,6 +27,7 @@ PixivID: 115878510
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_658919/d_658919pl.jpg"
 genres = ["中出し", "巨乳", "パンチラ", "男性向け", "成人向け", "おっぱい", "種付けプレス", "オフィス・職場", "VTuber", "後背位／バック", "正常位", "お尻・ヒップ"]
 authors = ["EchicalH"]
+tags = ["Fanza"]
 review_count = 2
 review_average = "5.00"
 +++
@@ -35,12 +36,11 @@ review_average = "5.00"
 
 <!--more-->
 
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
-
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2025-10-16　<strong>ページ数：</strong>74ページ　<strong>レビュー：</strong>5.00 / 5.0（2件）</p>
 <p><strong>サークル：</strong><a href="/authors/echicalh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">EchicalH</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/巨乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳</a> <a href="/genres/パンチラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パンチラ</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/おっぱい/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おっぱい</a> <a href="/genres/種付けプレス/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">種付けプレス</a> <a href="/genres/オフィス職場/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">オフィス・職場</a> <a href="/genres/vtuber/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">VTuber</a> <a href="/genres/後背位バック/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">後背位／バック</a> <a href="/genres/正常位/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">正常位</a> <a href="/genres/お尻ヒップ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">お尻・ヒップ</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_658919%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
