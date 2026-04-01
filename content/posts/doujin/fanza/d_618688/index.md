@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T19:03:46+09:00"
+date = "2026-04-02T08:21:14+09:00"
 release_date = "2025-06-27"
 draft = false
 title = "隣の部屋に彼女が居るのに彼女の母親と囁きセックス娘のためにと言いながら娘の婚約者を寝取る母親"
@@ -135,7 +135,7 @@ description = """トラックリスト
 image = "https://doujin-assets.dmm.co.jp/digital/voice/d_618688/d_618688pl.jpg"
 genres = ["中出し", "フェラ", "クンニ", "男性向け", "成人向け", "バイノーラル", "寝取られ・NTR", "ささやき"]
 authors = ["しゃぶり〜ぜ"]
-tags = []
+tags = ["Fanza"]
 review_count = 1
 review_average = "3.00"
 +++
@@ -148,6 +148,7 @@ review_average = "3.00"
 <p><strong>発売日：</strong>2025-06-27　<strong>ページ数：</strong>3本 (約34分)+αページ　<strong>レビュー：</strong>3.00 / 5.0（1件）</p>
 <p><strong>サークル：</strong><a href="/authors/しゃぶりぜ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">しゃぶり〜ぜ</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/クンニ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">クンニ</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/バイノーラル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">バイノーラル</a> <a href="/genres/寝取られntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取られ・NTR</a> <a href="/genres/ささやき/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ささやき</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_618688%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
