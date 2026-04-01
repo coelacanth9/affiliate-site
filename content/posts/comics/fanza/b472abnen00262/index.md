@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:37+09:00"
+date = "2026-04-02T08:22:29+09:00"
 release_date = "2018-12-21"
 draft = false
 title = "らぶりー 【FANZA限定】【デジタル特装版】"
@@ -16,7 +16,7 @@ image = "https://ebook-assets.dmm.co.jp/digital/e-book/b472abnen00262/b472abnen0
 authors = ["きょくちょ", "コミックバベル編集部"]
 genres = ["3P・4P", "クンニ", "単行本", "カップル", "デジタル特装版", "ツンデレ", "バイブ"]
 makers = ["文苑堂"]
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">可愛すぎる美少女達が奏でる強●連続ラブ絶頂ッ！ 究極のトロイキ顏マスター、きょくちょが放つファン待望の処女コミックスがついに解禁っ！！<br><br>激カワ巨乳双子ちゃんに天然プニギャルちゃん、さらにむっつりスケベちゃんに奥手ウブっコちゃん、徹底無口ちゃん…etcと、様々なジャンルのエロカワ乙女が、赤面し瞳いっぱいに涙を溜めつつ悶絶イキまくる姿は、股間直撃暴発間違いなしっ！！<br><br>絶頂好きも、そうじゃないアナタも、絶対に満足させるエロコミックをぜひご堪能あれッ！！<br><br>さらに、FANZA限定特典として超美麗ピンナップを2枚収録っ！ どっちかなんて選べない！？ はだけた制服姿のラブリーツインズとプリティーヒップで誘惑しちゃう小生意気ギャルのイラストを付属！ FANZA限定のスペシャル版をぜひお求めください！<br><br>そして、特装版の本作には超激レア！ 単行本未収録のデビュー作『Maiden Breed』を収録！ メイド養成学校で繰り広げられる、エッチな試練にヒロインちゃんは耐えられるのか！？ ファン垂涎の本作を見逃すな！</div>
@@ -30,6 +30,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/きょくちょ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">きょくちょ</a> <a href="/authors/コミックバベル編集部/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">コミックバベル編集部</a></p>
 <p><strong>メーカー：</strong><a href="/makers/文苑堂/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">文苑堂</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/3p4p/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">3P・4P</a> <a href="/genres/クンニ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">クンニ</a> <a href="/genres/単行本/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単行本</a> <a href="/genres/カップル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">カップル</a> <a href="/genres/デジタル特装版/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">デジタル特装版</a> <a href="/genres/ツンデレ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ツンデレ</a> <a href="/genres/バイブ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">バイブ</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
