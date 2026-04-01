@@ -1,5 +1,5 @@
 +++
-date = "2026-03-18T17:21:04+09:00"
+date = "2026-04-02T08:22:35+09:00"
 release_date = "2011-08-12"
 draft = false
 title = "いけない女子校生 ありさ"
@@ -13,20 +13,19 @@ series = "いけない女子校生"
 labels = ["GLAY’z IMPACT"]
 review_count = 4
 review_average = "3.50"
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">ありさは見かけはごく普通の女子校生。しかし裏ではクラブに出入りしたり、万引きしたり、援交などをしてお小遣いを稼いだりしているいけない女子校生だった。そんなありさにお仕置きと称し大人たちが…。</div>
 
 <!--more-->
 
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
-
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2011-08-12　<strong>収録時間：</strong>118分　<strong>レビュー：</strong>3.50 / 5.0（4件）</p>
 <p><strong>女優：</strong><a href="/actresses/ありさ中野ありさ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ありさ（中野ありさ）</a></p>
 <p><strong>メーカー：</strong><a href="/makers/ミスターインパクト/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ミスター・インパクト</a>　<strong>レーベル：</strong><a href="/labels/glayz-impact/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">GLAY’z IMPACT</a>　<strong>シリーズ：</strong><a href="/series/いけない女子校生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">いけない女子校生</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/制服/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">制服</a> <a href="/genres/女子校生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女子校生</a> <a href="/genres/単体作品/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単体作品</a> <a href="/genres/顔射/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">顔射</a> <a href="/genres/体操着ブルマ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">体操着・ブルマ</a> <a href="/genres/競泳スクール水着/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">競泳・スクール水着</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;"><iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.dmm.co.jp/litevideo/-/part/=/cid=gihj00005/size=720_480/affi_id=tp1983af-002/" scrolling="no" frameborder="0" allowfullscreen></iframe></div>
