@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T19:03:47+09:00"
+date = "2026-04-02T08:21:25+09:00"
 release_date = "2025-01-05"
 draft = false
 title = "「彼女交換しよっか」先輩夫婦の強●スワップ、背徳ちんぽに狂いしゃぶりまくりハメられまくる清楚お嬢様な彼女"
@@ -174,7 +174,7 @@ description = """トラックリスト
 image = "https://doujin-assets.dmm.co.jp/digital/voice/d_501506/d_501506pl.jpg"
 genres = ["中出し", "乱交", "男性向け", "成人向け", "寝取り・NTR", "口内射精", "快楽堕ち", "バイノーラル", "寝取られ・NTR", "退廃・背徳・インモラル"]
 authors = ["しゃぶり〜ぜ"]
-tags = []
+tags = ["Fanza"]
 review_count = 1
 review_average = "3.00"
 +++
@@ -187,6 +187,7 @@ review_average = "3.00"
 <p><strong>発売日：</strong>2025-01-05　<strong>ページ数：</strong>3本 (約35分)+αページ　<strong>レビュー：</strong>3.00 / 5.0（1件）</p>
 <p><strong>サークル：</strong><a href="/authors/しゃぶりぜ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">しゃぶり〜ぜ</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/乱交/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">乱交</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/寝取りntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取り・NTR</a> <a href="/genres/口内射精/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">口内射精</a> <a href="/genres/快楽堕ち/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">快楽堕ち</a> <a href="/genres/バイノーラル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">バイノーラル</a> <a href="/genres/寝取られntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取られ・NTR</a> <a href="/genres/退廃背徳インモラル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">退廃・背徳・インモラル</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_501506%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
