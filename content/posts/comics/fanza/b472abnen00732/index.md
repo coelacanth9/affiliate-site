@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:38+09:00"
+date = "2026-04-02T08:22:24+09:00"
 release_date = "2020-09-18"
 draft = false
 title = "らぶみー【電子限定版】【FANZA限定】"
@@ -11,7 +11,7 @@ image = "https://ebook-assets.dmm.co.jp/digital/e-book/b472abnen00732/b472abnen0
 authors = ["きょくちょ", "コミックバベル編集部"]
 genres = ["3P・4P", "クンニ", "単行本", "カップル", "ツンデレ"]
 makers = ["文苑堂"]
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">★【FANZA限定】無料サンプルで1話まるごと試し読み公開中★<br>見たことのない最上級のトロイキをアナタに…♪ 問答無用のイカせっぱと個性的なキャラで読む者を魅了させてきたきょくちょ。そんな完全無欠の絶頂キングが放つ2ndコミックスは、パーフェクト強●イカせ作品集！ 羞恥姦で…3Pエッチで…わからせプレイで…「これ以上はだめぇぇ」と目に涙を浮かばせたガチ悶絶のオンパレード！ そしてそんな絶頂を彩るのは、人気No.1のエロカワ双子姉妹・楓と鈴や超ビンカン赤面彼女・ヒナ、らぶりーすぎる純情ナマイキっ娘・あいなといった、ただ可愛いだけじゃない！？ 個性派ぞろいの恋する乙女がアナタを虜にさせちゃう！ 可愛さと実用度を兼ね備えたハイレベルな画力と破壊力バツグンの昇天描写を、ぜひ体感せよッ！<br><br>そして、本特装版には紙の単行本には未収録の『楓と鈴4.5』を特別収録！ 楓が自宅で一人の時、繰り広げられるエロすぎる痴態はファン垂唾もの！ ここでしか手に入らない激レアすぎる本作をぜひGETしてくれ！！</div>
@@ -25,6 +25,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/きょくちょ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">きょくちょ</a> <a href="/authors/コミックバベル編集部/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">コミックバベル編集部</a></p>
 <p><strong>メーカー：</strong><a href="/makers/文苑堂/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">文苑堂</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/3p4p/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">3P・4P</a> <a href="/genres/クンニ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">クンニ</a> <a href="/genres/単行本/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単行本</a> <a href="/genres/カップル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">カップル</a> <a href="/genres/ツンデレ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ツンデレ</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
