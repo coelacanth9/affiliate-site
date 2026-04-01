@@ -1,5 +1,5 @@
 +++
-date = "2026-03-18T21:23:00+09:00"
+date = "2026-04-02T08:22:31+09:00"
 release_date = "2025-10-03"
 draft = false
 title = "両片想いが実らないギャルさんはイラムラチクニーが止まらない！2"
@@ -38,6 +38,7 @@ description = """【前回あらすじ】
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_659470/d_659470pl.jpg"
 genres = ["制服", "巨乳", "オナニー", "恋愛", "ギャル", "男性向け", "成人向け", "おっぱい", "ラブラブ・あまあま", "乳首責め", "金髪", "アクメ", "コミケ106（2025夏）"]
 authors = ["がくがく屋さん"]
+tags = ["Fanza"]
 series = "両片想いが実らないギャルさんはイラムラチクニーが止まらない！"
 review_count = 24
 review_average = "4.79"
@@ -47,12 +48,11 @@ review_average = "4.79"
 
 <!--more-->
 
-<p style="font-size:0.85em; color:#888; text-align:center;">本ページはアフィリエイト広告を利用しています。</p>
-
 <div class="article-meta" style="border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:8px 0; margin:16px 0; font-size:0.85em;">
 <p><strong>発売日：</strong>2025-10-03　<strong>ページ数：</strong>42ページ　<strong>レビュー：</strong>4.79 / 5.0（24件）</p>
 <p><strong>サークル：</strong><a href="/authors/がくがく屋さん/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">がくがく屋さん</a>　<strong>シリーズ：</strong><a href="/series/両片想いが実らないギャルさんはイラムラチクニーが止まらない/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">両片想いが実らないギャルさんはイラムラチクニーが止まらない！</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/制服/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">制服</a> <a href="/genres/巨乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳</a> <a href="/genres/オナニー/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">オナニー</a> <a href="/genres/恋愛/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">恋愛</a> <a href="/genres/ギャル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ギャル</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/おっぱい/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おっぱい</a> <a href="/genres/ラブラブあまあま/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブラブ・あまあま</a> <a href="/genres/乳首責め/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">乳首責め</a> <a href="/genres/金髪/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">金髪</a> <a href="/genres/アクメ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">アクメ</a> <a href="/genres/コミケ1062025夏/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">コミケ106（2025夏）</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_659470%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
