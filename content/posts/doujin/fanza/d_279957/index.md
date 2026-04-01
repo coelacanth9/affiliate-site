@@ -1,5 +1,5 @@
 +++
-date = "2026-03-26T21:13:45+09:00"
+date = "2026-04-02T08:21:49+09:00"
 release_date = "2023-09-28"
 draft = false
 title = "町外れの聖女様 大好きなおねえちゃんは僕の知らない男のモノ"
@@ -45,7 +45,7 @@ pixiv→ID:97799"""
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_279957/d_279957pl.jpg"
 genres = ["中出し", "寝取り・寝取られ・NTR", "辱め", "パイパン", "パイズリ", "男性向け", "成人向け", "おっぱい", "金髪", "萌え", "シスター", "着衣"]
 authors = ["しろくろうさ"]
-tags = []
+tags = ["Fanza"]
 review_count = 31
 review_average = "4.71"
 +++
@@ -58,6 +58,7 @@ review_average = "4.71"
 <p><strong>発売日：</strong>2023-09-28　<strong>ページ数：</strong>87ページ　<strong>レビュー：</strong>4.71 / 5.0（31件）</p>
 <p><strong>サークル：</strong><a href="/authors/しろくろうさ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">しろくろうさ</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/寝取り寝取られntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取り・寝取られ・NTR</a> <a href="/genres/辱め/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">辱め</a> <a href="/genres/パイパン/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイパン</a> <a href="/genres/パイズリ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">パイズリ</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/おっぱい/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">おっぱい</a> <a href="/genres/金髪/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">金髪</a> <a href="/genres/萌え/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">萌え</a> <a href="/genres/シスター/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">シスター</a> <a href="/genres/着衣/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">着衣</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_279957%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
