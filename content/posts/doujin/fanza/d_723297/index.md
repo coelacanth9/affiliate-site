@@ -1,5 +1,5 @@
 +++
-date = "2026-03-29T19:03:45+09:00"
+date = "2026-04-02T08:20:50+09:00"
 release_date = "2026-01-21"
 draft = false
 title = "寝取られ堕ちる妻〜昔同級生をイジメた代償は愛する妻だった〜"
@@ -47,7 +47,7 @@ description = """〜30ページ体験版配信中〜
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_723297/d_723297pl.jpg"
 genres = ["中出し", "寝取り・寝取られ・NTR", "騎乗位", "巨乳", "潮吹き", "拘束", "人妻・主婦", "男性向け", "成人向け", "快楽堕ち", "寝取られ・NTR", "目隠し"]
 authors = ["まんまん屋"]
-tags = []
+tags = ["Fanza"]
 review_count = 4
 review_average = "4.75"
 +++
@@ -60,6 +60,7 @@ review_average = "4.75"
 <p><strong>発売日：</strong>2026-01-21　<strong>ページ数：</strong>318ページ　<strong>レビュー：</strong>4.75 / 5.0（4件）</p>
 <p><strong>サークル：</strong><a href="/authors/まんまん屋/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">まんまん屋</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/寝取り寝取られntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取り・寝取られ・NTR</a> <a href="/genres/騎乗位/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">騎乗位</a> <a href="/genres/巨乳/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">巨乳</a> <a href="/genres/潮吹き/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">潮吹き</a> <a href="/genres/拘束/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">拘束</a> <a href="/genres/人妻主婦/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">人妻・主婦</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/快楽堕ち/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">快楽堕ち</a> <a href="/genres/寝取られntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取られ・NTR</a> <a href="/genres/目隠し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">目隠し</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_723297%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
