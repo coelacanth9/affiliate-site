@@ -1,5 +1,5 @@
 +++
-date = "2026-03-20T18:13:38+09:00"
+date = "2026-04-02T08:22:22+09:00"
 release_date = "2019-05-22"
 draft = false
 title = "ハプニング"
@@ -14,7 +14,7 @@ image = "https://ebook-assets.dmm.co.jp/digital/e-book/b579abbl01038/b579abbl010
 authors = ["コミックバベル編集部", "関谷あさみ"]
 genres = ["中出し", "女子校生", "フェラ", "美少女", "学生服", "ごっくん", "ラブ＆H", "カップル", "ミニ系・小柄", "小柄", "単話"]
 makers = ["文苑堂"]
-tags = []
+tags = ["Fanza"]
 +++
 
 <div class="desc-collapsible">非リア充のまま終わると思っていた青春時代に彼女ができた主人公。<br>幸せの絶頂の中にいるものの、超健全なお付き合いで止まってしまっているのが悩みのタネ。<br>そんな微妙な関係の二人だったが、ひょんなキッカケから飲み物の回し飲みで間接キスをすることに。<br>すると、彼女はすぐさまトイレに駆け込んでしまう…！<br>間接キスがそれほど嫌だったのかとショックを受けつつ、なかなか戻ってこない彼女を心配してトイレへと向かうのだったが…。<br>キュートなツインテ彼女のHな秘密…♪ 欲情、発情、二人の仲は急接近！？<br>超人気作家・関谷あさみが描く、ちょっぴり不思議なイチャラブエッチ！</div>
@@ -28,6 +28,7 @@ tags = []
 <p><strong>作者：</strong><a href="/authors/コミックバベル編集部/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">コミックバベル編集部</a> <a href="/authors/関谷あさみ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">関谷あさみ</a></p>
 <p><strong>メーカー：</strong><a href="/makers/文苑堂/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">文苑堂</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/中出し/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">中出し</a> <a href="/genres/女子校生/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">女子校生</a> <a href="/genres/フェラ/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">フェラ</a> <a href="/genres/美少女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">美少女</a> <a href="/genres/学生服/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">学生服</a> <a href="/genres/ごっくん/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ごっくん</a> <a href="/genres/ラブh/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ラブ＆H</a> <a href="/genres/カップル/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">カップル</a> <a href="/genres/ミニ系小柄/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">ミニ系・小柄</a> <a href="/genres/小柄/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">小柄</a> <a href="/genres/単話/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">単話</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="margin:8px 0;">
