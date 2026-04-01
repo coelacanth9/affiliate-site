@@ -1,5 +1,5 @@
 +++
-date = "2026-03-27T21:47:27+09:00"
+date = "2026-04-02T08:21:40+09:00"
 release_date = "2025-09-28"
 draft = false
 title = "青が溶ける  （好きな人が隣の布団で喘ぐ青春BSS-喘ぎ音声付）"
@@ -59,7 +59,7 @@ Pixiv、Twitterで作品のサンプルや今後の作品の告知などを行�
 image = "https://doujin-assets.dmm.co.jp/digital/comic/d_523258/d_523258pl.jpg"
 genres = ["寝取り・寝取られ・NTR", "和服・浴衣", "処女", "専売", "男性向け", "成人向け", "乳首責め", "初体験", "BSS", "音声付き", "添い寝", "鬱勃起", "旅行"]
 authors = ["たことかいと"]
-tags = []
+tags = ["Fanza"]
 review_count = 68
 review_average = "4.53"
 +++
@@ -72,6 +72,7 @@ review_average = "4.53"
 <p><strong>発売日：</strong>2025-09-28　<strong>ページ数：</strong>214ページ　<strong>レビュー：</strong>4.53 / 5.0（68件）</p>
 <p><strong>サークル：</strong><a href="/authors/たことかいと/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">たことかいと</a></p>
 <p><strong>ジャンル：</strong><a href="/genres/寝取り寝取られntr/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">寝取り・寝取られ・NTR</a> <a href="/genres/和服浴衣/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">和服・浴衣</a> <a href="/genres/処女/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">処女</a> <a href="/genres/専売/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">専売</a> <a href="/genres/男性向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">男性向け</a> <a href="/genres/成人向け/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">成人向け</a> <a href="/genres/乳首責め/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">乳首責め</a> <a href="/genres/初体験/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">初体験</a> <a href="/genres/bss/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">BSS</a> <a href="/genres/音声付き/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">音声付き</a> <a href="/genres/添い寝/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">添い寝</a> <a href="/genres/鬱勃起/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">鬱勃起</a> <a href="/genres/旅行/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">旅行</a></p>
+<p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
 <div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_523258%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
