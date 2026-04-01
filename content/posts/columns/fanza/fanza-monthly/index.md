@@ -1,11 +1,12 @@
 +++
-date = "2026-03-31T06:04:53+09:00"
+date = "2026-04-02T08:20:50+09:00"
 draft = false
 title = "FANZAの月額サービスでエロQOLを爆上げしよう"
 description = """FANZA TVの圧倒的なコスパが最強すぎる話"""
 image = "https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-columns-fanza-monthly/fanzatv_premium.png"
-tags = ["コラム"]
+tags = ["コラム", "Fanza"]
 +++
+
 
 
 <div style="display:flex; justify-content:center;"><ins class="widget-banner"></ins><script class="widget-banner-script" src="https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=tp1983af-002&banner_id=1277_300_250"></script></div>
