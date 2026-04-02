@@ -1,0 +1,19 @@
+{{ $pages := where .Site.RegularPages ".Params.featured" true | first 5 }}
+{{ if $pages }}
+<div class="bg-white panel mb-3 dark:bg-warmgray-900">
+  <p class="text-xl text-center text-gray-700 py-3 dark:text-gray-300 font-bold">おすすめ記事</p>
+  <div class="mx-3">
+    {{ range $pages }}
+    <a href="{{ .RelPermalink }}" class="flex gap-2 items-start py-2 border-b border-gray-100 dark:border-warmgray-800 hover:opacity-80">
+      {{ with .Params.image }}
+      <img src="{{ . }}" style="width:70px;height:70px;object-fit:cover;flex-shrink:0;">
+      {{ end }}
+      <span class="text-sm text-blue-500 leading-snug">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+  <div class="text-center py-3">
+    <a href="/featured/" class="text-sm text-blue-500 hover:underline">全部見る ▶</a>
+  </div>
+</div>
+{{ end }}

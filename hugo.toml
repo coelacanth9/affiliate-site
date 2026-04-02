@@ -65,7 +65,7 @@ rssLimit = 20
   [params.widgets]
     display = true
     left_widgets = ["dmm_banner", "sidebar_ranking"]
-    widgets = ["rss", "search", "genres", "authors", "actresses", "tags", "recent", "archive"]
+    widgets = ["featured", "rss", "search", "genres", "authors", "actresses", "tags", "recent", "archive"]
 
   [params.rss_widget]
     proxy = "https://rss-proxy.coelacanth9.workers.dev"
