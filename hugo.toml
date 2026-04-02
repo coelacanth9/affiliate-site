@@ -3,6 +3,7 @@ languageCode = 'ja'
 title = 'ワガママエロス'
 theme = 'blonde'
 defaultContentLanguage = 'ja'
+rssLimit = 20
 
 [taxonomies]
   actress  = 'actresses'
@@ -64,4 +65,10 @@ defaultContentLanguage = 'ja'
   [params.widgets]
     display = true
     left_widgets = ["dmm_banner", "sidebar_ranking"]
-    widgets = ["search", "genres", "authors", "actresses", "tags", "recent", "archive"]
+    widgets = ["rss", "search", "genres", "authors", "actresses", "tags", "recent", "archive"]
+
+  [params.rss_widget]
+    proxy = "https://rss-proxy.coelacanth9.workers.dev"
+    feed = "https://doucolle.net/feed"
+    title = "人気の記事"
+    count = 10
