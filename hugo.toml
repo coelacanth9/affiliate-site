@@ -69,6 +69,10 @@ rssLimit = 20
 
   [params.rss_widget]
     proxy = "https://rss-proxy.coelacanth9.workers.dev"
-    feed = "https://doucolle.net/feed"
+    feeds = [
+      "https://doucolle.net/feed"
+      ,"http://fevian.org/feed/photo.xml"
+      ,"https://kimootoko.net/feed"
+      ]
     title = "人気の記事"
     count = 10

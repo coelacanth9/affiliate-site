@@ -8,23 +8,25 @@
 <script>
 (function() {
   const proxy = "{{ .proxy }}";
-  const feed  = "{{ .feed }}";
+  const feeds = [{{ range .feeds }}"{{ . }}",{{ end }}];
   const count = {{ .count }};
+  const params = feeds.map(f => "url=" + encodeURIComponent(f)).join("&") + "&count=" + count;
 
-  fetch(proxy + "?url=" + encodeURIComponent(feed) + "&count=" + count)
+  fetch(proxy + "?" + params)
     .then(r => r.json())
     .then(data => {
       const el = document.getElementById("rss-list");
       if (!data.items || data.items.length === 0) { el.innerHTML = '<p class="text-sm text-gray-400 text-center py-2">記事なし</p>'; return; }
-      el.innerHTML = data.items.map(item =>
-        `<div class="py-1 border-b border-gray-100 dark:border-warmgray-800">
+      el.innerHTML = data.items.map(item => {
+        const site = item.siteTitle ? `<span style="font-size:0.75em;color:#9ca3af;">／${item.siteTitle}</span>` : "";
+        return `<div class="py-1 border-b border-gray-100 dark:border-warmgray-800">
           <a href="${item.link}" target="_blank" rel="nofollow noopener"
             class="flex gap-2 items-start hover:opacity-80">
             ${item.thumb ? `<img src="${item.thumb}" style="width:112px;height:112px;object-fit:cover;flex-shrink:0;">` : ""}
-            <span class="text-sm text-blue-500 leading-snug">${item.title}</span>
+            <span class="text-sm text-blue-500 leading-snug">${item.title}${site}</span>
           </a>
-        </div>`
-      ).join("");
+        </div>`;
+      }).join("");
     })
     .catch(() => {
       document.getElementById("rss-list").innerHTML = '<p class="text-sm text-gray-400 text-center py-2">取得失敗</p>';
