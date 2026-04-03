@@ -176,7 +176,26 @@ https://www.aneros.co.jp/learning-center/men/how-prostate-massagers-work
 もう興味出た！早よやってみたいって人は、「アネロス」で調べてみてほしい。
 
 初心者向けはこちら。
-<div style="width: 200px; border: solid 1px #ccc; background: #fff; padding: 16px" title="Aneros Trident Series MGX（エムジーエックス）"> <a href="https://daimaoh.co.jp/jump/cn343199/item6934/" style="text-decoration: none; color: #fff; font-weight: bold; display: inline-block;" target="_blank"> <img src="https://daimaoh.co.jp/cgis_data/product/633faff549de1.webp" alt="Aneros Trident Series MGX（エムジーエックス）" width="100%"> <span style="color: #444;" class="pn">Aneros Trident Series MGX（エムジーエックス）</span> <span style="background: #ffab00; padding: 8px; text-align: center; margin-top: 10px; display:block; border-radius: 20px;">大魔王で購入</span></a> </div>
+<div style="display:flex; gap:16px; flex-wrap:wrap;">
+
+<div style="width:200px; border:solid 1px #ccc; background:#fff; padding:16px;">
+    <img src="https://daimaoh.co.jp/cgis_data/product/633faff549de1.webp" alt="Aneros MGX" style="width:100%;">
+    <span style="color:#444; display:block; margin:6px 0;">Aneros MGX</span>
+    <div style="display:flex; gap:6px; margin-top:8px;">
+        <a href="https://daimaoh.co.jp/jump/cn343199/item6934/" style="text-decoration:none; color:#fff; font-weight:bold; background:#ffab00; padding:6px; text-align:center; flex:1; border-radius:20px; font-size:0.8em; display:block;" target="_blank">大魔王で購入</a>
+        <a href="https://www.aneros.co.jp/af.php?id=tp1983af&url=69&ad-id=69&ad-mode=p1l" style="text-decoration:none; color:#fff; font-weight:bold; background:#e74c3c; padding:6px; text-align:center; flex:1; border-radius:20px; font-size:0.8em; display:block;" target="_blank">ANEROSで購入</a>
+    </div>
+</div>
+
+<div style="width:200px; border:solid 1px #ccc; background:#fff; padding:16px;">
+    <img src="https://www.aneros.co.jp/img.php?id=tp1983af&mode=p1l&src=29" alt="スターターセット" style="width:100%;">
+    <span style="color:#444; display:block; margin:6px 0;">スターターセット</span>
+    <div style="display:flex; gap:6px; margin-top:8px;">
+        <a href="https://www.aneros.co.jp/af.php?id=tp1983af&url=29&ad-id=29&ad-mode=p1l" style="text-decoration:none; color:#fff; font-weight:bold; background:#e74c3c; padding:6px; text-align:center; flex:1; border-radius:20px; font-size:0.8em; display:block;" target="_blank">ANEROSで購入</a>
+    </div>
+</div>
+
+</div>
 初心者は間違っても、大きすぎるものや、電動タイプに走ってはならない。そういうのは前立腺で快感をとらえられるようになってからにすべき。そうじゃないとドライオーガズムが遠のく。
 
 もしかしたら、ちょっと高いって思うかもしれないけど、アネロスをコピーした安価な模造品を使うより、正式なものを使うのが、ドライオーガズムに到達する近道の一つであることは間違いない。
