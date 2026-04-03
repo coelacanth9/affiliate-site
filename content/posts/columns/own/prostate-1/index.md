@@ -39,11 +39,12 @@ featured=false
 
 <div style="display:flex; flex-direction:column; gap:8px;">
     <div style="width:200px; border:solid 1px #ccc; background:#fff; padding:16px;">
-    <a href="https://daimaoh.co.jp/jump/cn343199/item9783/" style="text-decoration:none; color:#fff; font-weight:bold; display:block;" target="_blank">
         <img src="https://daimaoh.co.jp/cgis_data/product/686e26258f303.webp" alt="セッションズ" style="width:100%;">
-        <span style="color:#444;">セッションズ</span>
-        <span style="background:#ffab00; padding:8px; text-align:center; margin-top:10px; display:block; border-radius:20px;">大魔王で購入</span>
-    </a>
+        <span style="color:#444; display:block; margin:6px 0;">セッションズ</span>
+        <div style="display:flex; gap:6px; margin-top:8px;">
+            <a href="https://daimaoh.co.jp/jump/cn343199/item9783/" style="text-decoration:none; color:#fff; font-weight:bold; background:#ffab00; padding:6px; text-align:center; flex:1; border-radius:20px; font-size:0.8em; display:block;" target="_blank">大魔王で購入</a>
+            <a href="https://www.aneros.co.jp/af.php?id=tp1983af&url=77&ad-id=77&ad-mode=p1l" style="text-decoration:none; color:#fff; font-weight:bold; background:#e74c3c; padding:6px; text-align:center; flex:1; border-radius:20px; font-size:0.8em; display:block;" target="_blank">アネロスで購入</a>
+        </div>
     </div>
     <p style="font-size:0.85em; width:200px;">アネロス公式が開発しているノングリセリンローション。アネロスの性能を最大限引き出す仕様とのこと。</p>
 </div>
@@ -86,26 +87,24 @@ featured=false
 
 <div style="display:flex; flex-direction:column; gap:8px;">
     <div style="width:200px; border:solid 1px #ccc; background:#fff; padding:16px;">
-    <a href="https://daimaoh.co.jp/jump/cn343199/item6934/" style="text-decoration:none; color:#fff;
-font-weight:bold; display:block;" target="_blank">
-        <img src="https://daimaoh.co.jp/cgis_data/product/633faff549de1.webp" alt="MGX" width="100%">
-        <span style="color:#444;" class="pn">Aneros MGX</span>
-        <span style="background:#ffab00; padding:8px; text-align:center; margin-top:10px; display:block;
-border-radius:20px;">大魔王で購入</span>
-    </a>
+        <img src="https://daimaoh.co.jp/cgis_data/product/633faff549de1.webp" alt="MGX" style="width:100%;">
+        <span style="color:#444; display:block; margin:6px 0;">Aneros MGX</span>
+        <div style="display:flex; gap:6px; margin-top:8px;">
+            <a href="https://daimaoh.co.jp/jump/cn343199/item6934/" style="text-decoration:none; color:#fff; font-weight:bold; background:#ffab00; padding:6px; text-align:center; flex:1; border-radius:20px; font-size:0.8em; display:block;" target="_blank">大魔王で購入</a>
+            <a href="https://www.aneros.co.jp/af.php?id=tp1983af&url=69&ad-id=69&ad-mode=p1l" style="text-decoration:none; color:#fff; font-weight:bold; background:#e74c3c; padding:6px; text-align:center; flex:1; border-radius:20px; font-size:0.8em; display:block;" target="_blank">アネロスで購入</a>
+        </div>
     </div>
     <p style="font-size:0.85em; width:200px;">前の記事でも紹介した「MGXトライデント」を含む、MGXシリーズ</p>
 </div>
 
 <div style="display:flex; flex-direction:column; gap:8px;">
     <div style="width:200px; border:solid 1px #ccc; background:#fff; padding:16px;">
-    <a href="https://daimaoh.co.jp/jump/cn343199/item6932/" style="text-decoration:none; color:#fff;
-font-weight:bold; display:block;" target="_blank">
-        <img src="https://daimaoh.co.jp/cgis_data/product/633facd3bc62a.webp" alt="Helix" width="100%">
-        <span style="color:#444;" class="pn">Aneros Helix</span>
-        <span style="background:#ffab00; padding:8px; text-align:center; margin-top:10px; display:block;
-border-radius:20px;">大魔王で購入</span>
-    </a>
+        <img src="https://daimaoh.co.jp/cgis_data/product/633facd3bc62a.webp" alt="Helix" style="width:100%;">
+        <span style="color:#444; display:block; margin:6px 0;">Aneros Helix</span>
+        <div style="display:flex; gap:6px; margin-top:8px;">
+            <a href="https://daimaoh.co.jp/jump/cn343199/item6932/" style="text-decoration:none; color:#fff; font-weight:bold; background:#ffab00; padding:6px; text-align:center; flex:1; border-radius:20px; font-size:0.8em; display:block;" target="_blank">大魔王で購入</a>
+            <a href="https://www.aneros.co.jp/af.php?id=tp1983af&url=66&ad-id=66&ad-mode=p1l" style="text-decoration:none; color:#fff; font-weight:bold; background:#e74c3c; padding:6px; text-align:center; flex:1; border-radius:20px; font-size:0.8em; display:block;" target="_blank">アネロスで購入</a>
+        </div>
     </div>
     <p style="font-size:0.85em; width:200px;">ヒリックスシリーズというヘッド（前立腺にあたる部分）の面積が大きいタイプ</p>
 </div>
