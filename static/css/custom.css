@@ -54,3 +54,15 @@
 .taxonomy-toggle:hover {
   color: #444;
 }
+
+.main-grid {
+  display: block;
+}
+
+@media (min-width: 1024px) {
+  .main-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: auto 2fr 1fr;
+  }
+}

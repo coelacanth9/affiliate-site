@@ -6,7 +6,7 @@
 {{ $activeClass := "mx-1 py-3 px-5 rounded-full block border-0 bg-blue-600 text-white" }}
 {{ $dotClass := "mx-1 py-3 px-3 text-gray-400 select-none" }}
 <nav aria-label="page navigation">
-    <ul class="flex list-none my-5 p-0 justify-center items-center flex-wrap" style="min-width:420px">
+    <ul class="flex list-none my-5 p-0 justify-center items-center flex-wrap">
 
         {{ if $pag.HasPrev }}
         <li><a href="{{ $pag.Prev.URL }}" rel="prev" class="{{ $btnClass }}">Prev</a></li>
