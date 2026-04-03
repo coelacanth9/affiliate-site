@@ -1,7 +1,7 @@
 {{ define "header_css" }}{{ end }}
 
 {{ define "main" }}
-<div class="grid gap-4" style="grid-template-columns: auto 2fr 1fr;">
+<div class="main-grid">
   {{ $showLeft := and .Site.Params.widgets.display (not .Params.noleftwidget) }}
   {{ $showRight := and .Site.Params.widgets.display (not .Params.norightwidget) }}
   {{ if $showLeft }}
