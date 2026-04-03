@@ -1,16 +1,13 @@
 {{ define "header_css" }}{{ end }}
 
 {{ define "main" }}
-<div class="grid gap-4" style="grid-template-columns: auto 2fr 1fr;">
+<div class="grid grid-cols-3 gap-4">
   {{ if .Site.Params.widgets.display }}
-    {{ partial "left_widgets.html" . }}
-  {{ end }}
-  {{ if .Site.Params.widgets.display }}
-  <div class="mb-3">
+  <div class="col-span-3 lg:col-span-2 mb-3">
   {{ else }}
-  <div class="mb-3" style="grid-column: 1 / -1;">
+  <div class="col-span-3 mb-3">
   {{ end }}
-    <h2 class="text-4xl dark:text-white">{{if not .IsHome}}{{with .Data.Term}}{{ . }}{{else}}{{ humanize $.Title }}{{end}}{{end}}</h2>
+    <h2 class="text-4xl dark:text-white">{{if not .IsHome}}{{ humanize .Title }}{{end}}</h2>
     {{if .IsHome}}
     {{.Scratch.Set "Paginator" (.Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) (.Site.Params.paginator_pages) )}}
     {{else}}
