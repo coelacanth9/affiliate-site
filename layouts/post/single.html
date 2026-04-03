@@ -25,10 +25,10 @@
               </h4>
             </section>
             {{ with .Params.tags }}
-            <div id="tags">
-              <span class="icon-local_offer mr-1"></span>
+            <div id="tags" style="margin-top:4px; display:flex; flex-wrap:wrap; gap:4px;">
               {{ range . }}
-              <a href='{{ "tags" | absURL }}/{{ . | urlize }}'>{{ . }}</a> |
+              <a href='{{ "tags" | absURL }}/{{ . | urlize }}'
+                style="color:#3b82f6; border:1px solid #3b82f6; border-radius:4px; padding:1px 8px; font-size:0.85em;">{{ . }}</a>
               {{ end }}
             </div>
             {{ end }}
