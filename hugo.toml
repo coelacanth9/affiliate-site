@@ -1,8 +1,9 @@
 baseURL = 'https://wagamama-eros.com/'
 languageCode = 'ja'
-title = 'ワガママエロス'
+title = 'ワガママエロス | 成人向け動画・音声・漫画・ゲーム・グッズ・コラム'
 theme = 'blonde'
 defaultContentLanguage = 'ja'
+rssLimit = 20
 
 [taxonomies]
   actress  = 'actresses'
@@ -63,4 +64,15 @@ defaultContentLanguage = 'ja'
 
   [params.widgets]
     display = true
-    widgets = ["search", "genres", "authors", "tags", "recent", "archive"]
+    left_widgets = ["dmm_banner", "sidebar_ranking"]
+    widgets = ["featured", "rss", "search", "genres", "authors", "actresses", "tags", "recent", "archive"]
+
+  [params.rss_widget]
+    proxy = "https://rss-proxy.coelacanth9.workers.dev"
+    feeds = [
+      "https://doucolle.net/feed"
+      ,"http://fevian.org/feed/photo.xml"
+      ,"https://kimootoko.net/feed"
+      ]
+    title = "人気の記事"
+    count = 10
