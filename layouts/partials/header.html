@@ -2,7 +2,7 @@
     <div class="container max-w-screen-xl mr-auto ml-auto">
         <nav class="flex items-center justify-between flex-wrap {{ .Site.Params.base_color }} p-6">
             <div class="flex items-center gap-4 text-gray-900 dark:text-white">
-                <a href="/"><span class="font-semibold text-2xl tracking-tight">{{ .Site.Title }}</span></a>
+                <a href="/"><span class="font-semibold text-2xl tracking-tight">{{ with .Site.Params.header_title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}</span></a>
                 {{ $path := .RelPermalink }}
                 <div class="hidden md:flex items-center gap-1">
                     <a href="https://golden.wagamama-eros.com/"
