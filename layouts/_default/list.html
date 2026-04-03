@@ -1,11 +1,12 @@
 {{ define "header_css" }}{{ end }}
 
 {{ define "main" }}
-<div class="grid grid-cols-3 gap-4">
+<div class="main-grid">
   {{ if .Site.Params.widgets.display }}
-  <div class="col-span-3 lg:col-span-2 mb-3">
+    {{ partial "left_widgets.html" . }}
+    <div>
   {{ else }}
-  <div class="col-span-3 mb-3">
+    <div style="grid-column: 1 / -1;">
   {{ end }}
     <h2 class="text-4xl dark:text-white">{{if not .IsHome}}{{ humanize .Title }}{{end}}</h2>
     {{if .IsHome}}
