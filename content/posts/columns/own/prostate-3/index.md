@@ -168,5 +168,16 @@ featured=true
     
 </div>
 
+<div style="display:flex; flex-direction:column; gap:8px;">
+    <div style="width:200px; border:solid 1px #ccc; background:#fff; padding:16px;" title="ローションアプリケーター">
+        <a href="https://daimaoh.co.jp/jump/cn343199/item13243/" style="text-decoration:none; color:#fff; font-weight:bold; display:block;" target="_blank">
+            <img src="https://daimaoh.co.jp/cgis_data/product/6992d0d0d5a5f.webp" alt="ローションアプリケーター" style="width:100%;">
+            <span style="color:#444;">ローションアプリケーター</span>
+            <span style="background:#ffab00; padding:8px; text-align:center; margin-top:10px; display:block; border-radius:20px;">大魔王で購入</span>
+        </a>
+    </div>
+    <p style="font-size:0.85em; width:200px;">ローションを肛門から挿入する時に使うシリンジ。これでローションを吸い上げて、肛門に挿入してから押し出す。</p>
+    
+</div>
 </div>
 
