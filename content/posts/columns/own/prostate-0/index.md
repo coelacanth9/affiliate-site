@@ -40,11 +40,6 @@ featured=true
 
 一方、ドライオーガズムは射精を伴わないから、ドーパミン系を抑制する指令が脳から強く出にくい。その結果賢者モードになりづらく、短い間隔で再びオーガズムに達しやすくなる。
 
-そして、こういう定義を持ち出すときは、やはり公式はチェックしておくべきだろう。
-
-→　<a href="https://www.aneros.co.jp/af.php?id=tp1983af&url=learning-center%2Fmen%2Fhow-prostate-massagers-work&ad-id=user&ad-mode=tf" target="_blank">ANEROS JAPAN 前立腺マッサージとは<img src="https://www.aneros.co.jp/img.php?id=tp1983af&mode=&src=user" alt=""></a>
-
-
 ## なぜドライオーガズムを目指すのか
 
 理由は単純。
