@@ -71,6 +71,18 @@ featured=true
     <p style="font-size:0.85em; width:200px;">これはもうずっと愛用している。大容量で経済的、粘度がちょうどよい、ノングリセリでお腹緩くならない、オナホや手コキオナニーにも普通に使えるよ。おすすめ。</p>
 </div>
 
+<div style="display:flex; flex-direction:column; gap:8px;">
+    <div style="width:200px; border:solid 1px #ccc; background:#fff; padding:16px;" title="ローションアプリケーター">
+        <a href="https://daimaoh.co.jp/jump/cn343199/item13243/" style="text-decoration:none; color:#fff; font-weight:bold; display:block;" target="_blank">
+            <img src="https://daimaoh.co.jp/cgis_data/product/6992d0d0d5a5f.webp" alt="ローションアプリケーター" style="width:100%;">
+            <span style="color:#444;">ローションアプリケーター</span>
+            <span style="background:#ffab00; padding:8px; text-align:center; margin-top:10px; display:block; border-radius:20px;">大魔王で購入</span>
+        </a>
+    </div>
+    <p style="font-size:0.85em; width:200px;">ローションを肛門から挿入する時に使うシリンジ。これでローションを吸い上げて、肛門に挿入してから押し出す。</p>
+    
+</div>
+
 </div>
 
 #### 慣れていないのに太いのを挿入しないこと。
@@ -122,7 +134,7 @@ featured=true
     * 刺激＝膨張　という一般的なイメージから、前立腺を刺激する事が前立腺肥大を引き起こしたり悪化させたりするのではないかという、悪意もないが根拠もない、漠然とした不安を抱く人も一定数いるのではないかと思われる。
     * しかしそれは全くの逆で、そもそもアネロスは元々は、前立腺肥大の患者が治療のために定期的に前立腺液を排出するにあたり、いちいち病院にいって施術を受けるのが負担となっている事を改善するために、患者自身がセルフで自宅でマッサージできるように医療用として開発されたという経緯がある。（そして使用者から性的快感を得られるという報告が上がったことによりマッサージ器として売り出されることになった。）
     * もちろん過度な刺激による物理的な損傷という意味ではリスクがあるが、それはどんなことにでも言える話であって、前立腺オナニー特有の話ではないのは自明だ。
-
+    
 以下はANEROS JAPAN公式の説明。「老廃物」という表現が使われているが、より正確には前立腺が分泌する前立腺液の滞留を指していると思われる。
 
   →　<a href="https://www.aneros.co.jp/af.php?id=tp1983af&url=learning-center%2Fmen%2Fhow-prostate-massagers-work&ad-id=user&ad-mode=tf" target="_blank">ANEROS JAPAN 前立腺マッサージとは<img src="https://www.aneros.co.jp/img.php?id=tp1983af&mode=&src=user" alt=""></a>
