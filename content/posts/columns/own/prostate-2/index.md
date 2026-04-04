@@ -98,7 +98,7 @@ PC筋を動かすときのイメージとして、おしっこを切る（止め
 
 横から見た図をAIで描いてみたよ。
 
-![alt text](PC筋2.png)
+![PC筋2](https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/columns-own-prostate-2/PC筋2.png)
 
 （骨盤底筋群の一つである）PC筋は、図で示したように、ハンモックみたいに緩く湾曲した形状になっている。
 
