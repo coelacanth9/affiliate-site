@@ -8,7 +8,7 @@ image="https://daimaoh.co.jp/cgis_data/product/633faff549de1.webp"
 noleftwidget = true
 series=["ドライオーガズムと前立腺オナニーの話"]
 tags=["ドライオーガズム", "前立腺オナニー", "コラム", "アネロス"]
-featured=false
+featured=true
 +++
 
 前回、【はじめに】で、ドライオーガズムの気持ちよさを語ってみた。
