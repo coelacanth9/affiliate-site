@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:19+09:00"
+date = "2026-04-20T08:07:29+09:00"
 release_date = "2024-10-30"
 draft = false
 title = "エルフ教育。ー亡国のミストー"
@@ -23,7 +23,7 @@ tags = ["Fanza"]
 
 <div class="desc-collapsible">※※本作品の漫画部分は同人誌として発行された物と同じ内容です※※<br><br>悠久を生きる『エルフ』に刻み込まれる絶頂『教育』…『メイド教育』のきょくちょが描くファン待望の新シリーズ登場！！<br><br>栄華を極めたエルフ国は『人間』に滅ぼされた…。<br>囚われの身となったエルフの女王・ミストは、常軌を逸した人の王・レックスの狂愛により拘束され嬲られるが、‘魔力’で守られているので余裕の笑み…。しかしレックスの卑劣な企みにより『快楽』という未知の感覚を植えつけられていく…！<br><br>何事にも動じず、圧倒的であった女王ミストの顔が淫靡に歪む時、狂王レックスの本当の『教育』が幕を開ける…！！！<br><br>さらに電子版限定でノンクレジット表紙を収録！<br>囚われた純白ドレス姿の気高きエルフちゃんの痴態をご堪能あれ♪</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6010078%2Fk903azigr00167%2F&af_id=tp1983af-992&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6010078%2Fk903azigr00167%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -46,9 +46,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-k903azigr00167/エルフ教育。ー亡国のミストー/エルフ教育。ー亡国のミストー_008.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6010078%2Fk903azigr00167%2F&af_id=tp1983af-993&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6010078%2Fk903azigr00167%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6010078%2Fk903azigr00167%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6010078%2Fk903azigr00167%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
