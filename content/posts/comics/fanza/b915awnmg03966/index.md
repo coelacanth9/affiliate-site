@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:15+09:00"
+date = "2026-04-20T08:07:40+09:00"
 release_date = "2025-12-22"
 draft = false
 title = "すすすすんどめ【デジタル版限定おまけ付き】"
@@ -49,11 +49,11 @@ review_average = "4.50"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240490%2Fb915awnmg03966%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACl0PVE5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240490%2Fb915awnmg03966%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACl0PVE5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">《単行本描き下ろしイラスト多数！！ おあずけされた分だけ……溢れて止まらない全7編♪ 》<br>焦らして焦らして…焦らしヌくッ！！！！<br>ギャルも教師も友達のカノジョも…み〜んな発散ハチャメチャえっち♪<br>『COMIC快楽天』大人気作家・八尋ぽち 待望8thコミックス！！<br><br>★デジタル版限定おまけ★<br>キャラクターデザイン集を巻末に特別収録！！<br><br>★単行本描き下ろしおまけ★<br>収録作・人気ヒロイン セクシーイラスト♪<br><br>『す・ん・ど・め』<br>彼女の【うた】はめちゃくちゃ明るくて、なによりリアクションが可愛い！ 泣いてる時も、怒ってる時も、喜んでる時なんて俺には輝いて見える。<br>でも、エッチになると……いつもと違って大人しすぎる……。<br>だから物足りなさから、うたとのエッチで《寸止め》をし続けた――そしたらカノジョの反応も変わってきて！！<br><br>『オブラート』<br>私、麦（むぎ）と優介のカップルは占いが当たることで有名な友達から相性が最悪と告げられてしまった。おまけに「このまま付き合ってると、不幸になる運命」なんて言われた。<br>もちろん始めはそんなの信じなかったけど、優介と一緒にいる時にケガや事故がありすぎて……。<br>だから私たちはお互いに触らないようにする《間接エッチ》をしていくことに決めた――それでも触れたい気持ちが抑えられなくて！！<br><br>『舌ピ』<br>新人ピアス屋店員の玉森（たまもり）くんと彼のことがお気に入りの常連客・星那（せな）ちゃん。<br>玉森くんの初心さが可愛いし、なにより、星那の舌ピアスをかえてくれる時にベロを触られるのが本当に気持ちよくてゾクゾクしてしまう……。お店での2人の時間に良い雰囲気になるも、他のお客さんが来ちゃっておあずけ状態。<br>そんなある日、星那の身にキケンがせまり……！？<br><br>他にも、友達の恋人とのエッチ、元カノと復縁するためのエッチ、オンナ教師と校内でエッチ……などなど、ありとあらゆる《寸止めプレイ》から目が離せない、ガマン汁必死の濃蜜作品集！！！！<br><br>〈収録作品〉<br>す・ん・ど・め<br>オブラート<br>舌ピ<br>友達の恋人<br>元カノ<br>スイーツゲーム<br>濡れ先生</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240490%2Fb915awnmg03966%2F&af_id=tp1983af-992&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240490%2Fb915awnmg03966%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -126,9 +126,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg03966/すすすすんどめ【デジタル版限定おまけ付き】/すすすすんどめ【デジタル版限定おまけ付き】_058.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240490%2Fb915awnmg03966%2F&af_id=tp1983af-993&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240490%2Fb915awnmg03966%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240490%2Fb915awnmg03966%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240490%2Fb915awnmg03966%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
