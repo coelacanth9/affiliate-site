@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:16+09:00"
+date = "2026-04-20T08:07:39+09:00"
 release_date = "2022-02-01"
 draft = false
 title = "アザトメイキング＋ 【デジタル特装版】"
@@ -55,11 +55,11 @@ review_average = "4.83"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4154280%2Fb915awnmg01567%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACFEPVU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4154280%2Fb915awnmg01567%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACFEPVU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">※※※※※※※※※<br>ワニマガジン社ベストヒット2022<br>2位作品！！<br>※※※※※※※※※<br>あのビッチヒロインが装い新たに再登場！！<br>エロマンガ編集部を舞台に、性悪カマトトビッチが、爆乳新人が、ロリBBAが、ツンデレ鬼編集が咲き乱れる！！<br><br>『COMIC快楽天』の王者・みちきんぐが贈る、愛と情熱と淫欲のエロスコメディ。<br>すべては最高の一冊のため……時には仕事・時にはSEXに奔走するエロ漫画編集者たちのイキ様を美麗作画で華麗に描くッ！！<br>また、人気を博した「主従シリーズ」シリーズも収録。<br>紫音さんのドS視線をゾックゾクに感じちゃってください。<br><br>そして、デジタル特装版は追加要素が盛りだくさん！！<br>『＋』にしか収録されていない描き下ろし漫画に加え、デジタル特装版の豪華な特典も付いてくる！！<br><br>【＋プラス収録＋】<br>・人妻巨乳編集・織絵の描き下ろしアフターストーリー「オリエメイキング」<br>・フルカラー漫画「おねだり上手の風子さん」<br><br>【デジタル特装版特典】<br>・「アザトメイキング」「オリエメイキング」のカラー版<br>・「アザトメイキング」「オリエメイキング」の下絵<br>・安里さん＆紫音さんカラーラフ集<br><br>〈収録作品〉<br>主従えもーしょん<br>主従どりーみんぐ<br>主従どりーみんぐ〜turn 紫音〜<br>新米編集 月本さん<br>至極編集 佐藤さん<br>新妻編集 （旧姓）月本さん<br>性悪編集 安里さん<br>メメント＊アモル<br>好色編集 安里さん<br>ビッチスランプ 安里さん<br>死ぬほど魅力的な彼女<br>アザトメイキング<br>オリエメイキング<br>おねだり上手の風子さん<br>アザトメイキング・オリエメイキング（カラー）<br>アザトメイキング・オリエメイキング ドラフトワークス<br>安里さん＆紫音さんカラーラフ集</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4154280%2Fb915awnmg01567%2F&af_id=tp1983af-992&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4154280%2Fb915awnmg01567%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -117,9 +117,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg01567/アザトメイキング＋ 【デジタル特装版】/アザトメイキング＋ 【デジタル特装版】_043.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4154280%2Fb915awnmg01567%2F&af_id=tp1983af-993&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4154280%2Fb915awnmg01567%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4154280%2Fb915awnmg01567%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4154280%2Fb915awnmg01567%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
