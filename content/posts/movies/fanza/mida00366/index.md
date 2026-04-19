@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:56+09:00"
+date = "2026-04-20T08:07:33+09:00"
 release_date = "2025/10/21"
 draft = false
 title = "M性感で会った女王様はまさかの新卒部下！会社でも続く痴女プレイで立場逆転射精させられまくっているオレ… 七沢みあ"
@@ -26,7 +26,7 @@ tags = ["Fanza"]
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;"><iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.dmm.co.jp/litevideo/-/part/=/cid=mida00366/size=720_480/affi_id=tp1983af-002/" scrolling="no" frameborder="0" allowfullscreen></iframe></div>
 
-<div style="text-align:center; margin: 12px 0 24px;"><a href="https://video.dmm.co.jp/av/content/?id=mida00366" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
 
 **管理人コメント：**
 みんな大好き七沢みあちゃん。18歳でデビューしてから、2026年現在は27歳。大人の魅力が増してきて、ますますエロく可愛くふつくしい…。
