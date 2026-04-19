@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:21:44+09:00"
+date = "2026-04-20T08:07:45+09:00"
 release_date = "2023-08-22"
 draft = false
 title = "Yesなカノジョ"
@@ -20,11 +20,11 @@ series = "Yesなカノジョ"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4365578%2Fb472abnen02089%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaBwFUVgMLU1gAC1QBW05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4365578%2Fb472abnen02089%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaBwFUVgMLU1gAC1QBW05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">【奥手で優しい彼女とのイチャ甘ラブラブエッチ性活が開幕っ！！】<br><br>気鋭のアオハル作家・並木なずが贈る羞恥交わる青春ラブストーリー！<br><br>奥手だがなんでも言うことを聞いてくれる彼女の詩穂。<br>彼女がシャワーを浴びてる間にエッチな下着とすり替えると、<br>なんとその下着をつけた彼女が目の前に現れて…！？<br>エッチな下着で恥ずかしがる姿に欲情は止まらないっ！！<br>相思相愛のイチャラブエッチで、二人は深く繋がり合う！</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4365578%2Fb472abnen02089%2F&af_id=tp1983af-992&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4365578%2Fb472abnen02089%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -38,5 +38,5 @@ tags = ["Fanza"]
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4365578%2Fb472abnen02089%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4365578%2Fb472abnen02089%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
