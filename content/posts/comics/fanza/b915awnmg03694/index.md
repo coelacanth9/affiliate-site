@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:16+09:00"
+date = "2026-04-20T08:07:40+09:00"
 release_date = "2025-09-18"
 draft = false
 title = "ぴーすふるふぇいす！【デジタル版限定おまけ付き】"
@@ -40,11 +40,11 @@ review_average = "4.29"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199160%2Fb915awnmg03694%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAClIAVk5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199160%2Fb915awnmg03694%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAClIAVk5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">《デジタル限定おまけは激レアなキャラクターデザイン初期案！！ さらに、単行本描き下ろし漫画も充実♪》<br>感情も絶頂もカワイイお顔にぜ〜んぶ出ちゃう♪<br>喜怒快楽ゆたかなトロ乳あまくち絶品ガールが大集合！！<br>明るく楽しくヤる気120％ラブえっちがてんこ盛りの全8篇！<br><br>〈収録作品〉<br><br>『先生につけるクスリはない！』<br>テストで良い点取れたらカテキョのお姉さんからエッチなご褒美……でも良い点取れるわけないし発情トラップでハメてやる！<br><br>『はたらけ！ みなみちゃん！』『もぉ〜っと！ はたらけ！ みなみちゃん！（描き下ろし）』<br>内気な自分を変えるためオシャレなカフェの面接を受けたはずなのに……ここ裏オプありのサキュバスメイド喫茶なんですか！？<br><br>『路地裏の占い師さん』<br>悪いオーラと精子を吸い取ってくれるド痴女の占い師さん♪ だけど今日のお客さんは規格外のモノをお持ちで…逆襲の開運ハメ潰し！<br><br>『教師と生徒が終わるとき』<br>教育実習で来た元生徒。実習終了の日、学生時代から好きだったと告白されて……。こんなの意識せざるを得ないよね……？<br><br>『ばにこす☆はにー』<br>文化祭だし、彼氏公認でコスプレがしたい！！ でも却下され続けて、最後に試着したのはバニーコス。当然ダメだと思ったら……なんか彼の様子がおかしい！？<br><br>『本屋さんの秘めゴト』<br>うちの書店でアルバイトをしてくれている働き者の眼鏡女子。ある日、そんな彼女が店の奥で隠れてオナっている姿を目撃してしまい……。<br><br>『オープン☆サマー大作戦』<br>サークル旅行で海にやってきた！！ 無口なカノジョと距離を縮めたい……と思っていたら、カノジョの方から大胆水着で誘いに来て！？</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199160%2Fb915awnmg03694%2F&af_id=tp1983af-992&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199160%2Fb915awnmg03694%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -119,9 +119,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg03694/ぴーすふるふぇいす！【デジタル版限定おまけ付き】/ぴーすふるふぇいす！【デジタル版限定おまけ付き】_060.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199160%2Fb915awnmg03694%2F&af_id=tp1983af-993&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199160%2Fb915awnmg03694%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199160%2Fb915awnmg03694%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199160%2Fb915awnmg03694%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
