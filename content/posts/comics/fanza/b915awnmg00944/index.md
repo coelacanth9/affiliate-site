@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:15+09:00"
+date = "2026-04-20T08:07:41+09:00"
 release_date = "2019-07-01"
 draft = false
 title = "イジラレ"
@@ -23,11 +23,11 @@ review_average = "4.75"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F872481%2Fb915awnmg00944%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACV0NVk5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F872481%2Fb915awnmg00944%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACV0NVk5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">性悪ないじめっ娘たちを、認識改変して性的に調教！！ 「妊娠することが最高のいじめ」と思い込んでいる彼女たちの自尊心をもてあそぶ射精不可避の濃厚セックス描写と変態プレイは必見！！ 242ページの大ボリュームでお届けする1冊に仕上がっております！！<br><br>【収録作品】<br>イジラレ第1話<br>イジラレ第2話<br>イジラレ第3話<br>イジラレ第4話<br>イジラレ第5話<br>イジラレ最終話<br>イジラレ エピローグ</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F872481%2Fb915awnmg00944%2F&af_id=tp1983af-992&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F872481%2Fb915awnmg00944%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -72,9 +72,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg00944/イジラレ・第1話【FANZA限定 無料版】/イジラレ・第1話【FANZA限定 無料版】_030.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F872481%2Fb915awnmg00944%2F&af_id=tp1983af-993&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F872481%2Fb915awnmg00944%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F872481%2Fb915awnmg00944%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F872481%2Fb915awnmg00944%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
