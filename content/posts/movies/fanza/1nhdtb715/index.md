@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:57+09:00"
+date = "2026-04-20T08:07:33+09:00"
 release_date = "2024-01-01"
 draft = false
 title = "妻がいる至近距離で平然とマッサージしながらこっそりチ○ポを挿入し腰振り騎乗位で中出しまでさせるエステティシャン6"
@@ -25,7 +25,7 @@ tags = ["Fanza"]
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;"><iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.dmm.co.jp/litevideo/-/part/=/cid=1nhdtb715/size=720_480/affi_id=tp1983af-002/" scrolling="no" frameborder="0" allowfullscreen></iframe></div>
 
-<div style="text-align:center; margin: 12px 0 24px;"><a href="https://video.dmm.co.jp/av/content/?id=1nhdtb00715" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
 
 **管理人コメント：**
 一人目が森日向子さんで、最高に可愛いくて妖艶なエロさがあってたまりません。作品の性質上、女性側がめっちゃ責める構図なのに、結構すぐイッちゃう感じなのも逆に良い、おい感じちゃってんのかよ！っていうね。あー・・・うらやましすぎる！M気質のある人はこういうバレちゃだめなシチュで強制的に射精させられるシーンを一度は夢見たことがあるのでは？！是非全編をみてみてください！ファンになるで！
