@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:56+09:00"
+date = "2026-04-20T08:07:33+09:00"
 release_date = "2024-08-22"
 draft = false
 title = "満員電車に潜むむっつり娘 嫌がっていても〈頭の中のスケベな妄想が抑えられず〉男の要求以上に奉仕してしまう女"
@@ -29,7 +29,7 @@ tags = ["痴◯", "Fanza"]
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;"><iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.dmm.co.jp/litevideo/-/part/=/cid=1nhdtb00955/size=720_480/affi_id=tp1983af-002/" scrolling="no" frameborder="0" allowfullscreen></iframe></div>
 
-<div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3D1nhdtb00955&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3D1nhdtb00955&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
 
 **管理人コメント：**
 スカートははいたまま手マンされてるシーンが好きなんですよ…。太ももは結構あらわになっててほしい。パンツはほぼ履いたままでいい。最初はパンツの上から撫でてほしい。女性が濡れてきたらパンツの上から手を入れてクリを人差し指と中指の付け根の方で挟んで、人差し指と中指を交互に動かす感じでいじめてほしい。あんまりガシガシ動かさなくて良い。この動画はまぁ及第点（何様）かな！AVとしてシチュエーションが良いので僕は好きです。
@@ -56,5 +56,6 @@ tags = ["痴◯", "Fanza"]
   <img src="https://pics.dmm.co.jp/digital/video/1nhdtb00955/1nhdtb00955jp-20.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin: 24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3D1nhdtb00955&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
+{{< fanza-movies-recommend >}}
+<div style="text-align:center; margin: 24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3D1nhdtb00955&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
 
