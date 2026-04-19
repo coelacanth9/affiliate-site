@@ -1,5 +1,5 @@
 +++
-date = "2026-04-05T12:54:06+09:00"
+date = "2026-04-20T08:07:21+09:00"
 release_date = "2026-03-31"
 draft = false
 title = "甘色テンプテーション【FANZA限定特典付き】"
@@ -55,11 +55,11 @@ review_average = "4.75"
 tags = []
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6257363%2Fk568agotp12163%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxTBgBeVgYKQkYBC1UPUU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6257363%2Fk568agotp12163%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxTBgBeVgYKQkYBC1UPUU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">エモーショナルな物語性と男の理想（ロマン）いっパイで贈る、稀代のイチャ甘作家・ぽんたろ初コミックス！！<br><br>美人で優しいお隣さんに誘われて…<br>無口でクールな部下が大胆になって…<br>家なしギャルに声を掛けられて…<br><br>加筆修正＆単行本描き下ろしとして各作品のアフターエピソードも収録♪<br><br><br><br>【収録作品】<br><br>・「教えてあげます。」<br>中間管理職になりたて桧山は、巨乳で優秀な新入社員・水無瀬からたびたびミスを指摘され落ち込んでいた。<br>こんなポンコツ上司だから嫌われているのではと不安になっていたある日、偶然同じ居酒屋で水無瀬と遭遇し一緒に飲むことに…！！<br>お酒が苦手なのに何故かハイペース飲む水無瀬は、酔ってその豊満なカラダでグイグイ迫ってきてーー！？<br><br><br>・「貸してやるだけ」<br>いつも通り仕事終わりにコンビニに寄ると、「充電器を貸してほしい」といきなりギャルに頼み込まれてしまう。<br>さらに、家に泊めてほしいとまで言い出す彼女を断るために「ヤらせてくれるなら」と口に出したら、まさかのOKで…？<br><br>・「ピントをずらして」<br>大学の写真サークルに所属する真鍋は、学生フォトコンテストに応募するも落選を繰り返す日々。<br>悩む真鍋のもとに幽霊部員のゆる〜い先輩（巨乳）・星川が部室にやってきて、肩の力を抜くようアドバイスをしてくれたのだがーー。<br><br>・「嘘と本音の交差点」<br>恥ずかしがり屋な可愛い恋人・綾乃とどうにかエッチをしたい俺は、ある日彼女から『催●アプリ』の話を聞く。<br>そのアプリにイタズラでかかったフリをした俺に、綾乃はキスをしてほしいと命令！！<br>幸せな状況に感動していたのもつかの間、彼女の命令はおっぱいを舐めさせたり、フェラをしたりとどんどん過激になっていって！？<br><br>・「純愛テンプテーション」<br>何かと距離が近い生徒・小鳥遊萌香に手を焼いていた。<br>ひょんなことからテストで満点を取ったら小鳥遊の言うことを何でも聞くと約束すると、無謀かと思ったが彼女はなんと満点を獲得！？<br>彼女のお願いは、まさかの「俺とのえっち」で――…。<br><br>・「チェリー＆ネイヴァー」<br>冴えない童貞サラリーマンである俺の隣人・一ノ瀬さんは優しくて美人な巨乳のお姉さんだ。<br>ある日、会社に鍵を忘れて家の前で呆然としていた俺は、一ノ瀬さんの部屋に泊めてもらえることに！<br>飲み進めていくうちに、段々と彼女が近づいてきて…。<br><br>FANZA限定特典として描き下ろしイラストを追加収録！</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6257363%2Fk568agotp12163%2F&af_id=tp1983af-992&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6257363%2Fk568agotp12163%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -72,5 +72,5 @@ tags = []
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6257363%2Fk568agotp12163%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6257363%2Fk568agotp12163%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
