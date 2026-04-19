@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:28+09:00"
+date = "2026-04-20T08:07:37+09:00"
 release_date = "2025-06-26"
 draft = false
 title = "理痴的ヴィーナス【デジタル版限定おまけ付き】"
@@ -55,7 +55,7 @@ tags = ["Fanza"]
 
 <div class="desc-collapsible">《デジタル版限定おまけプロット集付き＆単行本描き下ろしアフターストーリー》<br>クール美女たちがドスケベ本性さらして絶頂♪<br>未体験な個性派シチュとビクビクびしょびしょイキまくり描写が超融合する『COMIC快楽天』作家、ゆりしましろの初単行本！！！！<br><br>★デジタル版限定！！ ここでしか見れないお蔵出しプロット集のおまけ付き！！<br>★単行本描き下ろし！！ 表紙ヒロイン登場の『翻弄！サイキっくす』アフターストーリーを収録！！<br><br>澄ました顔でも中身はドスケベ！<br>快感にヨワヨワなヒロインたちの汁舞う艶姿を詰め込みまくった全8編！<br><br>『翻弄！サイキっくす』『妄想！サイキっくす』<br>偶然手に入れた超能力でえっちなイタズラ！ 同じクラスのエスパー少女にバレちゃったけど……認識改変で怒涛のサイキックセックスバトルへ！<br><br>『初体験カウンセリング』<br>結婚相談所のカウンセラーは元カノだった！？ 初体験で大失敗したトラウマを乗り越え、元サヤへズプズプ挿入レッスン開始♪<br><br>『がんばれカノンちゃん』<br>天才AV女優は超敏感体質！だけど時間停止モノではそれがアダに！？ 絶対にイッてはいけない撮影現場で、スタッフ総出で時間を止めよう！<br><br>『童貞たちの神になる』<br>人気のエロコスプレイヤーの正体は――無職の引きこもり処女！！<br>しかしある日、ファンに筆下ろしを懇願され、脱処女と共に承認欲求が満たされた快感にハマってしまい！？<br><br>『王子様ご乱心』<br>名門女学院で《氷の王子》と呼び慕われる麗人お嬢様。<br>凛とした佇まいとは裏腹に、彼女の一族は性処理用オナペットを飼うことが慣わしだった──<br><br>『Teaching diary』<br>ご主人様を眠らせて悪さをしちゃったメイドさん。<br>しっかり更生するように《性処理担当メイド》としてお仕事に励んでもらいます♪<br><br>『はみだすふたり』<br>パワハラ飲み会のストレスを同期の陰キャ同士で発散しようと思ったのに、えっち寸前で解散なんて！！ ……あんなデカち●ぽ見せられて我慢できるわけがない♪<br><br>〈収録作品〉<br>翻弄！サイキっくす<br>妄想！サイキっくす（描き下ろし）<br>初体験カウンセリング<br>がんばれカノンちゃん<br>童貞たちの神になる<br>王子様ご乱心<br>Teaching diary<br>はみだすふたり</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6150838%2Fb915awnmg03504%2F&af_id=tp1983af-992&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6150838%2Fb915awnmg03504%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -128,9 +128,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg03504/理痴的ヴィーナス【デジタル版限定おまけ付き】/理痴的ヴィーナス【デジタル版限定おまけ付き】_058.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6150838%2Fb915awnmg03504%2F&af_id=tp1983af-993&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6150838%2Fb915awnmg03504%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6150838%2Fb915awnmg03504%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6150838%2Fb915awnmg03504%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
