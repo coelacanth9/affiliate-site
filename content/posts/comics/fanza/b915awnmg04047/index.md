@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:22:15+09:00"
+date = "2026-04-20T08:07:40+09:00"
 release_date = "2026-02-06"
 draft = false
 title = "ギャルすこパコる【デジタル版限定おまけ付き】"
@@ -48,11 +48,11 @@ review_average = "4.90"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6246682%2Fb915awnmg04047%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EADVQNVU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-991&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6246682%2Fb915awnmg04047%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EADVQNVU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">《デジタル版は未収録フルカラー漫画を追加！！ ギャルの艶色おちちに挟まれて……♪ 》<br>ハッピーエロス×むっちむち肉感で描く失楽天のデカパイ重鎮・旅烏！<br>今回は毎度おなじみ魅惑の柔肉に《ギャル要素》も加えたドシコな4冊目♪<br><br>★デジタル版おまけ★<br>未収録作品『クッサ！！！！！！！』（フルカラー/8p）を特別収録！！<br><br>『デッカ！！！！！！！』<br>レスリング部所属の噂のデカチンゴリラ君をペロっと味見！？<br>デカすぎる童貞チ●ポをエロすぎるギャルおっぱいで煽ったら、欲望のまま激しく突かれて……！！<br><br>『めんくい！！』<br>どこに行っても勘違いされてしまう顔面凶器なこわもてカップル（ヒロインはもちろんギャル♪ ）<br>落ち込んだ気分でデートを終わらせたくない！！ 純LOVE交尾でいっぱい射精してスッキリ♪<br><br>『チャラくねぇんかい！！』<br>チャラ男にナンパされたからサクッとヤろうと思ったら全然チャラくない……。<br>ついには、何もなしでひと月が経ち――ココロもカラダももう限界！！ なギャルからのお誘い交尾！！<br><br>他にも、黒ギャル・白ギャル・サバサバ・メンヘラ…etc<br>様々なギャルとでっかいおっぱいが貴方をお出迎え♪<br><br>ガッチリとキャラ描写、コミカルなギャグ描写、そしてばっちりエロ描写♪<br>愛とデカパイ特盛で実用性バツグンの1冊です！！<br><br>〈収録作品〉<br>デッカ！！！！！！！<br>ナッガ！！！！！！！<br>クッサ！！！！！！！（デジタル版限定）<br>めんくい！！<br>としのさ！<br>チャラくねぇんかい！！<br>もういっかい！<br>勝ち筋幼馴染<br>いろめがね</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6246682%2Fb915awnmg04047%2F&af_id=tp1983af-992&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6246682%2Fb915awnmg04047%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -131,9 +131,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg04047/ギャルすこパコる【デジタル版限定おまけ付き】/ギャルすこパコる【デジタル版限定おまけ付き】_064.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6246682%2Fb915awnmg04047%2F&af_id=tp1983af-993&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6246682%2Fb915awnmg04047%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6246682%2Fb915awnmg04047%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6246682%2Fb915awnmg04047%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
