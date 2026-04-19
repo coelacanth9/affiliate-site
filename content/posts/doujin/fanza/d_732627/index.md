@@ -1,5 +1,5 @@
 +++
-date = "2026-04-02T08:21:41+09:00"
+date = "2026-04-20T08:07:45+09:00"
 release_date = "2026-02-23"
 draft = false
 title = "ほめられたい子がいっぱいセックスする本〜おりこうさん総集編〜"
@@ -32,7 +32,7 @@ review_average = "4.17"
 <p><strong>タグ：</strong><a href="/tags/fanza/" style="display:inline-block; padding:2px 10px; margin:2px; background:#f0f0f0; border-radius:3px; font-size:0.9em; text-decoration:none; color:#333;">Fanza</a></p>
 </div>
 
-<div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_732627%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_732627%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
 <div style="margin:8px 0;">
   <img src="https://doujin-assets.dmm.co.jp/digital/comic/d_732627/d_732627jp-001.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
@@ -47,5 +47,6 @@ review_average = "4.17"
   <img src="https://doujin-assets.dmm.co.jp/digital/comic/d_732627/d_732627jp-010.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin: 24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_732627%2F&af_id=tp1983af-990&ch=api" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+{{< fanza-recommend >}}
+<div style="text-align:center; margin: 24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_732627%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
