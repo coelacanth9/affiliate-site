@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:55+09:00"
+date = "2026-04-21T20:01:15+09:00"
 release_date = "2023-08-03"
 draft = false
 title = "フラストレーションガールズ"
@@ -54,11 +54,11 @@ review_average = "4.79"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4355950%2Fb915awnmg02105%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAC1UJV05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4355950%2Fb915awnmg02105%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAC1UJV05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">※※※※※※※※※<br>ワニマガジン社ベストヒット2023<br>2位作品！！<br>※※※※※※※※※<br>≪そのつもり≫で会いにきちゃった――♪<br>溜まりに溜まった美少女たちの性欲がバクハツ！！<br>欲求不満臨界点のヤりたがりヒロイン揃い踏み♪<br><br>「ところで、あの――悠人（ゆうと）……さん？ くん？ おいくつ……でしたっけ……」<br><br>寂しさと性欲を潤すためにマッチングアプリで相手を探す美和子（みわこ）。<br>自分好みの年上の男性を見つけ、ヤル気マンマンに会う約束を取り付けたのだが……やってきたのは自分より年下の可愛い男子。<br>慌ててアプリを確認すると、同じ名前の別人に間違えてメッセージを送ってしまったようだ。<br>自分からお誘いした以上、無下に断ることもできないので試しに1回とカラダを重ねてみたところ……？<br><br>可憐に見えて実は悶々！？ 表紙ヒロインが活躍する「ストライクゾーン」をはじめ、<br>人気アイドルのモヤモヤ解消、キャリアOLのウズウズすっきり、発情ウサギの腰フリアピール……etc<br>普段は想像できないS級美女たちのムラムラ姿を大公開！！<br><br>アイドルだって本当はシたい！！ 悶々とする日々のなか、ADさんと急接近！？ ……「フラストレーション」<br>SEXご無沙汰のOLがイケメン後輩くんに言い寄られ、ついついカラダを許してしまい……「インプレッション」<br>可愛い人妻は好きですか？ お忍び不倫デートで一気にオトナの階段をのぼる……「はじめてのデート」<br>その日に出会ったお店の美女とアフターワンナイト。しかもバニーガール姿で……「プライベートバニー」<br>好きになった相手がまさかの人妻だった！？ 相手は≪アソビの関係≫だと思って付き合ってたみたいだけど……「IN FACT」<br>鉄壁の美女には実は内緒の彼氏がいる。今日もみんなには内緒でお部屋でSEX三昧……「ゼラニウム」<br><br>また、アフターストーリー漫画やラフイラストなどおまけ要素も収録。<br>欲求不満アイドルのその後は……？<br>マッチングアプリで出会ったふたりの結末は――！？<br>是非その目でお確かめください！！<br><br>大注目『COMIC X-EROS』の新エース・さんじゅうろうが超美麗作画で放つ単行本第3弾！<br><br>〈収録作品〉<br>フラストレーション<br>インプレッション<br>ストライクゾーン<br>はじめてのデート<br>プライベートバニー<br>IN FACT<br>ゼラニウム</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4355950%2Fb915awnmg02105%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4355950%2Fb915awnmg02105%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -110,9 +110,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg02105/フラストレーションガールズ/フラストレーションガールズ_037.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4355950%2Fb915awnmg02105%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4355950%2Fb915awnmg02105%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4355950%2Fb915awnmg02105%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4355950%2Fb915awnmg02105%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
