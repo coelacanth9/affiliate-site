@@ -1,5 +1,5 @@
 +++
-date = "2026-04-20T08:07:32+09:00"
+date = "2026-04-21T19:18:59+09:00"
 release_date = "2025-11-05"
 draft = false
 title = "DQ2 Inbreeding of Loto’s Bloodline 旅の道中王女2人と種付け交尾の毎日 魔王が先か、孕ませが先か"
