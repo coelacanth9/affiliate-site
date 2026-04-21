@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:56+09:00"
+date = "2026-04-21T20:01:14+09:00"
 release_date = "2025-12-12"
 draft = false
 title = "したがりデリバリー"
@@ -50,11 +50,11 @@ review_average = "4.68"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6238047%2Fb915awnmg03939%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACl0KW05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6238047%2Fb915awnmg03939%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACl0KW05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">《新規描き下ろし＆超バズ作品『筆おろしデリバリー』含むヒット作7編を収録》<br>美麗で実用性抜群の圧倒的な描写は、発情女子を描かせたらピカイチ！！<br>COMIC快楽天の超エース・さんじゅうろうが魅せる最強作品集！！<br><br>★単行本限定★<br>・『筆おろしデリバリー』描き下ろしおまけ漫画<br>・あとがきページ 描き下ろしおまけ漫画<br>・作品解説<br><br>『筆おろしデリバリー』<br>最近、配達先でよく会う男のコ。<br>とっても良い子で可愛くて、しかもお届け物はアダルトグッズなんて……お●んちん搾り取ってあげたすぎる！<br>お近づきになりたいなんて思ってたら、彼が胸元をチラチラ覗いて勃起している姿を見てムラムラが限界突破！！ 思わず押し倒しちゃって……。<br>「その気持ちいいオモチャより――…びっくりするくらい気持ちいいことしてあげるね…」<br><br>『制服とスーツ』<br>早朝のがらがらの電車、いつも見かける制服姿の女のコに懐かれた。<br>綺麗だからとちょくちょく見ていたことが本人にはしっかりバレていたらしく、「脚とか…そんなに見たいなら見る？」なんてからかわれる始末……。<br>「ね、デートしよっか」<br>そんな彼女に唐突にデートに誘われた。あんな可愛いコが俺なんか誘うわけ……なんて疑いつつも、男だったら期待しちゃうもので……。<br><br>他にも、<br>・失恋でココロもカラダも欲求不満のショートカット美女<br>・今だけは女になっちゃうシンママ<br>・チ●ポにわからせられちゃう自称ドSの強気女子<br>など、性欲に素直になっちゃう美女たちとの濃厚えっちをお届けします♪<br><br>〈収録作品〉<br>制服とスーツ<br>筆おろしデリバリー<br>穴埋めピンチヒッター<br>めすまま<br>お酒、飲めますか？<br>わからせタイトルマッチ！<br>依りどころ<br>いい旅、エロ気分<br>あとがき</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6238047%2Fb915awnmg03939%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6238047%2Fb915awnmg03939%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -131,9 +131,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg03939/したがりデリバリー/したがりデリバリー_062.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6238047%2Fb915awnmg03939%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6238047%2Fb915awnmg03939%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6238047%2Fb915awnmg03939%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6238047%2Fb915awnmg03939%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
