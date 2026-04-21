@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:50+09:00"
+date = "2026-04-21T20:01:25+09:00"
 release_date = "2025-01-10"
 draft = false
 title = "女体を引き寄せ力任せに挿し込む！ 超速連続腰振りでイカせまくるガトリング激ピストン！100本番！8時間BEST！ 尻肉にめり込む-5cm密着の超振動！"
@@ -30,7 +30,7 @@ tags = ["Fanza"]
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;"><iframe style="position:absolute; top:0; left:0; width:100%; height:100%;" src="https://www.dmm.co.jp/litevideo/-/part/=/cid=idbd00950/size=720_480/affi_id=tp1983af-002/" scrolling="no" frameborder="0" allowfullscreen></iframe></div>
 
-<div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Didbd00950&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
+<div style="text-align:center; margin: 12px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Didbd00950&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
 
 <div style="margin:8px 0;">
   <img src="https://pics.dmm.co.jp/digital/video/idbd00950/idbd00950jp-1.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
@@ -48,5 +48,5 @@ tags = ["Fanza"]
 </div>
 
 {{< fanza-movies-recommend >}}
-<div style="text-align:center; margin: 24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Didbd00950&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
+<div style="text-align:center; margin: 24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Didbd00950&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入・視聴する →</a></div>
 
