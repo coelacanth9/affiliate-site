@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:56+09:00"
+date = "2026-04-21T20:01:14+09:00"
 release_date = "2023-12-07"
 draft = false
 title = "ハジメテホリック"
@@ -45,11 +45,11 @@ review_average = "4.20"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4416624%2Fb915awnmg02254%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAC1YMVk5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4416624%2Fb915awnmg02254%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAC1YMVk5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">『COMIC快楽天ビースト』の生え抜き作家・仲町まちの初単行本！<br>キュンときてビンッとなる珠玉の性描写全7篇に加え、描き下ろし作品を収録！！<br><br>「責任取ってください……っ」<br><br>中途採用の泉（いずみ）さんは、とても優秀だけどいつもクールな女性社員。<br>彼女の笑っているところを見たことがない上司の松下（まつした）は、帰りに寄ったラーメン屋でバッタリ出くわしてしまう。<br>髪をかきあげる仕草や上気している頬、なによりも美味しそうに笑顔で食べている姿に見惚れてしまって……。<br><br>生意気な部下は意外とむっつり？<br>クーデレ後輩のツンツン＆おねだりセックスを描いた「ナマイキ部下は発情マシマシ」をはじめ、発情ボディまんまんのミダレ＆蕩けの極上濡れ場が満載！！<br><br>みんなの憧れ！清楚な先輩はおち○ちん好き！？……「先輩の好きなもの」<br>慕われ先輩は後輩JDとお風呂場で…………「溢れちゃう」<br>イケメン幼馴染×愛嬌◎な半熟ボディの極甘初体験……「幼馴染だもん！」<br>深夜のコンビニに痴女襲来！……「願望」<br>メイド喫茶の秘密の裏オプ……「奪ってあげる！」<br>遠距離恋愛カップルが初同棲で一日中！……「同棲一日目」<br>裸エプロンでお出迎え♪……描き下ろし「同棲100日目」<br><br>高い画力とヌキ重視のドエロアングル！<br>ハジメテ同士の瑞々しさや肉感マシマシ汁ダクダクの貪り愛など、実用性抜群の王道エロスが盛り沢山な作品集です！！<br><br>〈収録作品〉<br>ナマイキ部下は発情マシマシ<br>先輩の好きなもの<br>溢れちゃう<br>幼馴染だもん！<br>願望<br>奪ってあげる！<br>同棲一日目<br>同棲100日目（描き下ろし）</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4416624%2Fb915awnmg02254%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4416624%2Fb915awnmg02254%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -97,9 +97,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg02254/ハジメテホリック/ハジメテホリック_033.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4416624%2Fb915awnmg02254%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4416624%2Fb915awnmg02254%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4416624%2Fb915awnmg02254%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4416624%2Fb915awnmg02254%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
