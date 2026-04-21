@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:55+09:00"
+date = "2026-04-21T20:01:16+09:00"
 release_date = "2025-12-05"
 draft = false
 title = "メイド教育。ー没落貴族 瑠璃川椿ー（単行本）【デジタル特装版】【FANZA限定版】"
@@ -33,7 +33,7 @@ tags = ["悔しイキ", "屈辱イキ", "睨みイキ", "怒りイキ", "Fanza"]
 
 <div class="desc-collapsible">【シリーズ累計DL数100万OVER！！ 大人気同人シリーズが待望のコミックス化！】<br><br>麗しの令嬢は『メイド』へと生まれ変わるー。<br>唯一無二のトロ顔アクメの帝王・きょくちょが描く『純愛』ではない新たな『新境地』。<br>屈辱的なプレイの連続…嗜虐心煽るヒロインの痴態…ハード×変態教育という新たなテーマで<br>フェチズムをたっぷりと詰めたエロスがここに…！！<br><br>名門貴族『瑠璃川』家は没落した…。その娘で絶世の美女である元・貴族の『瑠璃川 椿』は、絶大な権力を持つ大貴族『ポイマン』に拾われ新たな人生を歩むこととなる…。しかしそれは彼専属の『メイド』としてだった…！ 逆らうことが許されぬ状況の中、ご主人様の変態的な『教育』により、無垢な身体と心を開発され、望まぬ無慈悲な絶頂を刻み込まれていく…。<br><br>本作は第1話〜第7話までを完全収録っ！！ さらにこの単行本だけで読めちゃう第1話の続編である1.01話も収録し、この一冊で瑠璃川椿の物語が堪能できる豪華仕様となっているぞ！ 美麗作画で描かれるヒロインの痴態を絶対に見逃すな！！<br><br>さらにデジタル特装版には、『メイド教育。ー没落貴族 瑠璃川椿ー』1〜7作＋総集編の表紙イラストや、アニメのパッケージで使用されたイラストなど、いろいろな『瑠璃川 椿』の姿をどーーんと収録っ♪ 息を呑む美麗イラストをその目でご堪能ください！！<br><br>★無料サンプルで1話まるごと試し読み公開中★<br><br>＜収録作品＞<br>メイド教育。ー没落貴族 瑠璃川椿ー1〜7話<br>メイド教育。ー没落貴族 瑠璃川椿ー1.01話<br>メイド教育。1〜7、総集編、表紙イラスト<br>アニメパッケージ及び特典イラスト<br>（イラスト合計:14点）</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6234711%2Fb472abnen03677%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6234711%2Fb472abnen03677%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -86,9 +86,9 @@ tags = ["悔しイキ", "屈辱イキ", "睨みイキ", "怒りイキ", "Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b472abnen03677/メイド教育。ー没落貴族 瑠璃川椿ー（単行本）【デジタル特装版】【FANZA限定版】/メイド教育。ー没落貴族 瑠璃川椿ー（単行本）【デジタル特装版】【FANZA限定版】_033.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6234711%2Fb472abnen03677%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6234711%2Fb472abnen03677%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6234711%2Fb472abnen03677%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6234711%2Fb472abnen03677%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
