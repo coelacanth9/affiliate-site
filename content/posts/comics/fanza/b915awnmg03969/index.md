@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:55+09:00"
+date = "2026-04-21T20:01:15+09:00"
 release_date = "2026-01-01"
 draft = false
 title = "しちゃおっか？【デジタル版限定おまけ付き】"
@@ -52,11 +52,11 @@ review_average = "4.00"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240684%2Fb915awnmg03969%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACl0PW05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240684%2Fb915awnmg03969%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACl0PW05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">《デジタル版限定おまけ！！ 人気作『トロピカルな残滓』の後日談を収録♪ 》<br>若く瑞々しい肢体も、熟れて柔らかな豊満も……《肉感描写の匠》によって画面から飛び出る臨場感に♪<br>純エロスで王道を征く『COMIC 失楽天』の大看板・utu！！ 末広がりでハッピーでシコれるオメデタ8冊目が爆誕！！！！<br><br>★デジタル版限定おまけ★<br>後日談『トロピカルな残滓 あふた〜』を巻末に収録！！<br>浜辺での偶然の出会いのあと、結ばれたふたりのイチャラブ初ナマえっち♪<br><br>『哀しき兄のセレナーデ』<br>浪人生の翔太の家に妹の友達が泊まりに来た。<br>以前は地味だったしずくちゃんが、露出派手目のギャルになっていてびっくり。<br>その日の夜、寝付けないというしずくちゃんを部屋に招き入れると大胆にも迫ってきて…….。<br>「…わたしならいいですよ？ 翔太（しょうた）さんがいい…なら」<br><br>『トロピカルな残滓』<br>過酷な労働に疲れ切って教師を辞めた桑田（くわた）は、働いている時には来れなかった夏の海へ来ていた。<br>しかし完全アウェイな雰囲気に心折れ、浜辺の端で読書をしていたら……色々立派な金髪巨乳ギャルになった元教え子の甘木（あまぎ）とまさかの再会！？<br>「人生お疲れモードみたいだし、特別にアタシが慰めてあげよっか？」<br>なんて言い出した甘木がキスをしてきて！？<br><br>他にも、両手に余りまくるむっちむちで柔らかな女体を存分に楽しめる作品ばかり！！<br>王道かつ変幻自在のエロアプローチで実用性バツグンな1冊です♪<br><br><br>『ドツボな性』……めちゃくちゃエロいセフレと献身的なカノジョ。二者択一の時が来て！？<br>『Kiss飲みニケーション』……泥●した女上司がキス魔に変身！？<br>『桔梗のキモチ』……愛のない結婚生活。自由を求めて、純朴そうな年下男子を誘い――<br>『オトナの階段』……周りの友達は経験済み。悩める年頃のオトメが流されるまま初体験！？<br>『ムテキなオコタ』……妹みたいに思っていたコも、いつの間にかおっきく育っていて♪<br><br>〈収録作品〉<br>哀しき兄のセレナーデ<br>トロピカルな残滓<br>ドツボな性<br>Kiss飲みニケーション<br>桔梗のキモチ<br>オトナの階段<br>ムテキなオコタ<br>トロピカルな残滓 あふた〜（デジタル版限定おまけ）</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240684%2Fb915awnmg03969%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240684%2Fb915awnmg03969%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -141,9 +141,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg03969/しちゃおっか？【デジタル版限定おまけ付き】/しちゃおっか？【デジタル版限定おまけ付き】_058.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240684%2Fb915awnmg03969%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240684%2Fb915awnmg03969%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240684%2Fb915awnmg03969%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6240684%2Fb915awnmg03969%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
