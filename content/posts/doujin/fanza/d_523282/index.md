@@ -1,5 +1,5 @@
 +++
-date = "2026-04-20T08:07:21+09:00"
+date = "2026-04-21T19:19:04+09:00"
 release_date = "2025-02-08"
 draft = false
 title = "莉波さん Live2D Animation"
