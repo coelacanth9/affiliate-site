@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:19:04+09:00"
+date = "2026-04-21T20:01:01+09:00"
 release_date = "2025-02-07"
 draft = false
 title = "ご懐妊2【デジタル特装版】【FANZA限定版】"
@@ -39,11 +39,11 @@ review_average = "4.40"
 tags = []
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4295535%2Fb472abnen03037%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaBwFUVgMLU1gAClQKVU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4295535%2Fb472abnen03037%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaBwFUVgMLU1gAClQKVU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">【みなさんたいへんよく孕（で）きましたっ♪】<br><br>胸キュン率100％！ 着床率120％！？<br>妊娠検査薬ENDでおなじみのそら豆さんが贈る、ハッピー孕ませオンリーの4thコミックスが登場！ 爆発的大ヒットを巻き起こしたあの『ご懐妊』がもっとえっちになって帰ってきたっ！！<br><br>生意気姪っコに煽られてトコトンしちゃう種づけえっちやウブなお嬢様をホテルに連れ込み騎乗位セックス、妊娠しにくいエルフと三日三晩ぶっ続けでスる夜の営みなどなど…どんなコでも、どんな場所でも、どんな関係でも！ 終わりよければすべてヨシ！？ 幸せいっぱい妊娠エンドがたっぷり9作品収録！<br><br>これさえ読めば少子化解消…！？<br>大好きだから身籠りたいっ中出し懇願ヒロイン達のえちえちなおめでた報告をお見逃しなくっ！<br><br>さらにデジタル特装版には、単行本未収録の『エルフを幸せにする方法2』をたっぷり10P収録っ♪<br>話題作『エルフを幸せにする方法 』の待望の続編です！ ますます過激にヒートアップするエルフ妻との孕ませライフをご堪能あれ☆<br><br>★無料サンプルで1話まるごと試し読み公開中★<br><br>＜収録作品＞<br>箱入りお嬢様の初体験<br>きもちぃ後輩指導<br>ヤっちゃう？玉の輿<br>くまさんと子うさぎちゃん<br>ちっちゃくても好きピ<br>お外で恋キャン<br>REC<br>高速バスにノッてます♪<br>エルフを幸せにする方法<br>エルフを幸せにする方法2</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4295535%2Fb472abnen03037%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4295535%2Fb472abnen03037%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -56,5 +56,5 @@ tags = []
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4295535%2Fb472abnen03037%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4295535%2Fb472abnen03037%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
