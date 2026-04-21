@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:56+09:00"
+date = "2026-04-21T20:01:13+09:00"
 release_date = "2025-06-10"
 draft = false
 title = "ここは淫らな異世界です。"
@@ -37,7 +37,7 @@ tags = ["Fanza"]
 
 <div class="desc-collapsible">『異世快楽天』で絶賛活躍中！<br>超イチャ甘と鬼ハードアクメの二刀流作家・ミャモの初単行本がついに誕生！！！！！<br>王道の中にエロかわ個性を一つまみ、幅広い異世界エロスをお楽しみください♪<br><br>超美麗作画と王道を征くキャラデザインのセンスは唯一無二！<br>第19回エロマンガグランプリ（仮）にて奨励賞を受賞した実力派作家が贈る珠玉の作品集♪<br>さらに！ デビュー作『魔女のヒミツ』のその後を描いた、描き下ろしマンガ10Pも収録！！<br><br>キュートな女のコで！ 異世界モノで！ ヌきたい貴方には超オススメの『異世界楽天』印の自信作です♪<br><br>〈収録作品〉<br>『こうふくのススメ』<br>国と民のために自らの身体を魔物に捧げる高潔な女騎士！！ 絶対に《堕ちない》と心に誓うが……。<br><br>『チェンジイン！』<br>異世界転生したらまさかのサキュバス！？ 一緒に転生した同級生男子も、やがて理性の限界を迎えて♪<br><br>『反転』<br>人間軍のエリート尋問官は魔物のスパイ！ ある日疑いを掛けられ、えっちな尋問を耐える側になってしまい……。<br><br>『はっぴーみるくらいふ』<br>お乳の出が悪くなった牛娘。治療にはSEXが良いと聞き、優しい酪農家のおじさんと搾乳トレーニング開始！<br><br>『魔女のヒミツ』『魔女のヒミツ-after-（描き下ろし）』<br>普通のオナニーでは満足できない性欲が強い魔女さん。偶然見つけた触手の幼体でちょっとだけ遊んでみることに……。</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6136552%2Fb915awnmg03448%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6136552%2Fb915awnmg03448%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -96,9 +96,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg03448/ここは淫らな異世界です。/ここは淫らな異世界です。_044.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6136552%2Fb915awnmg03448%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6136552%2Fb915awnmg03448%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6136552%2Fb915awnmg03448%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6136552%2Fb915awnmg03448%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
