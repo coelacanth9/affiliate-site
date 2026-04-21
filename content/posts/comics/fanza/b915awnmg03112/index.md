@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:56+09:00"
+date = "2026-04-21T20:01:14+09:00"
 release_date = "2025-01-20"
 draft = false
 title = "魅悪ちる先生の誘惑【デジタル版限定おまけ付き】"
@@ -43,11 +43,11 @@ review_average = "4.71"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6057322%2Fb915awnmg03112%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAClUIUE5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6057322%2Fb915awnmg03112%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAClUIUE5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">「こんな地雷なら踏んでみたい」「ヤバい女なのに応援しちゃう」「好（ハオ）」等、絶賛の声（？）多数！<br>地雷系ファッション＆ぴえん系メンタルだけど、チョロくないしユルくもない……<br>えっち系まんが家・魅悪ちる先生がまっすぐなラブを貫く表題作『魅悪ちる先生の暴走』ほか、全8編の人気作を大幅加筆修正で収録♪♪<br><br>デジタル版は初期設定資料集のおまけ付き！！<br><br>〈魅悪ちる先生シリーズ〉<br>『魅悪ちる先生の暴走』<br>「私の一途さ…ナメないでください…」<br>新人エロマンガ家・魅悪（みあく）ちる先生の好きピは担当編集の南（みなみ）さん♪<br>手を出して欲しくてあの手この手でお誘いするけど、仕事相手に手を出さない感じのガードキツキツのカタブツ男……。<br>手段を選んでいられなくなったちる先生は、取材を大義名分にラブホ同行を約束させて強引な勝負に出る！！<br><br>『魅悪ちる先生の逆境』<br>大好きな南さんの職場にて、美人でシゴデキ、しかも巨乳の女編集・瀬名（せな）さんの存在を知るちる先生。<br>なんだかエロいし……オトナだし……南さんと距離近いし！！<br>ちる先生大ピンチのシリーズ第2話。<br><br>『瀬名さんは満たされたい』<br>えっちな漫画誌の編集長・瀬名さんは仕事でも趣味でもイマイチ満たされない。<br>ある日、可愛がっていた地元の後輩から飲みのお誘いが。<br>学生時代からの想いを告白され、まんざらでもない瀬名さん。<br>いつもと違う夜が幕を開ける…♪<br><br>〈その他収録作品〉<br>超お嬢様学校に無理して通う普通の女の子。彼女の秘密は……『星乃エリはギリギリ』<br>好きな人に告白したら家に招かれ…紹介されたのはセフレ幼なじみ！？ ……『おともだち』<br>学生のヤリ部屋にされているアトリエで、真面目なふたりが変な空気に……『アトリエ』<br>浴衣姿のカノジョとお祭りデート♪ 野外乱交現場を目撃してしまい……『火照り合い』<br>人生詰みかけた男が山奥で出会ったのは、エロすぎる格好の美少女精霊！？ ……『秘湯』</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6057322%2Fb915awnmg03112%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6057322%2Fb915awnmg03112%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -88,9 +88,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg03112/魅悪ちる先生の暴走【無料おためし版】/魅悪ちる先生の暴走【無料おためし版】_026.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6057322%2Fb915awnmg03112%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6057322%2Fb915awnmg03112%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6057322%2Fb915awnmg03112%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6057322%2Fb915awnmg03112%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
