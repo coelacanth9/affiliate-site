@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:56+09:00"
+date = "2026-04-21T20:01:13+09:00"
 release_date = "2024-11-13"
 draft = false
 title = "なんだかんだ言いながら"
@@ -42,7 +42,7 @@ tags = ["Fanza"]
 
 <div class="desc-collapsible">嫌々？ 素直じゃない？？ だからカワイイ！！！！！！！<br>エロマンガグランプリ（仮）受賞者！！<br>『COMIC快楽天』作家・ヤギコム、待望の初単行本！！<br><br>カフェでバイトをしている亮平（りょうへい）はある日の仕事中、利き手に怪我を負ってしまう。<br>このままでは日常生活に支障が出てしまう……。<br>困った亮平が好意を寄せるバイト先の先輩・香椎（かしい）にご飯を作って欲しいとお願いすると、渋々ながら家へ来てくれることに♪<br>他に何か困り事はないかと心配する香椎先輩へ《ち●ちんをしごいて欲しい》と最低なお願いをする亮平。<br>当然ドン引きされるが……亮平は彼女の顔へち●ちんを押し付ける荒業に出る！！<br>亮平は理解していた――香椎先輩が押しに弱いことを！！！！<br><br>実は押しに弱い先輩女子を押して押してハメまくる『何だかんだいいながら』をはじめ、恥ずかしがりながらトロトロに溶かされちゃうチョロかわキュートな全8本ぎゅぎゅっと収録！！<br><br>職場の巨乳後輩女子に手玉に取られ、生マンに完敗♪ ……『運の尽き？』<br>欲望に正直なイトコのお姉ちゃんに貪られ……『ガマンできるカナ？』<br>落ち込んでいる同僚の願いは《足コキ》……『調子コかせてリオ先輩』<br>マジシャンとバニーガールの勝負！！ カラダが熱くなってきて♪ ……『かかるかどうか』<br>巨乳同級生の不正を目撃！！ 口止めに誘われ種付けSEX……『それでも君には』<br>険悪な元カップル。互いのキモチとカラダを晒して……『小牧は言いたいことがある』<br>未払い家賃を踏み倒せ！！ 大家をカラダで籠絡するはずが！？ ……『モモノキ荘の住人』<br><br>〈収録作品〉<br>なんだかんだ言いながら<br>運の尽き？<br>ガマンできるカナ？<br>調子コかせてリオ先輩<br>かかるかどうか<br>それでも君には<br>小牧は言いたいことがある<br>モモノキ荘の住人</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6015224%2Fb915awnmg02918%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6015224%2Fb915awnmg02918%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -121,9 +121,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg02918/なんだかんだ言いながら/なんだかんだ言いながら_064.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6015224%2Fb915awnmg02918%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6015224%2Fb915awnmg02918%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6015224%2Fb915awnmg02918%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6015224%2Fb915awnmg02918%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
