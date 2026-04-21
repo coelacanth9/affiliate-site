@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:56+09:00"
+date = "2026-04-21T20:01:14+09:00"
 release_date = "2025-10-10"
 draft = false
 title = "理緒ちゃんとおまじないの悪魔2"
@@ -13,7 +13,7 @@ tags = ["Fanza"]
 
 <div class="desc-collapsible">●●●●の間で噂になっているおまじない。それは悪魔を呼び出すもの。願いを叶えることもしない。魂を要求することも。その悪魔ができることは、ひとつだけ――●●でめちゃくちゃにすること。好奇心からおまじないをしてしまった譲（ゆずる）は悪魔を呼び出してしまう。気さくな人柄に心を許すが、●●の本性を現した彼が求めるのは譲の●●で…。※本作は同人誌『マヨナカ侵略者』シリーズの電子書籍版です。</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4513182%2Fs540awujz01555%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4513182%2Fs540awujz01555%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -33,9 +33,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-s540awujz01555/理緒ちゃんとおまじないの悪魔2/理緒ちゃんとおまじないの悪魔2_005.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4513182%2Fs540awujz01555%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4513182%2Fs540awujz01555%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4513182%2Fs540awujz01555%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4513182%2Fs540awujz01555%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
