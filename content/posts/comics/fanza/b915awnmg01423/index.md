@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:56+09:00"
+date = "2026-04-21T20:01:14+09:00"
 release_date = "2021-09-03"
 draft = false
 title = "ひみつのつぼみ 【デジタル特装版】"
@@ -70,11 +70,11 @@ review_average = "4.71"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4112064%2Fb915awnmg01423%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACFALUU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4112064%2Fb915awnmg01423%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACFALUU5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">※※※※※※※※※<br>ワニマガジン社ベストヒット2021<br>入賞作品！！<br>※※※※※※※※※<br>「お前達は本当の兄妹じゃない」<br>親から告げられた驚愕の事実。密かに想いあっていた二人は……？<br>義兄妹×純愛が魅せる感情剥き出しSEXラブストーリー。<br><br>実用性もさることながら惹きつけるストーリー性で人気を博す、作家・えーすけ。<br>今作は、選りすぐりの和姦作品を集めた単行本の第4弾。<br>『COMIC快楽天』『WEEKLY快楽天』『COMIC X-EROS』に掲載された作品を収録。<br><br>▼女先輩×男後輩▼<br>「VELVET CLOVER」<br>飄々としている眼鏡美人な先輩が涙目で膣内射精おねだり！？ 放課後イチャラブ初体験。<br>「陶酔〜gravity〜」<br>甘やかし上手な女先輩が今夜はガチモード。ホテルに誘い見下ろし騎乗位で主導権を握るつもりが……。<br><br>▼年下ヒロイン▼<br>「つづれおり」<br>血の繋がらない兄妹がひとつ屋根の下で禁断の愛を交わす。誰にもバレないように……だけど本気のナマ交尾。<br>「鎖の園」<br>眼鏡クールなドS優等生がドM教師を射精管理！！ 貞操帯に言葉攻め……カラダを縛られ彼女のオモチャにされる。<br><br>▼異世界・特殊能力▼<br>「褐色エルフ（JK）となぜか同棲してます」<br>セーラー服がよく似合う褐色エルフJKとハメハメ同棲性活。チョロくてMなヒロインにラブラブ密着膣内射精。<br>「おしごとですもの！」<br>仕事への意識は高いものの演技が大根なAV女優が、五円玉を使った認識改変で男優にガチ恋してしまう！？ 本気SEXでガチ絶頂！！<br><br>秘めた想いがぶつかり合う本気の性行為作品集！！<br><br>※デジタル特装版には、モノクロ1作＋カラー2作のスペシャルおまけ漫画が付いてくる！！<br><br>▼デジタル特装版特典▼<br>「鎖の園〜After Story〜」<br>SNSのみで限定公開した特別漫画。ヒミツの主従関係を築いた二人のその後は……？<br><br>「つづれおり1.5【フルカラー版】」<br>美麗カラーで描く兄妹のパコりまくりなイケない日常。<br><br>「DOLLS〜After Story〜【フルカラー版】」<br>著者渾身のネトラセ3rdコミックスより、禁断の浮気SEXがフルカラーで蘇る！！<br><br>〈収録作品〉<br>■VELVET CLOVER<br>■陶酔〜gravity〜<br>■つづれおり<br>■つづれおり2<br>■つづれおり1.5<br>■鎖の園<br>■褐色エルフ（JK）となぜか同棲してます<br>■おしごとですもの！ 前編<br>■おしごとですもの！ 後編<br>■鎖の園〜After Story〜<br>■つづれおり1.5【フルカラー版】<br>■DOLLS〜After Story〜【フルカラー版】</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4112064%2Fb915awnmg01423%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4112064%2Fb915awnmg01423%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -122,9 +122,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg01423/ひみつのつぼみ 【デジタル特装版】/ひみつのつぼみ 【デジタル特装版】_033.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4112064%2Fb915awnmg01423%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4112064%2Fb915awnmg01423%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4112064%2Fb915awnmg01423%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4112064%2Fb915awnmg01423%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
