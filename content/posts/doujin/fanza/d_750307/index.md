@@ -1,5 +1,5 @@
 +++
-date = "2026-04-20T22:12:54+09:00"
+date = "2026-04-21T19:18:50+09:00"
 release_date = "2026-04-09"
 draft = false
 title = "愛嬢学園魔神バイブロス6 レイナと森の姫 後編 -戦姫戮辱魔孕譚- -神の孕ませ悪魔の右手- 〜極☆動！premiumGOLD〜"
@@ -98,8 +98,6 @@ series = "魔神バイブロス"
   <img src="https://doujin-assets.dmm.co.jp/digital/cg/d_750307/d_750307jp-009.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
   <img src="https://doujin-assets.dmm.co.jp/digital/cg/d_750307/d_750307jp-010.jpg" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
-
-<div style="margin:0;padding:5px;font-size:14px;word-break: break-all;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_750307%2F&af_id=tp1983af-002&ch=toolbar&ch_id=package_text_large" rel="sponsored"><img src="https://doujin-assets.dmm.co.jp/digital/cg/d_750307/d_750307pl.jpg" alt="愛嬢学園魔神バイブロス6 レイナと森の姫 後編 -戦姫戮辱魔孕譚- -神の孕ませ悪魔の右手- 〜極☆動！premiumGOLD〜"/><span style="display:block;margin:5px 0 0 0;padding:0;text-align:left;">愛嬢学園魔神バイブロス6 レイナと森の姫 後編 -戦姫戮辱魔孕譚- -神の孕ませ悪魔の右手- 〜極☆動！premiumGOLD〜</span></a></div>
 
 {{< fanza-recommend >}}
 <div style="text-align:center; margin: 24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdc%2Fdoujin%2F-%2Fdetail%2F%3D%2Fcid%3Dd_750307%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding: 12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
