@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:56+09:00"
+date = "2026-04-21T20:01:12+09:00"
 release_date = "2025-09-10"
 draft = false
 title = "まさぐられッ娘【デジタル版限定おまけ付き】"
@@ -47,7 +47,7 @@ tags = ["Fanza"]
 
 <div class="desc-collapsible">《デジタル限定おまけ！！ お蔵出し・漫画下書きを特別収録♪ 》<br>感じすぎちゃう敏感ヒロインを《イジリ放題》！！《ナメ放題》！！！！<br>圧倒的な肉感と汁描写満載！！ 実力派作家・さじぺんのワニマガジン4th単行本！！<br><br>★デジタル版限定おまけ★<br>ド迫力交尾のメイキングをのぞき見♪ 『気になる躰（あいつ）』の下書きを収録！！<br><br>★単行本描き下ろしおまけ★<br>ここでしか見れない！？ 超敏感ヒロインたちの大興奮《まるだし》イラスト♪<br><br>ヤラれちゃうのにラストはハッピー！？<br>絶妙な甘口バランスで濃厚過激プレイをこれでもかと描き尽くす！！<br>唯一無二のさじぺんワールド絶好調♪<br><br>『気になる躰（あいつ）』<br>乳デカ義理ねえちゃんと…♪<br>お互い育ち過ぎてしまったカラダを意識し始めたらもうトマラナイ……！！<br><br>『シングルマザーは甘えたい』『シングルマザーだって甘えたい』<br>ごぶさた金髪シングルマザーと…♪<br>子供の担任教師と母親の関係だけど、酔って油断してそのまま流れで……！！<br><br>他にも…<br>ノーと言えないパシリちゃんや、独りなぐさめお隣さんとも…♪<br>カラダの快楽から始まる二人だけど、そのままでは終わらずに……！<br>読後感のキモチ良さと、ヌキ心地の良さをダブルで楽しめちゃう一冊です！！<br><br>〈収録作品〉<br>気になる躰（あいつ）<br>シングルマザーは甘えたい<br>シングルマザーだって甘えたい<br>パシリちゃんにお願い<br>Estrus.ing<br>Estrus<br>デジタル限定おまけ 『気になる躰（あいつ）』下書き</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199015%2Fb915awnmg03695%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199015%2Fb915awnmg03695%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -106,9 +106,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg03695/まさぐられッ娘【デジタル版限定おまけ付き】/まさぐられッ娘【デジタル版限定おまけ付き】_044.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199015%2Fb915awnmg03695%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199015%2Fb915awnmg03695%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199015%2Fb915awnmg03695%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F6199015%2Fb915awnmg03695%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
