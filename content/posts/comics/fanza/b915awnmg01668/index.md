@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:19:01+09:00"
+date = "2026-04-21T20:01:06+09:00"
 release_date = "2022-06-18"
 draft = false
 title = "OVER！！"
@@ -54,11 +54,11 @@ review_average = "4.30"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4191093%2Fb915awnmg01668%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACFIPWk5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4191093%2Fb915awnmg01668%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EACFIPWk5EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">※※※※※※※※※<br>ワニマガジン社ベストヒット2022<br>入賞作品！！<br>※※※※※※※※※<br>カップル色々、エッチも様々♪<br>ギャルの幼馴染に、親友のお姉さん。双子の妹に、淫乱宇宙人も……！？<br>とことんイチャイチャ、正統派王道えっち漫画の真髄がここに！！<br><br>『COMIC快楽天』の表紙を彩る人気作家・Hamaoの単行本第6弾！！<br>今作は、一枚うわてなヒロインたちが淫らに魅せます！！<br><br>「童貞卒業おめでとうございます、センパイ……」<br><br>出会った時から、からかってくる会社の後輩・彼方乙女（かなたおとめ）。<br>彼女になってからも昼夜ともに主導権は握られっぱなしで、初体験に至っては「可愛い」なんて言われながら筆おろしされてしまった。<br>車の中で手コキされたり、AVの内容を真似て会社内で制服えっちしたり……。<br>乙女の’こういうこと’に慣れている様子が、元カレとの情事を想起してしまい、少々嫉妬してしまって……？<br><br>経験豊富なナマイキ新人×童貞先輩のオフィスラブストーリー「Over」を筆頭に、彼氏持ちの幼馴染との純情な浮気SEXを描いた「かわいいひと」、一見クールな彼女のトロけ顔が尊すぎる「look like」などなど。<br>ウブな想いに、心も股間も躍動してしまう作品が勢ぞろい！！<br><br>また、親友のお姉さんとの隠姦を描いた作品や、双子の妹との電マSEXといった誰にも言えない秘密の関係、夫婦・恋人の甘いイチャラブもの、レズ・3P・フタナリの3拍子を兼ねた官能SF作品まで、幅広いシチュエーションをお届け。<br><br>そして前作『ショコラ』から、ヒロイン・ちょこがフルカラーで再登場！！<br>別れを選んだふたりの、気になるその後は……！？<br><br>可愛すぎるショートカットの女のコ大増量！！ 様々な恋模様が味わえる渾身の1冊です。<br><br>〈収録作品〉<br>chocolat de doux<br>Over<br>かわいいひと<br>look like<br>Well come！<br>Prepayment<br>大上さんちの日未子さん<br>Allegro moderato<br>Take care of myself<br>straying<br>アヴェンジャー＜前編＞<br>アヴェンジャー＜後編＞’</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4191093%2Fb915awnmg01668%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4191093%2Fb915awnmg01668%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -112,9 +112,9 @@ tags = ["Fanza"]
   <img src="https://pub-816600682daa4bdfbe47396c3a5bcbd5.r2.dev/fanza-comics-b915awnmg01668/OVER！！/OVER！！_039.webp" style="display:block; max-width:100%; margin-bottom:8px;">
 </div>
 
-<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4191093%2Fb915awnmg01668%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
+<div style="text-align:center; margin:24px 0 8px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4191093%2Fb915awnmg01668%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品の続きを読む →</a></div>
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4191093%2Fb915awnmg01668%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4191093%2Fb915awnmg01668%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
