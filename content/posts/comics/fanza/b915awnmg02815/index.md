@@ -1,5 +1,5 @@
 +++
-date = "2026-04-21T19:18:55+09:00"
+date = "2026-04-21T20:01:16+09:00"
 release_date = "2024-09-18"
 draft = false
 title = "アマイアイマイー完全版ー"
@@ -32,11 +32,11 @@ review_average = "4.72"
 tags = ["Fanza"]
 +++
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4576025%2Fb915awnmg02815%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAC1wIV05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4576025%2Fb915awnmg02815%2Ftachiyomi%2F%3Fcid%3DFRNfXRNVFW1RAQxaCgdTVhYLW1EAC1wIV05EDl0VClQMBllNB1o%2AUFcKWhRHVwVfCBxZW1kEVQ__%26lin%3D1%26sd%3D0&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:10px 28px; background:#e6a800; color:#fff; font-size:1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで立ち読みする →</a></div>
 
 <div class="desc-collapsible">大ヒット単行本『君が好きを分かるまで』に収録された、セフレから始まる恋愛関係！！<br>ホテルで、プールで、無表情の美少女が恋に落ちていく姿を、単行本未収録の後日談も含め、まるっとお届け♪<br><br>◆「アマイアイマイ 前編・後編」 （『君が好きを分かるまで』収録）<br>彼女が欲しい……だってSEXしたいから！！<br>煩悩を胸に合コンへ参加すると、彼氏と別れたばかりのえりと出会った。<br>えりは「ゴム着けてくれれば」えっちをしてくれるみたいで……。<br><br>◆アマイアイマイ アフター （単行本未収録・『COMIC快楽天 2023年02月号』収録）<br>えりとプールへきた谷地（やち）。えりの友達が用意したという水着に欲情してしまい、そのままシャワー室で……。<br><br>◆アマイアイマイ 〜after〜 （単行本未収録・店舗特典冊子収録）<br>えりの友達に囲まれる谷地。谷地の想いは段々とえりに伝わっているようで……。<br><br>＜収録作品＞<br>アマイアイマイ 前編<br>アマイアイマイ 後編<br>アマイアイマイ アフター<br>アマイアイマイ 〜after〜</div>
 
-<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4576025%2Fb915awnmg02815%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
+<div style="text-align:center; margin:12px 0;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4576025%2Fb915awnmg02815%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] この作品を全部読む →</a></div>
 
 <!--more-->
 
@@ -50,5 +50,5 @@ tags = ["Fanza"]
 
 {{< fanza-recommend >}}
 
-<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4576025%2Fb915awnmg02815%2F&af_id=tp1983af-002&ch=toolbar&ch_id=link" target="_blank" rel="nofollow noopener" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
+<div style="text-align:center; margin:8px 0 24px;"><a href="https://al.fanza.co.jp/?lurl=https%3A%2F%2Fbook.dmm.co.jp%2Fproduct%2F4576025%2Fb915awnmg02815%2F&af_id=tp1983af-002&ch=toolbar&ch_id=text" target="_blank" rel="sponsored" style="display:inline-block; padding:12px 32px; background:#e60033; color:#fff; font-size:1.1em; font-weight:bold; border-radius:4px; text-decoration:none;">[PR] FANZAで購入する →</a></div>
 
